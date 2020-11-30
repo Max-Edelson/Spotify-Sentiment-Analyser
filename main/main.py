@@ -36,7 +36,7 @@ firstWeek = allWeekData[0]
 firstWeek[0].append("Week")
 
 # add a week number to each song
-weekCounter = 0
+weekCounter = 1
 for week in allWeekData:
 	for song in week:
 		if song[0] != "Position":
