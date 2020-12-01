@@ -5,7 +5,7 @@ numWeeks = 52
 allWeekData = []
 pathToRawData = "../latest_data/"
 
-# read in data from week1 to weak52
+# read in data from week1 to week52
 for i in range(1, numWeeks + 1):
 	with open(pathToRawData + 'week' + str(i) + '.csv') as csv_file:
 		csv_reader = csv.reader(csv_file, delimiter=',')
