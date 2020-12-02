@@ -36,11 +36,13 @@ firstWeek = allWeekData[0]
 firstWeek[0].append("Week")
 
 # add a week number to each song
+# and delete the url for the song
 weekCounter = 1
 for week in allWeekData:
 	for song in week:
 		if song[0] != "Position":
 			song.append(weekCounter)
+		del song[4]
 			
 	weekCounter += 1
 
