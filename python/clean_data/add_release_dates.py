@@ -81,7 +81,7 @@ def writeData(tempList):
 	exit()
 
 # read in data
-with open(pathToSemiCleanedData2) as csv_file:
+with open(pathToSemiCleanedData2, 'r', encoding='utf8', errors='ignore') as csv_file:
 	csv_reader = csv.reader(csv_file, delimiter=',')
 	tempSongs = []
 	for each in csv_reader:
