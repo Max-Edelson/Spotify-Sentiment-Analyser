@@ -1,11 +1,13 @@
 import csv
+import math
 import time
+import os
 
 start_time = time.time()
 
-pathToRawData = "../data/raw_data/"
-pathToLatestData = "../data/latest_data/"
-pathToCleanedData = "../data/cleaned_data/"
+pathToRawData = "../../data/raw_data/"
+pathToLatestData = "../../data/latest_data/"
+pathToCleanedData = "../../data/cleaned_data/"
 
 # array that will contain arrays of Kaggle song data
 # before removing unnecessary songs
@@ -14,13 +16,21 @@ preCheckedKaggleSongs = []
 # array that will hold all of our top Spotify songs
 spotifySongs = []
 
+fileList = os.listdir('../../data/raw_data')
+fileList.sort()
+del fileList[0]
+
 KAGGLE_SONG_NAME_INDEX_NUMBER = 14
-TOP_SPOTIFY_SONG_NAME_INDEX_NUMBER = 1
 KAGGLE_VALENCE_INDEX = 0
-TOP_SPOTIFY_VALENCE_INDEX = 5
 KAGGLE_ARTIST_INDEX = 3
-TOP_SPOTIFY_ARTIST_INDEX = 2 
 KAGGLE_DATE_INDEX = 1
+TOP_SPOTIFY_SONG_NAME_INDEX_NUMBER = 1
+TOP_SPOTIFY_ARTIST_INDEX = 2 
+SPOTIFY_TOP_WEEK_INDEX = 4
+SPOTIFY_TOP_YEAR_INDEX = 5
+SPOTIFY_TOP_MONTH_INDEX = 6
+SPOTIFY_TOP_DAY_INDEX = 7
+TOP_SPOTIFY_VALENCE_INDEX = 8
 
 # check if the song name has a 'featuring someone
 # section, if it does surrounded by "()", remove it
@@ -106,8 +116,18 @@ with open(pathToLatestData + 'raw_files_combined.csv') as csv_file:
 		song = removeParentheses(TOP_SPOTIFY_SONG_NAME_INDEX_NUMBER, row)
 		tempRow = song
 		spotifySongs.append(tempRow)
-	spotifySongs[0].append("Valence")
-	spotifySongs[0].append("Release Year")
+	spotifySongs[0][0] = ("position")
+	spotifySongs[0][1] = ("track_name")
+	spotifySongs[0][2] = ("artist")
+	spotifySongs[0][3] = ("streams")
+	spotifySongs[0][4] = ("top_week")
+	spotifySongs[0].append("top_year")
+	spotifySongs[0].append("top_month")
+	spotifySongs[0].append("top_first_day")
+	spotifySongs[0].append("valence")
+	spotifySongs[0].append("release_year")
+	spotifySongs[0].append("release_month")
+	spotifySongs[0].append("release_day")
 
 #print(spotifySongs)
 
@@ -137,8 +157,21 @@ for each in spotifySongs:
 		# songs match
 		kaggleValenceValue = preCheckedKaggleSongs[kaggleSongPointer][KAGGLE_VALENCE_INDEX]
 		if kaggleValenceValue != '' and float(kaggleValenceValue) >= 0 and float(kaggleValenceValue) <= 1:
+			# add the top year value
+			currWeek = int(each[SPOTIFY_TOP_WEEK_INDEX])
+			currFile = fileList[currWeek]
+			each.append(currFile[19:23])
+			# add the top month value
+			each.append(currFile[24:26])
+			# add the top first day value
+			each.append(currFile[27:29])
+
 			each.append(kaggleValenceValue)
 			each.append(preCheckedKaggleSongs[kaggleSongPointer][KAGGLE_DATE_INDEX])
+
+			# add in placeholders
+			each.append(0)
+			each.append(0)
 	else:
 #		print(f"Kaggle data set does not contain {spotifySong}")
 		spotifySongs.pop(spotifySongCounter)
@@ -150,7 +183,7 @@ for each in spotifySongs:
 counter = 0
 while counter < len(spotifySongs): 
 	if len(spotifySongs[counter]) < 7:
-		print(f"popping: {each[1]}")
+#		print(f"popping: {each[1]}")
 		spotifySongs.pop(counter)
 		counter = 0
 	else:
@@ -161,10 +194,10 @@ while counter < len(spotifySongs):
 #	print(each)
 
 # writing to a csv file
-with open(pathToCleanedData + 'cleaned_data.csv', mode='w') as raw_files_combined:
+with open(pathToCleanedData + 'semi_cleaned_data.csv', mode='w') as raw_files_combined:
 	file_writer = csv.writer(raw_files_combined, delimiter=',', quotechar='"', quoting=csv.QUOTE_MINIMAL)
 
 	for song in spotifySongs:
 		file_writer.writerow(song)
 
-print("Program took %s seconds to run." % (time.time() - start_time))
+print("Program took %s minutes to run." % ((time.time() - start_time) / 60))
