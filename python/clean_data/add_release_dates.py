@@ -77,6 +77,7 @@ def writeData(tempList):
 
 		for song in tempList:
 			file_writer.writerow(song)
+
 	exit()
 
 # read in data
@@ -129,9 +130,7 @@ with open(pathToSemiCleanedData2, 'r', encoding='utf8', errors='ignore') as csv_
 					tempSongs[tempSongCounter][INDEX_OF_RELEASE_MONTH] = releaseMonth
 					tempSongs[tempSongCounter][INDEX_OF_RELEASE_DAY] = releaseDay
 				tempSongCounter += 1
-
 		else:
 			songList.append(song)
-
 	writeData(tempSongs)
 
