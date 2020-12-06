@@ -93,7 +93,7 @@ with open(pathToSemiCleanedData2, 'r', encoding='utf8', errors='ignore') as csv_
 			# acceptable to include
 			releaseMonth = 0
 			releaseDay = 0
-			if int(song[INDEX_OF_RELEASE_MONTH]) == 0:
+			if int(song[INDEX_OF_RELEASE_MONTH]) == 0 or int(song[INDEX_OF_RELEASE_DAY]) == 0:
 				print("if you would like to save and exit, enter q, otherwise enter anything else")
 				if (input() == 'q'):
 					writeData(tempSongs)
