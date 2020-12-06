@@ -63,13 +63,6 @@ def weekFromDay(day):
 	
 	return week
 
-def getAbsDeltaDays(topY, topM, topD, releasedY, releasedM, releasedD):
-	topDate = date(int(topY), int(topM), int(topD))
-	releasedDate = date(int(releasedY), int(releasedM), int(releasedD))
-	delta = releasedDate - topDate
-	absDelta = abs(delta)
-	return abs(delta.days)
-
 def writeData(tempList):
 	# write out data
 	with open(pathToSemiCleanedData2, mode='w') as raw_files_combined:
@@ -113,12 +106,7 @@ with open(pathToSemiCleanedData2, 'r', encoding='utf8', errors='ignore') as csv_
 					print("That was not a valid day, try again")
 					day = int(input())
 				releaseDay = day
-
-				deltaDays = getAbsDeltaDays(song[INDEX_OF_TOP_YEAR], song[INDEX_OF_TOP_MONTH], song[INDEX_OF_TOP_FIRST_DAY], song[INDEX_OF_RELEASE_YEAR], monthNum, day)
-				if int(deltaDays) > 92:
-					songList.append(song)
 			else:
-				songList.append(song)
 				releaseMonth = song[INDEX_OF_RELEASE_MONTH]
 				releaseDay = song[INDEX_OF_RELEASE_DAY]
 			
@@ -130,7 +118,5 @@ with open(pathToSemiCleanedData2, 'r', encoding='utf8', errors='ignore') as csv_
 					tempSongs[tempSongCounter][INDEX_OF_RELEASE_MONTH] = releaseMonth
 					tempSongs[tempSongCounter][INDEX_OF_RELEASE_DAY] = releaseDay
 				tempSongCounter += 1
-		else:
-			songList.append(song)
 	writeData(tempSongs)
 
