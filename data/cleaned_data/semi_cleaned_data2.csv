@@ -119,7 +119,7 @@ position,track_name,artist,streams,top_week,top_year,top_month,top_first_day,val
 131,Stay,Zedd,1587562,1,2017,12,29,0.544,2017,2,23
 132,I Like Me Better,Lauv,1579044,1,2017,12,29,0.419,2018,5,19
 135,No Role Modelz,J. Cole,1551632,1,2017,12,29,0.463,2014,0,0
-136,Corazón,Maluma,1551370,1,2017,12,29,0.748,2018,11,3
+136,Corazn,Maluma,1551370,1,2017,12,29,0.748,2018,11,3
 137,La Modelo,Ozuna,1541713,1,2017,12,29,0.769,2018,12,22
 138,Starboy,The Weeknd,1537914,1,2017,12,29,0.486,2016,0,0
 139,T-Shirt,Migos,1537577,1,2017,12,29,0.486,2017,2,14
@@ -136,16 +136,16 @@ position,track_name,artist,streams,top_week,top_year,top_month,top_first_day,val
 150,Motorcycle Patches,Huncho Jack,1469931,1,2017,12,29,0.436,2017,12,21
 151,The Way Life Goes,Lil Uzi Vert,1466002,1,2017,12,29,0.756,2017,10,3
 152,Unforgettable,Thomas Rhett,1451303,1,2017,12,29,0.828,2017,4,7
-153,Caroline,Aminé,1419687,1,2017,12,29,0.707,2017,3,9
+153,Caroline,Amin,1419687,1,2017,12,29,0.707,2017,3,9
 154,KOODA,6ix9ine,1411427,1,2017,12,29,0.201,2018,12,3
 155,Issues,Julia Michaels,1403101,1,2017,12,29,0.455,2017,1,13
 156,Love Scars,Trippie Redd,1401127,1,2017,12,29,0.26,2017,5,26
 157,Greatest Love Story,LANCO,1399646,1,2017,12,29,0.621,2018,3,6
 160,Praying,Kesha,1387725,1,2017,12,29,0.319,2017,7,6
-161,Se Preparó,Ozuna,1371855,1,2017,12,29,0.693,2017,8,11
+161,Se Prepar,Ozuna,1371855,1,2017,12,29,0.693,2017,8,11
 162,No Option,Post Malone,1368644,1,2017,12,29,0.494,2016,0,0
 163,In Case You Didn't Know,Brett Young,1360467,1,2017,12,29,0.434,2017,1,9
-166,I Don’t Wanna Live Forever,ZAYN,1331849,1,2017,12,29,0.106,2017,1,27
+166,I Dont Wanna Live Forever,ZAYN,1331849,1,2017,12,29,0.106,2017,1,27
 167,PRBLMS,6LACK,1327614,1,2017,12,29,0.139,2016,0,0
 168,Don't,Bryson Tiller,1318533,1,2017,12,29,0.189,2015,0,0
 169,First Day Out,Tee Grizzley,1312850,1,2017,12,29,0.381,2017,11,7
@@ -242,7 +242,7 @@ position,track_name,artist,streams,top_week,top_year,top_month,top_first_day,val
 68,Shape of You,Ed Sheeran,2464024,2,2018,1,5,0.931,2017,1,6
 69,Go Flex,Post Malone,2341546,2,2018,1,5,0.127,2016,0,0
 70,Real Friends,Camila Cabello,2339051,2,2018,1,5,0.663,2018,12,7
-71,Échame La Culpa,Luis Fonsi,2337131,2,2018,1,5,0.675,2017,11,17
+71,chame La Culpa,Luis Fonsi,2337131,2,2018,1,5,0.675,2017,11,17
 72,Feel It Still,Portugal. The Man,2306298,2,2018,1,5,0.754,2017,3,3
 73,Dubai Shit,Huncho Jack,2303477,2,2018,1,5,0.227,2017,12,21
 74,The Greatest Show,Hugh Jackman,2302090,2,2018,1,5,0.4,2017,12,8
@@ -285,7 +285,7 @@ position,track_name,artist,streams,top_week,top_year,top_month,top_first_day,val
 117,La Modelo,Ozuna,1771671,2,2018,1,5,0.769,2018,12,22
 118,Everybody Dies In Their Nightmares,XXXTENTACION,1765206,2,2018,1,5,0.689,2017,8,25
 119,Bad and Boujee,Migos,1765016,2,2018,1,5,0.175,2017,10,28
-122,Corazón,Maluma,1752229,2,2018,1,5,0.748,2018,11,3
+122,Corazn,Maluma,1752229,2,2018,1,5,0.748,2018,11,3
 123,Bounce Back,Big Sean,1739236,2,2018,1,5,0.273,2017,10,31
 124,Crew,GoldLink,1735913,2,2018,1,5,0.445,2017,12,16
 125,I Like Me Better,Lauv,1728903,2,2018,1,5,0.419,2018,5,19
@@ -321,13 +321,13 @@ position,track_name,artist,streams,top_week,top_year,top_month,top_first_day,val
 157,Lemon,N.E.R.D,1435805,2,2018,1,5,0.201,2017,11,1
 158,All Falls Down,Alan Walker,1433607,2,2018,1,5,0.662,2017,10,27
 159,PRBLMS,6LACK,1431986,2,2018,1,5,0.139,2016,0,0
-160,Caroline,Aminé,1429040,2,2018,1,5,0.707,2017,3,9
+160,Caroline,Amin,1429040,2,2018,1,5,0.707,2017,3,9
 161,Praying,Kesha,1428118,2,2018,1,5,0.319,2017,7,6
 162,Tightrope,Michelle Williams,1421904,2,2018,1,5,0.191,2017,3,20
 163,Greatest Love Story,LANCO,1416416,2,2018,1,5,0.621,2018,3,6
 164,Die For You,The Weeknd,1410265,2,2018,1,5,0.51,2016,0,0
 165,Don't,Bryson Tiller,1405568,2,2018,1,5,0.189,2015,0,0
-168,Se Preparó,Ozuna,1394352,2,2018,1,5,0.693,2017,8,11
+168,Se Prepar,Ozuna,1394352,2,2018,1,5,0.693,2017,8,11
 169,In Case You Didn't Know,Brett Young,1390749,2,2018,1,5,0.434,2017,1,9
 170,Issues,Julia Michaels,1386971,2,2018,1,5,0.455,2017,1,13
 171,Yours,Russell Dickerson,1376080,2,2018,1,5,0.558,2017,7,23
@@ -347,7 +347,7 @@ position,track_name,artist,streams,top_week,top_year,top_month,top_first_day,val
 187,Heartache On The Dance Floor,Jon Pardi,1308623,2,2018,1,5,0.618,2016,0,0
 188,Criminal,Natti Natasha,1304797,2,2018,1,5,0.839,2017,8,18
 191,Mayores,Becky G,1300513,2,2018,1,5,0.874,2019,0,0
-192,I Don’t Wanna Live Forever,ZAYN,1299033,2,2018,1,5,0.106,2017,1,27
+192,I Dont Wanna Live Forever,ZAYN,1299033,2,2018,1,5,0.106,2017,1,27
 193,Eye 2 Eye,Huncho Jack,1295916,2,2018,1,5,0.163,2017,12,21
 194,Havana - Remix,Camila Cabello,1276913,2,2018,1,5,0.349,2017,9,8
 195,Danger,Migos,1276157,2,2018,1,5,0.367,2017,12,7
@@ -427,7 +427,7 @@ position,track_name,artist,streams,top_week,top_year,top_month,top_first_day,val
 73,Saint,Huncho Jack,2328812,3,2018,1,12,0.0798,2017,12,21
 74,Go Flex,Post Malone,2293803,3,2018,1,12,0.127,2016,0,0
 77,Feel It Still,Portugal. The Man,2185732,3,2018,1,12,0.754,2017,3,3
-78,Échame La Culpa,Luis Fonsi,2181884,3,2018,1,12,0.675,2017,11,17
+78,chame La Culpa,Luis Fonsi,2181884,3,2018,1,12,0.675,2017,11,17
 79,A Million Dreams,Ziv Zaifman,2132053,3,2018,1,12,0.0998,2017,12,8
 80,Wait,Maroon 5,2130864,3,2018,1,12,0.452,2018,1,16
 81,Never Enough,Loren Allred,2119381,3,2018,1,12,0.227,2017,12,20
@@ -508,10 +508,10 @@ position,track_name,artist,streams,top_week,top_year,top_month,top_first_day,val
 176,Yours,Russell Dickerson,1390028,3,2018,1,12,0.558,2017,7,23
 177,X,21 Savage,1389072,3,2018,1,12,0.111,2016,2,25
 178,Issues,Julia Michaels,1387276,3,2018,1,12,0.455,2017,1,13
-179,Se Preparó,Ozuna,1384609,3,2018,1,12,0.693,2017,8,11
+179,Se Prepar,Ozuna,1384609,3,2018,1,12,0.693,2017,8,11
 180,No Option,Post Malone,1380908,3,2018,1,12,0.494,2016,0,0
 181,Greatest Love Story,LANCO,1380196,3,2018,1,12,0.621,2018,3,6
-182,Corazón,Maluma,1374425,3,2018,1,12,0.748,2018,11,3
+182,Corazn,Maluma,1374425,3,2018,1,12,0.748,2018,11,3
 183,Exchange,Bryson Tiller,1372209,3,2018,1,12,0.276,2015,0,0
 184,Praying,Kesha,1370122,3,2018,1,12,0.319,2017,7,6
 185,There's Nothing Holdin' Me Back,Shawn Mendes,1367851,3,2018,1,12,0.969,2017,4,20
@@ -602,7 +602,7 @@ position,track_name,artist,streams,top_week,top_year,top_month,top_first_day,val
 84,Feel It Still,Portugal. The Man,2163257,4,2018,1,19,0.754,2017,3,3
 85,New Freezer,Rich The Kid,2141391,4,2018,1,19,0.575,2018,9,26
 86,A Million Dreams,Ziv Zaifman,2137680,4,2018,1,19,0.0998,2017,12,8
-87,Échame La Culpa,Luis Fonsi,2087060,4,2018,1,19,0.675,2017,11,17
+87,chame La Culpa,Luis Fonsi,2087060,4,2018,1,19,0.675,2017,11,17
 88,Spotlight,Marshmello,2077609,4,2018,1,19,0.615,2018,1,12
 89,Redbone,Childish Gambino,2077538,4,2018,1,19,0.572,2016,0,0
 90,Marry Me,Thomas Rhett,2074747,4,2018,1,19,0.474,2017,11,20
@@ -669,7 +669,7 @@ position,track_name,artist,streams,top_week,top_year,top_month,top_first_day,val
 171,Tightrope,Michelle Williams,1432771,4,2018,1,19,0.191,2017,3,20
 172,Look At Me!,XXXTENTACION,1431869,4,2018,1,19,0.349,2017,12,30
 173,...Ready For It?,Taylor Swift,1431194,4,2018,1,19,0.417,2017,10,24
-174,Caroline,Aminé,1427052,4,2018,1,19,0.707,2017,3,9
+174,Caroline,Amin,1427052,4,2018,1,19,0.707,2017,3,9
 175,So Far Away,Martin Garrix,1420824,4,2018,1,19,0.13,2017,12,1
 176,The Way Life Goes,Lil Uzi Vert,1419304,4,2018,1,19,0.756,2017,10,3
 177,'Till I Collapse,Eminem,1407116,4,2018,1,19,0.1,2002,0,0
@@ -679,14 +679,14 @@ position,track_name,artist,streams,top_week,top_year,top_month,top_first_day,val
 181,X,21 Savage,1397926,4,2018,1,19,0.111,2016,2,25
 182,Broccoli,Shelley FKA DRAM,1390303,4,2018,1,19,0.708,2016,0,0
 185,Lemon,N.E.R.D,1383019,4,2018,1,19,0.201,2017,11,1
-188,Se Preparó,Ozuna,1374344,4,2018,1,19,0.693,2017,8,11
+188,Se Prepar,Ozuna,1374344,4,2018,1,19,0.693,2017,8,11
 189,Praying,Kesha,1373727,4,2018,1,19,0.319,2017,7,6
 190,No Option,Post Malone,1369940,4,2018,1,19,0.494,2016,0,0
 191,Money Longer,Lil Uzi Vert,1369576,4,2018,1,19,0.478,2016,0,0
 192,Saved,Khalid,1356140,4,2018,1,19,0.553,2017,3,3
 195,All On Me,Devin Dawson,1347532,4,2018,1,19,0.635,2018,4,3
 196,Best Part,H.E.R.,1333092,4,2018,1,19,0.413,2017,8,25
-197,Corazón,Maluma,1329680,4,2018,1,19,0.748,2018,11,3
+197,Corazn,Maluma,1329680,4,2018,1,19,0.748,2018,11,3
 198,pick up the phone,Young Thug,1328365,4,2018,1,19,0.459,2016,0,0
 1,God's Plan,Drake,28708450,5,2018,1,26,0.357,2018,1,19
 2,Stir Fry,Migos,9568918,5,2018,1,26,0.508,2018,12,20
@@ -757,7 +757,7 @@ position,track_name,artist,streams,top_week,top_year,top_month,top_first_day,val
 95,Believer,Imagine Dragons,2196733,5,2018,1,26,0.666,2017,2,1
 96,My My My!,Troye Sivan,2155659,5,2018,1,26,0.482,2018,1,10
 97,The Greatest Show,Hugh Jackman,2146674,5,2018,1,26,0.4,2017,12,8
-100,Échame La Culpa,Luis Fonsi,2100159,5,2018,1,26,0.675,2017,11,17
+100,chame La Culpa,Luis Fonsi,2100159,5,2018,1,26,0.675,2017,11,17
 101,You Make It Easy,Jason Aldean,2083171,5,2018,1,26,0.406,2018,1,26
 102,Ice Tray,Quality Control,2070309,5,2018,1,26,0.222,2017,12,10
 105,That's What I Like,Bruno Mars,2027431,5,2018,1,26,0.86,2016,0,0
@@ -905,7 +905,7 @@ position,track_name,artist,streams,top_week,top_year,top_month,top_first_day,val
 85,I Miss You,Clean Bandit,2166506,6,2018,2,2,0.369,2018,10,27
 86,Feel It Still,Portugal. The Man,2126079,6,2018,2,2,0.754,2017,3,3
 89,Believer,Imagine Dragons,2103150,6,2018,2,2,0.666,2017,2,1
-92,Échame La Culpa,Luis Fonsi,1996482,6,2018,2,2,0.675,2017,11,17
+92,chame La Culpa,Luis Fonsi,1996482,6,2018,2,2,0.675,2017,11,17
 93,Rake It Up,Yo Gotti,1979936,6,2018,2,2,0.53,2017,6,1
 94,Ice Tray,Quality Control,1956534,6,2018,2,2,0.222,2017,12,10
 95,What Ifs,Kane Brown,1949667,6,2018,2,2,0.687,2016,0,0
@@ -1112,7 +1112,7 @@ position,track_name,artist,streams,top_week,top_year,top_month,top_first_day,val
 154,Transportin',Kodak Black,1558760,7,2018,2,9,0.257,2017,8,18
 155,do re mi,blackbear,1556407,7,2018,2,9,0.17,2017,3,17
 158,Heaven,Kane Brown,1539346,7,2018,2,9,0.521,2017,11,13
-159,Échame La Culpa,Luis Fonsi,1522574,7,2018,2,9,0.675,2017,11,17
+159,chame La Culpa,Luis Fonsi,1522574,7,2018,2,9,0.675,2017,11,17
 160,Wait,Maroon 5,1518501,7,2018,2,9,0.452,2018,1,16
 161,Tunnel Vision,Kodak Black,1514513,7,2018,2,9,0.231,2017,2,16
 162,Die For You,The Weeknd,1512620,7,2018,2,9,0.51,2016,0,0
@@ -1148,7 +1148,7 @@ position,track_name,artist,streams,top_week,top_year,top_month,top_first_day,val
 194,Poles 1469,Trippie Redd,1367695,7,2018,2,9,0.217,2017,8,27
 195,Money Longer,Lil Uzi Vert,1365915,7,2018,2,9,0.478,2016,0,0
 196,When It Rains It Pours,Luke Combs,1365140,7,2018,2,9,0.625,2017,6,19
-197,I Don’t Wanna Live Forever,ZAYN,1362957,7,2018,2,9,0.106,2017,1,27
+197,I Dont Wanna Live Forever,ZAYN,1362957,7,2018,2,9,0.106,2017,1,27
 198,Dreams and Nightmares,Meek Mill,1359527,7,2018,2,9,0.44,2012,0,0
 199,Greatest Love Story,LANCO,1348844,7,2018,2,9,0.621,2018,3,6
 200,La Modelo,Ozuna,1347988,7,2018,2,9,0.769,2018,12,22
@@ -1299,7 +1299,7 @@ position,track_name,artist,streams,top_week,top_year,top_month,top_first_day,val
 181,Something Just Like This,The Chainsmokers,1403241,8,2018,2,16,0.446,2017,2,22
 182,Don't,Bryson Tiller,1401877,8,2018,2,16,0.189,2015,0,0
 183,When It Rains It Pours,Luke Combs,1395872,8,2018,2,16,0.625,2017,6,19
-184,Échame La Culpa,Luis Fonsi,1395636,8,2018,2,16,0.675,2017,11,17
+184,chame La Culpa,Luis Fonsi,1395636,8,2018,2,16,0.675,2017,11,17
 185,Sensualidad,Bad Bunny,1391681,8,2018,2,16,0.676,2017,11,3
 186,In Case You Didn't Know,Brett Young,1375887,8,2018,2,16,0.434,2017,1,9
 187,PRBLMS,6LACK,1372575,8,2018,2,16,0.139,2016,0,0
@@ -1415,7 +1415,7 @@ position,track_name,artist,streams,top_week,top_year,top_month,top_first_day,val
 123,Body Like A Back Road,Sam Hunt,1768801,9,2018,2,23,0.661,2017,2,2
 124,No Role Modelz,J. Cole,1732336,9,2018,2,23,0.463,2014,0,0
 125,Mask Off,Future,1727741,9,2018,2,23,0.281,2017,4,18
-126,Make Me Feel,Janelle Monáe,1716496,9,2018,2,23,0.697,2018,2,22
+126,Make Me Feel,Janelle Mone,1716496,9,2018,2,23,0.697,2018,2,22
 129,Relationship,Young Thug,1692066,9,2018,2,23,0.298,2017,6,16
 130,Everybody Dies In Their Nightmares,XXXTENTACION,1691654,9,2018,2,23,0.689,2017,8,25
 131,iSpy,KYLE,1682966,9,2018,2,23,0.677,2017,12,2
@@ -1470,7 +1470,7 @@ position,track_name,artist,streams,top_week,top_year,top_month,top_first_day,val
 194,Perfect Duet,Ed Sheeran,1380985,9,2018,2,23,0.356,2017,12,1
 195,The Greatest Show,Hugh Jackman,1379185,9,2018,2,23,0.4,2017,12,8
 196,Pills & Automobiles,Chris Brown,1373780,9,2018,2,23,0.617,2017,8,4
-197,Échame La Culpa,Luis Fonsi,1371352,9,2018,2,23,0.675,2017,11,17
+197,chame La Culpa,Luis Fonsi,1371352,9,2018,2,23,0.675,2017,11,17
 198,Something Just Like This,The Chainsmokers,1356180,9,2018,2,23,0.446,2017,2,22
 199,Deja Vu,Post Malone,1330283,9,2018,2,23,0.331,2016,0,0
 200,Mi Gente,J Balvin,1314514,9,2018,2,23,0.469,2020,0,0
@@ -1771,7 +1771,7 @@ position,track_name,artist,streams,top_week,top_year,top_month,top_first_day,val
 195,Sensualidad,Bad Bunny,1343743,11,2018,3,9,0.676,2017,11,3
 196,Hurricane,Luke Combs,1329055,11,2018,3,9,0.515,2017,0,0
 197,Africa,TOTO,1328102,11,2018,3,9,0.732,1982,0,0
-198,Échame La Culpa,Luis Fonsi,1325409,11,2018,3,9,0.675,2017,11,17
+198,chame La Culpa,Luis Fonsi,1325409,11,2018,3,9,0.675,2017,11,17
 199,Transportin',Kodak Black,1323443,11,2018,3,9,0.257,2017,8,18
 200,Starboy,The Weeknd,1318977,11,2018,3,9,0.486,2016,0,0
 1,God's Plan,Drake,17014844,12,2018,3,16,0.357,2018,1,19
@@ -1800,7 +1800,7 @@ position,track_name,artist,streams,top_week,top_year,top_month,top_first_day,val
 24,Meant to Be,Bebe Rexha,5028732,12,2018,3,16,0.579,2017,10,24
 25,FRIENDS,Marshmello,4653300,12,2018,3,16,0.534,2018,2,9
 26,Powerglide,Rae Sremmurd,4610341,12,2018,3,16,0.584,2018,2,16
-27,"I don’t even speak spanish lol - feat. Rio Santana, Judah, Andrez Babii",XXXTENTACION,4415382,12,2018,3,16,0.542,2018,0,0
+27,"I dont even speak spanish lol - feat. Rio Santana, Judah, Andrez Babii",XXXTENTACION,4415382,12,2018,3,16,0.542,2018,0,0
 28,Never Be the Same,Camila Cabello,4408426,12,2018,3,16,0.243,2018,12,7
 29,infinity,XXXTENTACION,4384144,12,2018,3,16,0.577,2018,0,0
 30,Hope,XXXTENTACION,4312343,12,2018,3,16,0.225,2018,0,0
@@ -1985,7 +1985,7 @@ position,track_name,artist,streams,top_week,top_year,top_month,top_first_day,val
 59,Plain Jane,A$AP Ferg,2773212,13,2018,3,23,0.52,2017,6,13
 62,No Limit,G-Eazy,2742927,13,2018,3,23,0.405,2017,9,8
 63,Sky Walker,Miguel,2710584,13,2018,3,23,0.183,2017,8,25
-64,"I don’t even speak spanish lol - feat. Rio Santana, Judah, Andrez Babii",XXXTENTACION,2707903,13,2018,3,23,0.542,2018,0,0
+64,"I dont even speak spanish lol - feat. Rio Santana, Judah, Andrez Babii",XXXTENTACION,2707903,13,2018,3,23,0.542,2018,0,0
 65,Heaven,Kane Brown,2676983,13,2018,3,23,0.521,2017,11,13
 66,MotorSport,Migos,2658540,13,2018,3,23,0.188,2018,10,30
 67,Roll In Peace,Kodak Black,2612059,13,2018,3,23,0.363,2017,11,7
@@ -2382,7 +2382,7 @@ position,track_name,artist,streams,top_week,top_year,top_month,top_first_day,val
 144,One Dance,Drake,1595248,15,2018,4,6,0.37,2016,0,0
 147,going down!,XXXTENTACION,1585501,15,2018,4,6,0.525,2018,0,0
 148,Singles You Up,Jordan Davis,1583238,15,2018,4,6,0.631,2018,0,0
-149,"I don’t even speak spanish lol - feat. Rio Santana, Judah, Andrez Babii",XXXTENTACION,1577746,15,2018,4,6,0.542,2018,0,0
+149,"I dont even speak spanish lol - feat. Rio Santana, Judah, Andrez Babii",XXXTENTACION,1577746,15,2018,4,6,0.542,2018,0,0
 150,GUMMO,6ix9ine,1577520,15,2018,4,6,0.635,2018,9,24
 151,Written in the Sand,Old Dominion,1569882,15,2018,4,6,0.76,2017,9,18
 152,Say You Won't Let Go,James Arthur,1567706,15,2018,4,6,0.494,2016,0,0
@@ -2587,7 +2587,7 @@ position,track_name,artist,streams,top_week,top_year,top_month,top_first_day,val
 191,Fake Love,Drake,1395345,16,2018,4,13,0.613,2017,10,29
 192,Creeping,Lil Skies,1384591,16,2018,4,13,0.683,2018,0,0
 195,Magnolia,Playboi Carti,1368199,16,2018,4,13,0.443,2017,4,14
-196,"I don’t even speak spanish lol - feat. Rio Santana, Judah, Andrez Babii",XXXTENTACION,1360505,16,2018,4,13,0.542,2018,0,0
+196,"I dont even speak spanish lol - feat. Rio Santana, Judah, Andrez Babii",XXXTENTACION,1360505,16,2018,4,13,0.542,2018,0,0
 197,Bounce Back,Big Sean,1355666,16,2018,4,13,0.273,2017,10,31
 198,KEKE,6ix9ine,1353027,16,2018,4,13,0.469,2018,1,14
 199,Take Back Home Girl,Chris Lane,1347287,16,2018,4,13,0.644,2018,0,0
@@ -2595,10 +2595,10 @@ position,track_name,artist,streams,top_week,top_year,top_month,top_first_day,val
 1,Nice For What,Drake,17735489,17,2018,4,20,0.758,2018,0,0
 2,KOD,J. Cole,17261815,17,2018,4,20,0.199,2018,0,0
 3,ATM,J. Cole,14416927,17,2018,4,20,0.351,2018,0,0
-4,Kevin’s Heart,J. Cole,13841391,17,2018,4,20,0.475,2018,0,0
+4,Kevins Heart,J. Cole,13841391,17,2018,4,20,0.475,2018,0,0
 5,Motiv8,J. Cole,13334518,17,2018,4,20,0.596,2018,0,0
 6,Photograph,J. Cole,12550185,17,2018,4,20,0.358,2018,0,0
-7,1985 - Intro to “The Fall Off”,J. Cole,12120827,17,2018,4,20,0.635,2018,0,0
+7,1985 - Intro to The Fall Off,J. Cole,12120827,17,2018,4,20,0.635,2018,0,0
 8,God's Plan,Drake,11817473,17,2018,4,20,0.357,2018,1,19
 9,no tears left to cry,Ariana Grande,11650452,17,2018,4,20,0.354,2018,0,0
 10,Psycho,Post Malone,10240679,17,2018,4,20,0.459,2018,2,23
@@ -2699,7 +2699,7 @@ position,track_name,artist,streams,top_week,top_year,top_month,top_first_day,val
 123,Lemon,N.E.R.D,2140601,17,2018,4,20,0.201,2017,11,1
 124,I Get the Bag,Gucci Mane,2113568,17,2018,4,20,0.425,2017,8,18
 125,These Days,Rudimental,2066229,17,2018,4,20,0.55,2018,1,19
-126,Te Boté - Remix,Nio Garcia,2037245,17,2018,4,20,0.442,2018,0,0
+126,Te Bot - Remix,Nio Garcia,2037245,17,2018,4,20,0.442,2018,0,0
 127,Perfect,Ed Sheeran,2032881,17,2018,4,20,0.168,2017,9,26
 128,2002,Anne-Marie,2032121,17,2018,4,20,0.603,2018,0,0
 129,Thunder,Imagine Dragons,2026046,17,2018,4,20,0.288,2017,4,27
@@ -2796,7 +2796,7 @@ position,track_name,artist,streams,top_week,top_year,top_month,top_first_day,val
 34,Love Lies,Khalid,5516663,18,2018,4,27,0.338,2018,2,14
 35,OTW,Khalid,5509883,18,2018,4,27,0.28,2018,0,0
 36,Ric Flair Drip,Offset,5392642,18,2018,4,27,0.333,2017,3,1
-37,1985 - Intro to “The Fall Off”,J. Cole,5061793,18,2018,4,27,0.635,2018,0,0
+37,1985 - Intro to The Fall Off,J. Cole,5061793,18,2018,4,27,0.635,2018,0,0
 38,Powerglide,Rae Sremmurd,5049380,18,2018,4,27,0.584,2018,2,16
 39,I Fall Apart,Post Malone,5039408,18,2018,4,27,0.291,2016,0,0
 40,The Middle,Zedd,4959808,18,2018,4,27,0.437,2018,1,23
@@ -2971,7 +2971,7 @@ position,track_name,artist,streams,top_week,top_year,top_month,top_first_day,val
 33,Love Lies,Khalid,5082450,19,2018,5,4,0.338,2018,2,14
 34,Blame It On Me,Post Malone,4945929,19,2018,5,4,0.274,2018,0,0
 35,The Middle,Zedd,4783353,19,2018,5,4,0.437,2018,1,23
-36,Kevin’s Heart,J. Cole,4539740,19,2018,5,4,0.475,2018,0,0
+36,Kevins Heart,J. Cole,4539740,19,2018,5,4,0.475,2018,0,0
 37,Sugar Wraith,Post Malone,4485990,19,2018,5,4,0.307,2018,0,0
 38,I Fall Apart,Post Malone,4479314,19,2018,5,4,0.291,2016,0,0
 39,One Kiss,Calvin Harris,4465753,19,2018,5,4,0.592,2018,0,0
@@ -2988,7 +2988,7 @@ position,track_name,artist,streams,top_week,top_year,top_month,top_first_day,val
 50,Stir Fry,Migos,3845586,19,2018,5,4,0.508,2018,12,20
 51,Motiv8,J. Cole,3685624,19,2018,5,4,0.596,2018,0,0
 52,CLOSE,Rae Sremmurd,3537000,19,2018,5,4,0.0395,2018,0,0
-55,1985 - Intro to “The Fall Off”,J. Cole,3309700,19,2018,5,4,0.635,2018,0,0
+55,1985 - Intro to The Fall Off,J. Cole,3309700,19,2018,5,4,0.635,2018,0,0
 56,XO Tour Llif3,Lil Uzi Vert,3242470,19,2018,5,4,0.401,2017,2,26
 59,PICK IT UP,Famous Dex,3038182,19,2018,5,4,0.287,2017,10,20
 60,Red Roses,Lil Skies,2960182,19,2018,5,4,0.456,2017,6,25
@@ -3140,7 +3140,7 @@ position,track_name,artist,streams,top_week,top_year,top_month,top_first_day,val
 32,The Middle,Zedd,4520090,20,2018,5,11,0.437,2018,1,23
 33,Takin' Shots,Post Malone,4507585,20,2018,5,11,0.593,2018,0,0
 34,One Kiss,Calvin Harris,4486997,20,2018,5,11,0.592,2018,0,0
-35,Back To You - From 13 Reasons Why – Season 2 Soundtrack,Selena Gomez,4479195,20,2018,5,11,0.508,2018,0,0
+35,Back To You - From 13 Reasons Why  Season 2 Soundtrack,Selena Gomez,4479195,20,2018,5,11,0.508,2018,0,0
 36,Same Bitches,Post Malone,4448779,20,2018,5,11,0.219,2018,0,0
 37,I Fall Apart,Post Malone,4289264,20,2018,5,11,0.291,2016,0,0
 38,Meant to Be,Bebe Rexha,4281366,20,2018,5,11,0.579,2017,10,24
@@ -3152,7 +3152,7 @@ position,track_name,artist,streams,top_week,top_year,top_month,top_first_day,val
 44,Mine,Bazzi,3878310,20,2018,5,11,0.717,2018,10,12
 45,Otherside,Post Malone,3834426,20,2018,5,11,0.109,2018,0,0
 46,Lucid Dreams,Juice WRLD,3782486,20,2018,5,11,0.218,2018,0,0
-47,Kevin’s Heart,J. Cole,3621696,20,2018,5,11,0.475,2018,0,0
+47,Kevins Heart,J. Cole,3621696,20,2018,5,11,0.475,2018,0,0
 48,Be Careful,Cardi B,3602602,20,2018,5,11,0.535,2018,0,0
 49,Stir Fry,Migos,3590941,20,2018,5,11,0.508,2018,12,20
 50,Moonlight,XXXTENTACION,3589068,20,2018,5,11,0.711,2018,0,0
@@ -3161,7 +3161,7 @@ position,track_name,artist,streams,top_week,top_year,top_month,top_first_day,val
 53,Youngblood,5 Seconds of Summer,3301305,20,2018,5,11,0.152,2018,0,0
 54,XO Tour Llif3,Lil Uzi Vert,3248464,20,2018,5,11,0.401,2017,2,26
 55,Sugar Wraith,Post Malone,3171305,20,2018,5,11,0.307,2018,0,0
-56,Te Boté - Remix,Nio Garcia,3164528,20,2018,5,11,0.442,2018,0,0
+56,Te Bot - Remix,Nio Garcia,3164528,20,2018,5,11,0.442,2018,0,0
 57,ATM,J. Cole,3158176,20,2018,5,11,0.351,2018,0,0
 58,Youth,Shawn Mendes,3130277,20,2018,5,11,0.324,2018,0,0
 59,lovely,Billie Eilish,3073638,20,2018,5,11,0.12,2018,0,0
@@ -3171,7 +3171,7 @@ position,track_name,artist,streams,top_week,top_year,top_month,top_first_day,val
 65,Red Roses,Lil Skies,2875489,20,2018,5,11,0.456,2017,6,25
 68,HUMBLE.,Kendrick Lamar,2740079,20,2018,5,11,0.421,2017,3,30
 69,In My Blood,Shawn Mendes,2692973,20,2018,5,11,0.487,2018,0,0
-70,1985 - Intro to “The Fall Off”,J. Cole,2658711,20,2018,5,11,0.635,2018,0,0
+70,1985 - Intro to The Fall Off,J. Cole,2658711,20,2018,5,11,0.635,2018,0,0
 71,Jocelyn Flores,XXXTENTACION,2657124,20,2018,5,11,0.437,2017,10,31
 74,New Light,John Mayer,2590794,20,2018,5,11,0.853,2018,0,0
 75,1942,G-Eazy,2587748,20,2018,5,11,0.835,2018,0,0
@@ -3333,7 +3333,7 @@ position,track_name,artist,streams,top_week,top_year,top_month,top_first_day,val
 45,lovely,Billie Eilish,3632482,21,2018,5,18,0.12,2018,0,0
 46,Takin' Shots,Post Malone,3571223,21,2018,5,18,0.593,2018,0,0
 47,Same Bitches,Post Malone,3509881,21,2018,5,18,0.219,2018,0,0
-48,Te Boté - Remix,Nio Garcia,3432257,21,2018,5,18,0.442,2018,0,0
+48,Te Bot - Remix,Nio Garcia,3432257,21,2018,5,18,0.442,2018,0,0
 49,Youngblood,5 Seconds of Summer,3414892,21,2018,5,18,0.152,2018,0,0
 50,FRIENDS,Marshmello,3351073,21,2018,5,18,0.534,2018,2,9
 53,Stir Fry,Migos,3262178,21,2018,5,18,0.508,2018,12,20
@@ -3346,7 +3346,7 @@ position,track_name,artist,streams,top_week,top_year,top_month,top_first_day,val
 60,Champion,NAV,2839457,21,2018,5,18,0.396,2018,0,0
 61,Solo,Clean Bandit,2835807,21,2018,5,18,0.565,2018,0,0
 62,Chun-Li,Nicki Minaj,2801287,21,2018,5,18,0.474,2018,0,0
-63,Kevin’s Heart,J. Cole,2791627,21,2018,5,18,0.475,2018,0,0
+63,Kevins Heart,J. Cole,2791627,21,2018,5,18,0.475,2018,0,0
 64,HUMBLE.,Kendrick Lamar,2732889,21,2018,5,18,0.421,2017,3,30
 65,Heaven,Kane Brown,2731648,21,2018,5,18,0.521,2017,11,13
 66,Congratulations,Post Malone,2729572,21,2018,5,18,0.492,2016,0,0
@@ -3378,7 +3378,7 @@ position,track_name,artist,streams,top_week,top_year,top_month,top_first_day,val
 94,Plain Jane,A$AP Ferg,2233763,21,2018,5,18,0.52,2017,6,13
 95,Done for Me,Charlie Puth,2208322,21,2018,5,18,0.697,2018,0,0
 98,Everyday,Logic,2167689,21,2018,5,18,0.422,2018,3,2
-99,1985 - Intro to “The Fall Off”,J. Cole,2149494,21,2018,5,18,0.635,2018,0,0
+99,1985 - Intro to The Fall Off,J. Cole,2149494,21,2018,5,18,0.635,2018,0,0
 100,Tequila,Dan + Shay,2141693,21,2018,5,18,0.494,2018,1,10
 101,Never Be the Same,Camila Cabello,2140976,21,2018,5,18,0.243,2018,12,7
 102,Taste,Tyga,2124074,21,2018,5,18,0.342,2018,0,0
@@ -3502,7 +3502,7 @@ position,track_name,artist,streams,top_week,top_year,top_month,top_first_day,val
 40,One Kiss,Calvin Harris,3905561,22,2018,5,25,0.592,2018,0,0
 41,Youngblood,5 Seconds of Summer,3867198,22,2018,5,25,0.152,2018,0,0
 42,Watch,Travis Scott,3796727,22,2018,5,25,0.252,2018,0,0
-45,Te Boté - Remix,Nio Garcia,3620981,22,2018,5,25,0.442,2018,0,0
+45,Te Bot - Remix,Nio Garcia,3620981,22,2018,5,25,0.442,2018,0,0
 46,Taste,Tyga,3553547,22,2018,5,25,0.342,2018,0,0
 47,If You Know You Know,Pusha T,3528700,22,2018,5,25,0.701,2018,0,0
 48,King's Dead,Jay Rock,3486216,22,2018,5,25,0.376,2018,1,11
@@ -3544,7 +3544,7 @@ position,track_name,artist,streams,top_week,top_year,top_month,top_first_day,val
 94,Otherside,Post Malone,2289637,22,2018,5,25,0.109,2018,0,0
 97,Bank Account,21 Savage,2242370,22,2018,5,25,0.376,2017,8,8
 102,Where Were You In The Morning?,Shawn Mendes,2204787,22,2018,5,25,0.466,2018,0,0
-103,Jackie Chan,Tiësto,2192817,22,2018,5,25,0.687,2018,0,0
+103,Jackie Chan,Tisto,2192817,22,2018,5,25,0.687,2018,0,0
 106,Bounce Out With That,YBN Nahmir,2141071,22,2018,5,25,0.381,2018,1,24
 107,Everyday,Logic,2113428,22,2018,5,25,0.422,2018,3,2
 108,New Freezer,Rich The Kid,2109470,22,2018,5,25,0.575,2018,9,26
@@ -3658,7 +3658,7 @@ position,track_name,artist,streams,top_week,top_year,top_month,top_first_day,val
 46,Rich & Sad,Post Malone,3839368,23,2018,6,1,0.285,2018,0,0
 47,Watch,Travis Scott,3798611,23,2018,6,1,0.252,2018,0,0
 48,KOD,J. Cole,3721651,23,2018,6,1,0.199,2018,0,0
-49,Te Boté - Remix,Nio Garcia,3644079,23,2018,6,1,0.442,2018,0,0
+49,Te Bot - Remix,Nio Garcia,3644079,23,2018,6,1,0.442,2018,0,0
 50,TATI,6ix9ine,3581325,23,2018,6,1,0.523,2018,0,0
 51,New Light,John Mayer,3423036,23,2018,6,1,0.853,2018,0,0
 52,Freaky Friday,Lil Dicky,3392110,23,2018,6,1,0.755,2018,0,0
@@ -3685,7 +3685,7 @@ position,track_name,artist,streams,top_week,top_year,top_month,top_first_day,val
 75,HUMBLE.,Kendrick Lamar,2574595,23,2018,6,1,0.421,2017,3,30
 76,Nervous,Shawn Mendes,2564007,23,2018,6,1,0.744,2018,0,0
 77,Somebody,The Chainsmokers,2528315,23,2018,6,1,0.323,2018,0,0
-78,Jackie Chan,Tiësto,2512013,23,2018,6,1,0.687,2018,0,0
+78,Jackie Chan,Tisto,2512013,23,2018,6,1,0.687,2018,0,0
 79,Takin' Shots,Post Malone,2475237,23,2018,6,1,0.593,2018,0,0
 80,Same Bitches,Post Malone,2458655,23,2018,6,1,0.219,2018,0,0
 81,Chun-Li,Nicki Minaj,2458101,23,2018,6,1,0.474,2018,0,0
@@ -3701,7 +3701,7 @@ position,track_name,artist,streams,top_week,top_year,top_month,top_first_day,val
 93,X,Nicky Jam,2244447,23,2018,6,1,0.694,2019,2,25
 94,Location,Khalid,2198201,23,2018,6,1,0.326,2017,1,26
 95,2002,Anne-Marie,2188604,23,2018,6,1,0.603,2018,0,0
-96,Kevin’s Heart,J. Cole,2181826,23,2018,6,1,0.475,2018,0,0
+96,Kevins Heart,J. Cole,2181826,23,2018,6,1,0.475,2018,0,0
 97,Bank Account,21 Savage,2164875,23,2018,6,1,0.376,2017,8,8
 98,Lean Wit Me,Juice WRLD,2150163,23,2018,6,1,0.237,2018,0,0
 99,Tequila,Dan + Shay,2142932,23,2018,6,1,0.494,2018,1,10
@@ -3761,7 +3761,7 @@ position,track_name,artist,streams,top_week,top_year,top_month,top_first_day,val
 163,Africa,TOTO,1655420,23,2018,6,1,0.732,1982,0,0
 164,I'll Be There,Jess Glynne,1651220,23,2018,6,1,0.4,2018,0,0
 165,White Iverson,Post Malone,1635446,23,2018,6,1,0.309,2016,0,0
-166,1985 - Intro to “The Fall Off”,J. Cole,1628836,23,2018,6,1,0.635,2018,0,0
+166,1985 - Intro to The Fall Off,J. Cole,1628836,23,2018,6,1,0.635,2018,0,0
 169,Shape of You,Ed Sheeran,1597531,23,2018,6,1,0.931,2017,1,6
 170,Rubbin off the Paint,YBN Nahmir,1596357,23,2018,6,1,0.56,2018,8,21
 171,Guatemala - From Swaecation,Rae Sremmurd,1592184,23,2018,6,1,0.0778,2018,0,0
@@ -3832,13 +3832,13 @@ position,track_name,artist,streams,top_week,top_year,top_month,top_first_day,val
 46,Meant to Be,Bebe Rexha,3757574,24,2018,6,8,0.579,2017,10,24
 47,Paranoid,Post Malone,3723287,24,2018,6,8,0.253,2018,0,0
 48,Shoota,Playboi Carti,3632350,24,2018,6,8,0.47,2018,0,0
-49,Te Boté - Remix,Nio Garcia,3626338,24,2018,6,8,0.442,2018,0,0
+49,Te Bot - Remix,Nio Garcia,3626338,24,2018,6,8,0.442,2018,0,0
 50,Wouldn't Leave,Kanye West,3545967,24,2018,6,8,0.352,2018,0,0
 51,Rich & Sad,Post Malone,3399359,24,2018,6,8,0.285,2018,0,0
 52,Stay,Post Malone,3384309,24,2018,6,8,0.35,2018,2,23
 53,Solo,Clean Bandit,3369088,24,2018,6,8,0.565,2018,0,0
 54,Mine,Bazzi,3270294,24,2018,6,8,0.717,2018,10,12
-55,Jackie Chan,Tiësto,3179763,24,2018,6,8,0.687,2018,0,0
+55,Jackie Chan,Tisto,3179763,24,2018,6,8,0.687,2018,0,0
 56,KOD,J. Cole,3159245,24,2018,6,8,0.199,2018,0,0
 57,Watch,Travis Scott,3137326,24,2018,6,8,0.252,2018,0,0
 58,The Middle,Zedd,3125736,24,2018,6,8,0.437,2018,1,23
@@ -3907,7 +3907,7 @@ position,track_name,artist,streams,top_week,top_year,top_month,top_first_day,val
 131,changes,XXXTENTACION,1826858,24,2018,6,8,0.52,2018,3,5
 132,Pray For Me,The Weeknd,1816860,24,2018,6,8,0.188,2018,2,2
 133,Marry Me,Thomas Rhett,1800351,24,2018,6,8,0.474,2017,11,20
-134,Kevin’s Heart,J. Cole,1790005,24,2018,6,8,0.475,2018,0,0
+134,Kevins Heart,J. Cole,1790005,24,2018,6,8,0.475,2018,0,0
 135,IDGAF,Dua Lipa,1777836,24,2018,6,8,0.51,2017,1,12
 136,Midsummer Madness,88rising,1767917,24,2018,6,8,0.168,2018,0,0
 137,Believer,Imagine Dragons,1765515,24,2018,6,8,0.666,2017,2,1
@@ -3994,7 +3994,7 @@ position,track_name,artist,streams,top_week,top_year,top_month,top_first_day,val
 28,Bigger Than You,2 Chainz,4819196,25,2018,6,15,0.264,2018,0,0
 29,This Is America,Childish Gambino,4749308,25,2018,6,15,0.549,2018,0,0
 30,Praise The Lord,A$AP Rocky,4688052,25,2018,6,15,0.294,2018,0,0
-31,Jackie Chan,Tiësto,4597795,25,2018,6,15,0.687,2018,0,0
+31,Jackie Chan,Tisto,4597795,25,2018,6,15,0.687,2018,0,0
 32,Ocean,Martin Garrix,4549701,25,2018,6,15,0.221,2018,0,0
 33,Plug Walk,Rich The Kid,4384290,25,2018,6,15,0.158,2018,4,3
 34,Ball For Me,Post Malone,4274821,25,2018,6,15,0.543,2018,0,0
@@ -4011,7 +4011,7 @@ position,track_name,artist,streams,top_week,top_year,top_month,top_first_day,val
 45,JAPAN,Famous Dex,3545289,25,2018,6,15,0.841,2018,0,0
 46,Playinwitme,KYLE,3535418,25,2018,6,15,0.676,2018,0,0
 47,Love Lies,Khalid,3493731,25,2018,6,15,0.338,2018,2,14
-48,Te Boté - Remix,Nio Garcia,3460211,25,2018,6,15,0.442,2018,0,0
+48,Te Bot - Remix,Nio Garcia,3460211,25,2018,6,15,0.442,2018,0,0
 49,Candy Paint,Post Malone,3422801,25,2018,6,15,0.381,2018,10,20
 50,Mine,Bazzi,3334032,25,2018,6,15,0.717,2018,10,12
 51,Solo,Clean Bandit,3303633,25,2018,6,15,0.565,2018,0,0
@@ -4100,7 +4100,7 @@ position,track_name,artist,streams,top_week,top_year,top_month,top_first_day,val
 152,No Limit,G-Eazy,1730302,25,2018,6,15,0.405,2017,9,8
 153,Kids See Ghosts,KIDS SEE GHOSTS,1714514,25,2018,6,15,0.338,2018,0,0
 154,Never Be the Same,Camila Cabello,1697722,25,2018,6,15,0.243,2018,12,7
-155,"I don’t even speak spanish lol - feat. Rio Santana, Judah, Andrez Babii",XXXTENTACION,1688854,25,2018,6,15,0.542,2018,0,0
+155,"I dont even speak spanish lol - feat. Rio Santana, Judah, Andrez Babii",XXXTENTACION,1688854,25,2018,6,15,0.542,2018,0,0
 156,I Like Me Better,Lauv,1685505,25,2018,6,15,0.419,2018,5,19
 157,Marry Me,Thomas Rhett,1683668,25,2018,6,15,0.474,2017,11,20
 160,Body Like A Back Road,Sam Hunt,1665570,25,2018,6,15,0.661,2017,2,2
@@ -4130,7 +4130,7 @@ position,track_name,artist,streams,top_week,top_year,top_month,top_first_day,val
 190,Sorry Not Sorry,Demi Lovato,1537219,25,2018,6,15,0.887,2017,7,11
 191,WIN,Jay Rock,1534083,25,2018,6,15,0.355,2018,0,0
 192,Whatever It Takes,Imagine Dragons,1526620,25,2018,6,15,0.556,2017,0,0
-193,Kevin’s Heart,J. Cole,1525154,25,2018,6,15,0.475,2018,0,0
+193,Kevins Heart,J. Cole,1525154,25,2018,6,15,0.475,2018,0,0
 196,I'll Be There,Jess Glynne,1515101,25,2018,6,15,0.4,2018,0,0
 197,Guatemala - From Swaecation,Rae Sremmurd,1515100,25,2018,6,15,0.0778,2018,0,0
 198,Tap Out,Jay Rock,1508945,25,2018,6,15,0.607,2018,0,0
@@ -4159,7 +4159,7 @@ position,track_name,artist,streams,top_week,top_year,top_month,top_first_day,val
 21,Back To You,Selena Gomez,5166439,26,2018,6,22,0.494,2018,0,0
 22,no tears left to cry,Ariana Grande,5157588,26,2018,6,22,0.354,2018,0,0
 23,Ocean,Martin Garrix,4996880,26,2018,6,22,0.221,2018,0,0
-24,Jackie Chan,Tiësto,4979924,26,2018,6,22,0.687,2018,0,0
+24,Jackie Chan,Tisto,4979924,26,2018,6,22,0.687,2018,0,0
 25,Youngblood,5 Seconds of Summer,4945076,26,2018,6,22,0.152,2018,0,0
 26,Bed,Nicki Minaj,4852844,26,2018,6,22,0.452,2018,0,0
 27,rockstar,Post Malone,4750492,26,2018,6,22,0.129,2018,9,15
@@ -4182,7 +4182,7 @@ position,track_name,artist,streams,top_week,top_year,top_month,top_first_day,val
 44,Meant to Be,Bebe Rexha,3448639,26,2018,6,22,0.579,2017,10,24
 45,High Hopes,Panic! At The Disco,3411081,26,2018,6,22,0.681,2018,0,0
 46,Bigger Than You,2 Chainz,3400345,26,2018,6,22,0.264,2018,0,0
-47,Te Boté - Remix,Nio Garcia,3396424,26,2018,6,22,0.442,2018,0,0
+47,Te Bot - Remix,Nio Garcia,3396424,26,2018,6,22,0.442,2018,0,0
 50,Boo'd Up,Ella Mai,3268159,26,2018,6,22,0.235,2017,0,0
 51,Solo,Clean Bandit,3242745,26,2018,6,22,0.565,2018,0,0
 52,Mine,Bazzi,3212642,26,2018,6,22,0.717,2018,10,12
@@ -4296,7 +4296,7 @@ position,track_name,artist,streams,top_week,top_year,top_month,top_first_day,val
 178,Perfect,Ed Sheeran,1574808,26,2018,6,22,0.168,2017,9,26
 179,Black & White,Juice WRLD,1573195,26,2018,6,22,0.233,2018,0,0
 180,Shape of You,Ed Sheeran,1568517,26,2018,6,22,0.931,2017,1,6
-181,"I don’t even speak spanish lol - feat. Rio Santana, Judah, Andrez Babii",XXXTENTACION,1558573,26,2018,6,22,0.542,2018,0,0
+181,"I dont even speak spanish lol - feat. Rio Santana, Judah, Andrez Babii",XXXTENTACION,1558573,26,2018,6,22,0.542,2018,0,0
 182,Sorry Not Sorry,Demi Lovato,1552571,26,2018,6,22,0.887,2017,7,11
 183,Wanted You,NAV,1542568,26,2018,6,22,0.623,2018,11,3
 184,Delicate,Taylor Swift,1541296,26,2018,6,22,0.0499,2017,3,12
@@ -4311,7 +4311,7 @@ position,track_name,artist,streams,top_week,top_year,top_month,top_first_day,val
 195,One Number Away,Luke Combs,1487003,26,2018,6,22,0.527,2017,0,0
 196,Drowning,A Boogie Wit da Hoodie,1486989,26,2018,6,22,0.814,2017,3,10
 199,Whatever It Takes,Imagine Dragons,1480939,26,2018,6,22,0.556,2017,0,0
-2,Don’t Matter To Me,Drake,17862850,27,2018,6,29,0.138,2018,0,0
+2,Dont Matter To Me,Drake,17862850,27,2018,6,29,0.138,2018,0,0
 3,Emotionless,Drake,17133886,27,2018,6,29,0.0853,2018,0,0
 4,I'm Upset,Drake,16610484,27,2018,6,29,0.492,2018,0,0
 5,In My Feelings,Drake,16205597,27,2018,6,29,0.35,2018,0,0
@@ -4320,19 +4320,19 @@ position,track_name,artist,streams,top_week,top_year,top_month,top_first_day,val
 8,Survival,Drake,15034277,27,2018,6,29,0.145,2018,0,0
 9,God's Plan,Drake,14344274,27,2018,6,29,0.357,2018,1,19
 10,8 Out Of 10,Drake,13733859,27,2018,6,29,0.31,2018,0,0
-11,Can’t Take A Joke,Drake,13676971,27,2018,6,29,0.446,2018,0,0
+11,Cant Take A Joke,Drake,13676971,27,2018,6,29,0.446,2018,0,0
 12,Talk Up,Drake,13592919,27,2018,6,29,0.334,2018,0,0
 13,Nice For What,Drake,13576992,27,2018,6,29,0.758,2018,0,0
 14,Lucid Dreams,Juice WRLD,12795492,27,2018,6,29,0.218,2018,0,0
 15,SAD!,XXXTENTACION,12286484,27,2018,6,29,0.473,2018,3,2
-16,Sandra’s Rose,Drake,11262530,27,2018,6,29,0.519,2018,0,0
+16,Sandras Rose,Drake,11262530,27,2018,6,29,0.519,2018,0,0
 17,Summer Games,Drake,10390735,27,2018,6,29,0.134,2018,0,0
 18,Blue Tint,Drake,9550186,27,2018,6,29,0.123,2018,0,0
 19,Jaded,Drake,9330213,27,2018,6,29,0.0371,2018,0,0
 22,Peak,Drake,9022953,27,2018,6,29,0.269,2018,0,0
 23,Finesse,Drake,8707898,27,2018,6,29,0.299,2018,0,0
 24,I Like It,Cardi B,8622020,27,2018,6,29,0.65,2018,0,0
-25,That’s How You Feel,Drake,8591949,27,2018,6,29,0.38,2018,0,0
+25,Thats How You Feel,Drake,8591949,27,2018,6,29,0.38,2018,0,0
 26,After Dark,Drake,8189009,27,2018,6,29,0.336,2018,0,0
 29,Yes Indeed,Lil Baby,7269782,27,2018,6,29,0.562,2018,0,0
 30,Better Now,Post Malone,7268833,27,2018,6,29,0.341,2018,0,0
@@ -4346,7 +4346,7 @@ position,track_name,artist,streams,top_week,top_year,top_month,top_first_day,val
 40,Look Alive,BlocBoy JB,4872515,27,2018,6,29,0.595,2018,2,9
 41,All Mine,Kanye West,4812118,27,2018,6,29,0.291,2018,0,0
 42,APESHIT,The Carters,4675594,27,2018,6,29,0.377,2018,0,0
-43,Jackie Chan,Tiësto,4550055,27,2018,6,29,0.687,2018,0,0
+43,Jackie Chan,Tisto,4550055,27,2018,6,29,0.687,2018,0,0
 44,rockstar,Post Malone,4367129,27,2018,6,29,0.129,2018,9,15
 45,Ocean,Martin Garrix,4335280,27,2018,6,29,0.221,2018,0,0
 46,Back To You,Selena Gomez,4120327,27,2018,6,29,0.494,2018,0,0
@@ -4360,7 +4360,7 @@ position,track_name,artist,streams,top_week,top_year,top_month,top_first_day,val
 54,Plug Walk,Rich The Kid,3509037,27,2018,6,29,0.158,2018,4,3
 55,This Is America,Childish Gambino,3505110,27,2018,6,29,0.549,2018,0,0
 56,Ball For Me,Post Malone,3461046,27,2018,6,29,0.543,2018,0,0
-57,Te Boté - Remix,Nio Garcia,3405197,27,2018,6,29,0.442,2018,0,0
+57,Te Bot - Remix,Nio Garcia,3405197,27,2018,6,29,0.442,2018,0,0
 58,lovely,Billie Eilish,3391369,27,2018,6,29,0.12,2018,0,0
 59,Praise The Lord,A$AP Rocky,3329916,27,2018,6,29,0.294,2018,0,0
 60,Walk It Talk It,Migos,3282991,27,2018,6,29,0.395,2018,3,18
@@ -4493,7 +4493,7 @@ position,track_name,artist,streams,top_week,top_year,top_month,top_first_day,val
 1,In My Feelings,Drake,24879464,28,2018,7,6,0.35,2018,0,0
 2,Nonstop,Drake,14660638,28,2018,7,6,0.423,2018,0,0
 3,Lucid Dreams,Juice WRLD,13087057,28,2018,7,6,0.218,2018,0,0
-4,Don’t Matter To Me,Drake,12077821,28,2018,7,6,0.138,2018,0,0
+4,Dont Matter To Me,Drake,12077821,28,2018,7,6,0.138,2018,0,0
 5,SAD!,XXXTENTACION,11346395,28,2018,7,6,0.473,2018,3,2
 6,I'm Upset,Drake,9445554,28,2018,7,6,0.492,2018,0,0
 7,Nice For What,Drake,9256525,28,2018,7,6,0.758,2018,0,0
@@ -4507,13 +4507,13 @@ position,track_name,artist,streams,top_week,top_year,top_month,top_first_day,val
 15,Better Now,Post Malone,7725315,28,2018,7,6,0.341,2018,0,0
 16,Emotionless,Drake,6901710,28,2018,7,6,0.0853,2018,0,0
 17,Elevate,Drake,5793418,28,2018,7,6,0.0542,2018,0,0
-18,Can’t Take A Joke,Drake,5693155,28,2018,7,6,0.446,2018,0,0
+18,Cant Take A Joke,Drake,5693155,28,2018,7,6,0.446,2018,0,0
 19,Psycho,Post Malone,5582255,28,2018,7,6,0.459,2018,2,23
 20,Jocelyn Flores,XXXTENTACION,5520515,28,2018,7,6,0.437,2017,10,31
 21,changes,XXXTENTACION,5425090,28,2018,7,6,0.52,2018,3,5
 22,All Girls Are The Same,Juice WRLD,5280126,28,2018,7,6,0.203,2018,0,0
 23,Ocean,Martin Garrix,5182762,28,2018,7,6,0.221,2018,0,0
-24,Jackie Chan,Tiësto,4937419,28,2018,7,6,0.687,2018,0,0
+24,Jackie Chan,Tisto,4937419,28,2018,7,6,0.687,2018,0,0
 25,Look Alive,BlocBoy JB,4827267,28,2018,7,6,0.595,2018,2,9
 26,Boo'd Up,Ella Mai,4661211,28,2018,7,6,0.235,2017,0,0
 27,Fuck Love,XXXTENTACION,4654752,28,2018,7,6,0.329,2017,1,23
@@ -4529,17 +4529,17 @@ position,track_name,artist,streams,top_week,top_year,top_month,top_first_day,val
 37,Summer Games,Drake,4142103,28,2018,7,6,0.134,2018,0,0
 38,Back To You,Selena Gomez,4086334,28,2018,7,6,0.494,2018,0,0
 39,After Dark,Drake,4071657,28,2018,7,6,0.336,2018,0,0
-40,Sandra’s Rose,Drake,4032366,28,2018,7,6,0.519,2018,0,0
+40,Sandras Rose,Drake,4032366,28,2018,7,6,0.519,2018,0,0
 41,Bed,Nicki Minaj,4030785,28,2018,7,6,0.452,2018,0,0
 42,One Kiss,Calvin Harris,3790800,28,2018,7,6,0.592,2018,0,0
-43,That’s How You Feel,Drake,3787788,28,2018,7,6,0.38,2018,0,0
+43,Thats How You Feel,Drake,3787788,28,2018,7,6,0.38,2018,0,0
 46,Plug Walk,Rich The Kid,3558488,28,2018,7,6,0.158,2018,4,3
 47,Everybody Dies In Their Nightmares,XXXTENTACION,3549039,28,2018,7,6,0.689,2017,8,25
 48,Jaded,Drake,3535523,28,2018,7,6,0.0371,2018,0,0
 49,Finesse,Drake,3503847,28,2018,7,6,0.299,2018,0,0
 50,Praise The Lord,A$AP Rocky,3444042,28,2018,7,6,0.294,2018,0,0
 51,lovely,Billie Eilish,3410521,28,2018,7,6,0.12,2018,0,0
-52,Te Boté - Remix,Nio Garcia,3397256,28,2018,7,6,0.442,2018,0,0
+52,Te Bot - Remix,Nio Garcia,3397256,28,2018,7,6,0.442,2018,0,0
 53,Meant to Be,Bebe Rexha,3309480,28,2018,7,6,0.579,2017,10,24
 54,This Is America,Childish Gambino,3284647,28,2018,7,6,0.549,2018,0,0
 57,Ric Flair Drip,Offset,3216361,28,2018,7,6,0.333,2017,3,1
@@ -4660,7 +4660,7 @@ position,track_name,artist,streams,top_week,top_year,top_month,top_first_day,val
 4,God is a woman,Ariana Grande,10771324,29,2018,7,13,0.268,2018,0,0
 5,SAD!,XXXTENTACION,10503061,29,2018,7,13,0.473,2018,3,2
 6,Taste,Tyga,9777479,29,2018,7,13,0.342,2018,0,0
-7,Don’t Matter To Me,Drake,9769263,29,2018,7,13,0.138,2018,0,0
+7,Dont Matter To Me,Drake,9769263,29,2018,7,13,0.138,2018,0,0
 8,I Like It,Cardi B,9278476,29,2018,7,13,0.65,2018,0,0
 9,Moonlight,XXXTENTACION,8544143,29,2018,7,13,0.711,2018,0,0
 10,Girls Like You,Maroon 5,8257586,29,2018,7,13,0.377,2018,0,0
@@ -4671,7 +4671,7 @@ position,track_name,artist,streams,top_week,top_year,top_month,top_first_day,val
 15,I'm Upset,Drake,7313974,29,2018,7,13,0.492,2018,0,0
 16,God's Plan,Drake,6886838,29,2018,7,13,0.357,2018,1,19
 17,Mob Ties,Drake,6010125,29,2018,7,13,0.491,2018,0,0
-18,Jackie Chan,Tiësto,5589022,29,2018,7,13,0.687,2018,0,0
+18,Jackie Chan,Tisto,5589022,29,2018,7,13,0.687,2018,0,0
 19,Youngblood,5 Seconds of Summer,5476526,29,2018,7,13,0.152,2018,0,0
 20,Psycho,Post Malone,5461822,29,2018,7,13,0.459,2018,2,23
 21,Eastside,benny blanco,5325080,29,2018,7,13,0.319,2018,0,0
@@ -4688,19 +4688,19 @@ position,track_name,artist,streams,top_week,top_year,top_month,top_first_day,val
 32,All Mine,Kanye West,4347034,29,2018,7,13,0.291,2018,0,0
 33,Wasted,Juice WRLD,4274567,29,2018,7,13,0.502,2018,0,0
 34,rockstar,Post Malone,4206779,29,2018,7,13,0.129,2018,9,15
-35,Back To You - From 13 Reasons Why – Season 2 Soundtrack,Selena Gomez,4172502,29,2018,7,13,0.508,2018,0,0
+35,Back To You - From 13 Reasons Why  Season 2 Soundtrack,Selena Gomez,4172502,29,2018,7,13,0.508,2018,0,0
 36,Emotionless,Drake,4156072,29,2018,7,13,0.0853,2018,0,0
 37,Hopeless Romantic,Wiz Khalifa,4128303,29,2018,7,13,0.552,2018,0,0
 38,Praise The Lord,A$AP Rocky,4095518,29,2018,7,13,0.294,2018,0,0
 39,One Kiss,Calvin Harris,3965186,29,2018,7,13,0.592,2018,0,0
-40,Can’t Take A Joke,Drake,3811354,29,2018,7,13,0.446,2018,0,0
+40,Cant Take A Joke,Drake,3811354,29,2018,7,13,0.446,2018,0,0
 41,Elevate,Drake,3793839,29,2018,7,13,0.0542,2018,0,0
 42,Solo,Clean Bandit,3679662,29,2018,7,13,0.565,2018,0,0
 45,lovely,Billie Eilish,3597219,29,2018,7,13,0.12,2018,0,0
 46,Body,Loud Luxury,3551924,29,2018,7,13,0.582,2017,0,0
 47,Plug Walk,Rich The Kid,3444255,29,2018,7,13,0.158,2018,4,3
 48,Fr Fr,Wiz Khalifa,3377195,29,2018,7,13,0.327,2018,0,0
-49,Te Boté - Remix,Nio Garcia,3376696,29,2018,7,13,0.442,2018,0,0
+49,Te Bot - Remix,Nio Garcia,3376696,29,2018,7,13,0.442,2018,0,0
 50,Everybody Dies In Their Nightmares,XXXTENTACION,3345149,29,2018,7,13,0.689,2017,8,25
 51,Jumpsuit,Twenty One Pilots,3331795,29,2018,7,13,0.235,2018,0,0
 52,Nico And The Niners,Twenty One Pilots,3303854,29,2018,7,13,0.328,2018,0,0
@@ -4735,8 +4735,8 @@ position,track_name,artist,streams,top_week,top_year,top_month,top_first_day,val
 81,Talk Up,Drake,2533690,29,2018,7,13,0.334,2018,0,0
 82,ocean eyes,Billie Eilish,2516951,29,2018,7,13,0.157,2016,0,0
 83,Feels Like Summer,Childish Gambino,2472681,29,2018,7,13,0.255,2018,0,0
-84,Sandra’s Rose,Drake,2453859,29,2018,7,13,0.519,2018,0,0
-85,That’s How You Feel,Drake,2453421,29,2018,7,13,0.38,2018,0,0
+84,Sandras Rose,Drake,2453859,29,2018,7,13,0.519,2018,0,0
+85,Thats How You Feel,Drake,2453421,29,2018,7,13,0.38,2018,0,0
 86,Legends,Juice WRLD,2427341,29,2018,7,13,0.381,2018,0,0
 87,Shoota,Playboi Carti,2375556,29,2018,7,13,0.47,2018,0,0
 88,X,Nicky Jam,2353737,29,2018,7,13,0.694,2019,2,25
@@ -4833,7 +4833,7 @@ position,track_name,artist,streams,top_week,top_year,top_month,top_first_day,val
 11,Girls Like You,Maroon 5,6973413,30,2018,7,20,0.377,2018,0,0
 12,Nice For What,Drake,6771298,30,2018,7,20,0.758,2018,0,0
 13,Yes Indeed,Lil Baby,6641906,30,2018,7,20,0.562,2018,0,0
-14,Don’t Matter To Me,Drake,6347269,30,2018,7,20,0.138,2018,0,0
+14,Dont Matter To Me,Drake,6347269,30,2018,7,20,0.138,2018,0,0
 15,Eastside,benny blanco,6254560,30,2018,7,20,0.319,2018,0,0
 16,God's Plan,Drake,5933821,30,2018,7,20,0.357,2018,1,19
 17,I'm Upset,Drake,5589398,30,2018,7,20,0.492,2018,0,0
@@ -4841,7 +4841,7 @@ position,track_name,artist,streams,top_week,top_year,top_month,top_first_day,val
 19,Psycho,Post Malone,5249780,30,2018,7,20,0.459,2018,2,23
 20,Youngblood,5 Seconds of Summer,5190258,30,2018,7,20,0.152,2018,0,0
 21,Jocelyn Flores,XXXTENTACION,4935333,30,2018,7,20,0.437,2017,10,31
-22,Jackie Chan,Tiësto,4929677,30,2018,7,20,0.687,2018,0,0
+22,Jackie Chan,Tisto,4929677,30,2018,7,20,0.687,2018,0,0
 23,Mob Ties,Drake,4750291,30,2018,7,20,0.491,2018,0,0
 24,changes,XXXTENTACION,4705276,30,2018,7,20,0.52,2018,3,5
 25,Summertime Magic,Childish Gambino,4634421,30,2018,7,20,0.125,2018,0,0
@@ -4857,13 +4857,13 @@ position,track_name,artist,streams,top_week,top_year,top_month,top_first_day,val
 35,Praise The Lord,A$AP Rocky,3884368,30,2018,7,20,0.294,2018,0,0
 36,Rise,Jonas Blue,3860088,30,2018,7,20,0.669,2018,0,0
 37,no tears left to cry,Ariana Grande,3669931,30,2018,7,20,0.354,2018,0,0
-38,Back To You - From 13 Reasons Why – Season 2 Soundtrack,Selena Gomez,3630905,30,2018,7,20,0.508,2018,0,0
+38,Back To You - From 13 Reasons Why  Season 2 Soundtrack,Selena Gomez,3630905,30,2018,7,20,0.508,2018,0,0
 39,you should see me in a crown,Billie Eilish,3607980,30,2018,7,20,0.323,2019,0,0
 40,Ball For Me,Post Malone,3548137,30,2018,7,20,0.543,2018,0,0
 41,Solo,Clean Bandit,3515387,30,2018,7,20,0.565,2018,0,0
 44,One Kiss,Calvin Harris,3452592,30,2018,7,20,0.592,2018,0,0
 45,Bed,Nicki Minaj,3399710,30,2018,7,20,0.452,2018,0,0
-48,Te Boté - Remix,Nio Garcia,3317790,30,2018,7,20,0.442,2018,0,0
+48,Te Bot - Remix,Nio Garcia,3317790,30,2018,7,20,0.442,2018,0,0
 49,Plug Walk,Rich The Kid,3315593,30,2018,7,20,0.158,2018,4,3
 50,Hopeless Romantic,Wiz Khalifa,3282295,30,2018,7,20,0.552,2018,0,0
 51,Everybody Dies In Their Nightmares,XXXTENTACION,3272621,30,2018,7,20,0.689,2017,8,25
@@ -4883,7 +4883,7 @@ position,track_name,artist,streams,top_week,top_year,top_month,top_first_day,val
 65,Emotionless,Drake,2689282,30,2018,7,20,0.0853,2018,0,0
 66,Walk It Talk It,Migos,2657563,30,2018,7,20,0.395,2018,3,18
 67,Hope,XXXTENTACION,2625294,30,2018,7,20,0.225,2018,0,0
-68,Can’t Take A Joke,Drake,2599649,30,2018,7,20,0.446,2018,0,0
+68,Cant Take A Joke,Drake,2599649,30,2018,7,20,0.446,2018,0,0
 69,XO Tour Llif3,Lil Uzi Vert,2581027,30,2018,7,20,0.401,2017,2,26
 70,Look At Me!,XXXTENTACION,2574846,30,2018,7,20,0.349,2017,12,30
 71,Candy Paint,Post Malone,2568552,30,2018,7,20,0.381,2018,10,20
@@ -4952,7 +4952,7 @@ position,track_name,artist,streams,top_week,top_year,top_month,top_first_day,val
 142,Love It If We Made It,The 1975,1702946,30,2018,7,20,0.0631,2018,0,0
 143,Sober,Demi Lovato,1689808,30,2018,7,20,0.17,2018,12,8
 144,Africa,TOTO,1686806,30,2018,7,20,0.732,1982,0,0
-145,That’s How You Feel,Drake,1683714,30,2018,7,20,0.38,2018,0,0
+145,Thats How You Feel,Drake,1683714,30,2018,7,20,0.38,2018,0,0
 146,Ned Flanders,MadeinTYO,1683590,30,2018,7,20,0.299,2018,0,0
 147,I Know You,Lil Skies,1678526,30,2018,7,20,0.442,2018,0,0
 148,Outside Today,YoungBoy Never Broke Again,1674363,30,2018,7,20,0.0585,2018,1,6
@@ -5015,10 +5015,10 @@ position,track_name,artist,streams,top_week,top_year,top_month,top_first_day,val
 15,Nice For What,Drake,5994266,31,2018,7,27,0.758,2018,0,0
 16,God's Plan,Drake,5316122,31,2018,7,27,0.357,2018,1,19
 17,Psycho,Post Malone,5030764,31,2018,7,27,0.459,2018,2,23
-18,Don’t Matter To Me,Drake,4856745,31,2018,7,27,0.138,2018,0,0
+18,Dont Matter To Me,Drake,4856745,31,2018,7,27,0.138,2018,0,0
 19,Youngblood,5 Seconds of Summer,4833253,31,2018,7,27,0.152,2018,0,0
 20,I'm Upset,Drake,4805435,31,2018,7,27,0.492,2018,0,0
-21,Jackie Chan,Tiësto,4699018,31,2018,7,27,0.687,2018,0,0
+21,Jackie Chan,Tisto,4699018,31,2018,7,27,0.687,2018,0,0
 22,Jocelyn Flores,XXXTENTACION,4696417,31,2018,7,27,0.437,2017,10,31
 23,All Girls Are The Same,Juice WRLD,4499373,31,2018,7,27,0.203,2018,0,0
 24,changes,XXXTENTACION,4363488,31,2018,7,27,0.52,2018,3,5
@@ -5035,8 +5035,8 @@ position,track_name,artist,streams,top_week,top_year,top_month,top_first_day,val
 39,Ball For Me,Post Malone,3414686,31,2018,7,27,0.543,2018,0,0
 40,Summertime Magic,Childish Gambino,3408173,31,2018,7,27,0.125,2018,0,0
 41,lovely,Billie Eilish,3357561,31,2018,7,27,0.12,2018,0,0
-42,Te Boté - Remix,Nio Garcia,3355535,31,2018,7,27,0.442,2018,0,0
-43,Back To You - From 13 Reasons Why – Season 2 Soundtrack,Selena Gomez,3313382,31,2018,7,27,0.508,2018,0,0
+42,Te Bot - Remix,Nio Garcia,3355535,31,2018,7,27,0.442,2018,0,0
+43,Back To You - From 13 Reasons Why  Season 2 Soundtrack,Selena Gomez,3313382,31,2018,7,27,0.508,2018,0,0
 44,Solo,Clean Bandit,3286384,31,2018,7,27,0.565,2018,0,0
 45,I Fall Apart,Post Malone,3277363,31,2018,7,27,0.291,2016,0,0
 46,High Hopes,Panic! At The Disco,3157121,31,2018,7,27,0.681,2018,0,0
@@ -5082,7 +5082,7 @@ position,track_name,artist,streams,top_week,top_year,top_month,top_first_day,val
 86,Lean Wit Me,Juice WRLD,2087817,31,2018,7,27,0.237,2018,0,0
 87,Congratulations,Post Malone,2085408,31,2018,7,27,0.492,2016,0,0
 88,Nowadays,Lil Skies,2077967,31,2018,7,27,0.46,2017,12,17
-89,Can’t Take A Joke,Drake,2075545,31,2018,7,27,0.446,2018,0,0
+89,Cant Take A Joke,Drake,2075545,31,2018,7,27,0.446,2018,0,0
 90,HUMBLE.,Kendrick Lamar,2063975,31,2018,7,27,0.421,2017,3,30
 91,X,Nicky Jam,2041264,31,2018,7,27,0.694,2019,2,25
 92,Emotionless,Drake,2041048,31,2018,7,27,0.0853,2018,0,0
@@ -5191,12 +5191,12 @@ position,track_name,artist,streams,top_week,top_year,top_month,top_first_day,val
 37,Jocelyn Flores,XXXTENTACION,4345310,32,2018,8,3,0.437,2017,10,31
 38,All Girls Are The Same,Juice WRLD,4303537,32,2018,8,3,0.203,2018,0,0
 39,Body,Loud Luxury,4270583,32,2018,8,3,0.582,2017,0,0
-40,Jackie Chan,Tiësto,4133543,32,2018,8,3,0.687,2018,0,0
+40,Jackie Chan,Tisto,4133543,32,2018,8,3,0.687,2018,0,0
 41,Wasted,Juice WRLD,4030475,32,2018,8,3,0.502,2018,0,0
 42,changes,XXXTENTACION,3966310,32,2018,8,3,0.52,2018,3,5
 43,I'm Upset,Drake,3939691,32,2018,8,3,0.492,2018,0,0
 44,Fuck Love,XXXTENTACION,3879318,32,2018,8,3,0.329,2017,1,23
-45,Don’t Matter To Me,Drake,3829104,32,2018,8,3,0.138,2018,0,0
+45,Dont Matter To Me,Drake,3829104,32,2018,8,3,0.138,2018,0,0
 46,Look Alive,BlocBoy JB,3773157,32,2018,8,3,0.595,2018,2,9
 47,rockstar,Post Malone,3750502,32,2018,8,3,0.129,2018,9,15
 48,SWISH,Tyga,3713855,32,2018,8,3,0.274,2018,0,0
@@ -5205,7 +5205,7 @@ position,track_name,artist,streams,top_week,top_year,top_month,top_first_day,val
 51,Happy Now,Zedd,3368219,32,2018,8,3,0.458,2018,0,0
 52,Mob Ties,Drake,3175989,32,2018,8,3,0.491,2018,0,0
 53,Rise,Jonas Blue,3136502,32,2018,8,3,0.669,2018,0,0
-54,Te Boté - Remix,Nio Garcia,3109312,32,2018,8,3,0.442,2018,0,0
+54,Te Bot - Remix,Nio Garcia,3109312,32,2018,8,3,0.442,2018,0,0
 55,I Fall Apart,Post Malone,3098686,32,2018,8,3,0.291,2016,0,0
 56,Ball For Me,Post Malone,3091376,32,2018,8,3,0.543,2018,0,0
 57,Boo'd Up,Ella Mai,2999033,32,2018,8,3,0.235,2017,0,0
@@ -5226,7 +5226,7 @@ position,track_name,artist,streams,top_week,top_year,top_month,top_first_day,val
 72,Ric Flair Drip,Offset,2586006,32,2018,8,3,0.333,2017,3,1
 73,XO Tour Llif3,Lil Uzi Vert,2580481,32,2018,8,3,0.401,2017,2,26
 74,Mine,Bazzi,2528407,32,2018,8,3,0.717,2018,10,12
-75,Back To You - From 13 Reasons Why – Season 2 Soundtrack,Selena Gomez,2509277,32,2018,8,3,0.508,2018,0,0
+75,Back To You - From 13 Reasons Why  Season 2 Soundtrack,Selena Gomez,2509277,32,2018,8,3,0.508,2018,0,0
 76,All Mine,Kanye West,2506703,32,2018,8,3,0.291,2018,0,0
 77,goosebumps,Travis Scott,2417486,32,2018,8,3,0.442,2016,0,0
 78,Ladders,Mac Miller,2409567,32,2018,8,3,0.291,2018,0,0
@@ -5291,7 +5291,7 @@ position,track_name,artist,streams,top_week,top_year,top_month,top_first_day,val
 147,Narcos,Migos,1735517,32,2018,8,3,0.242,2018,7,24
 150,Ned Flanders,MadeinTYO,1708547,32,2018,8,3,0.299,2018,0,0
 151,Connection,OneRepublic,1687857,32,2018,8,3,0.624,2018,0,0
-152,Can’t Take A Joke,Drake,1685907,32,2018,8,3,0.446,2018,0,0
+152,Cant Take A Joke,Drake,1685907,32,2018,8,3,0.446,2018,0,0
 153,You Make It Easy,Jason Aldean,1678438,32,2018,8,3,0.406,2018,1,26
 154,NUMB,XXXTENTACION,1662169,32,2018,8,3,0.196,2018,0,0
 155,idontwannabeyouanymore,Billie Eilish,1660878,32,2018,8,3,0.247,2017,0,0
@@ -5363,11 +5363,11 @@ position,track_name,artist,streams,top_week,top_year,top_month,top_first_day,val
 39,Lean Wit Me,Juice WRLD,3654398,33,2018,8,10,0.237,2018,0,0
 40,WORKIN ME,Quavo,3596518,33,2018,8,10,0.228,2018,0,0
 47,Praise The Lord,A$AP Rocky,3338099,33,2018,8,10,0.294,2018,0,0
-50,Te Boté - Remix,Nio Garcia,3051814,33,2018,8,10,0.442,2018,0,0
+50,Te Bot - Remix,Nio Garcia,3051814,33,2018,8,10,0.442,2018,0,0
 51,Rise,Jonas Blue,2960905,33,2018,8,10,0.669,2018,0,0
 52,Shake It Up,Trippie Redd,2954742,33,2018,8,10,0.402,2018,0,0
 53,Missing My Idols,Trippie Redd,2938804,33,2018,8,10,0.528,2018,0,0
-54,Don’t Matter To Me,Drake,2930509,33,2018,8,10,0.138,2018,0,0
+54,Dont Matter To Me,Drake,2930509,33,2018,8,10,0.138,2018,0,0
 55,In My Mind,Dynoro,2873491,33,2018,8,10,0.163,2018,0,0
 56,lovely,Billie Eilish,2868942,33,2018,8,10,0.12,2018,0,0
 57,Mob Ties,Drake,2867727,33,2018,8,10,0.491,2018,0,0
@@ -5399,7 +5399,7 @@ position,track_name,artist,streams,top_week,top_year,top_month,top_first_day,val
 93,Candy Paint,Post Malone,2359302,33,2018,8,10,0.381,2018,10,20
 94,the remedy for a broken heart,XXXTENTACION,2356878,33,2018,8,10,0.271,2018,0,0
 95,Ocean,Martin Garrix,2350455,33,2018,8,10,0.221,2018,0,0
-98,Back To You - From 13 Reasons Why – Season 2 Soundtrack,Selena Gomez,2318021,33,2018,8,10,0.508,2018,0,0
+98,Back To You - From 13 Reasons Why  Season 2 Soundtrack,Selena Gomez,2318021,33,2018,8,10,0.508,2018,0,0
 99,Meant to Be,Bebe Rexha,2315493,33,2018,8,10,0.579,2017,10,24
 100,Look At Me!,XXXTENTACION,2272101,33,2018,8,10,0.349,2017,12,30
 101,Walk It Talk It,Migos,2258944,33,2018,8,10,0.395,2018,3,18
@@ -5463,7 +5463,7 @@ position,track_name,artist,streams,top_week,top_year,top_month,top_first_day,val
 181,KOD,J. Cole,1560111,33,2018,8,10,0.199,2018,0,0
 184,LOVE. FEAT. ZACARI.,Kendrick Lamar,1545164,33,2018,8,10,0.779,2017,10,2
 185,Shape of You,Ed Sheeran,1538732,33,2018,8,10,0.931,2017,1,6
-186,Can’t Take A Joke,Drake,1531925,33,2018,8,10,0.446,2018,0,0
+186,Cant Take A Joke,Drake,1531925,33,2018,8,10,0.446,2018,0,0
 189,Let You Down,NF,1515789,33,2018,8,10,0.464,2017,9,14
 190,Speechless,Dan + Shay,1512422,33,2018,8,10,0.386,2018,0,0
 191,MotorSport,Migos,1500474,33,2018,8,10,0.188,2018,10,30
@@ -5509,7 +5509,7 @@ position,track_name,artist,streams,top_week,top_year,top_month,top_first_day,val
 35,goodnight n go,Ariana Grande,4111133,34,2018,8,17,0.24,2018,0,0
 36,Fuck Love,XXXTENTACION,4071561,34,2018,8,17,0.329,2017,1,23
 37,Body,Loud Luxury,4009443,34,2018,8,17,0.582,2017,0,0
-40,Jackie Chan,Tiësto,3841535,34,2018,8,17,0.687,2018,0,0
+40,Jackie Chan,Tisto,3841535,34,2018,8,17,0.687,2018,0,0
 41,rockstar,Post Malone,3828927,34,2018,8,17,0.129,2018,9,15
 42,Look Alive,BlocBoy JB,3702339,34,2018,8,17,0.595,2018,2,9
 43,Beautiful,Bazzi,3663842,34,2018,8,17,0.178,2018,7,2
@@ -5535,7 +5535,7 @@ position,track_name,artist,streams,top_week,top_year,top_month,top_first_day,val
 73,Love Lies,Khalid,2666851,34,2018,8,17,0.338,2018,2,14
 74,Ric Flair Drip,Offset,2659142,34,2018,8,17,0.333,2017,3,1
 75,Plug Walk,Rich The Kid,2643048,34,2018,8,17,0.158,2018,4,3
-78,Don’t Matter To Me,Drake,2549915,34,2018,8,17,0.138,2018,0,0
+78,Dont Matter To Me,Drake,2549915,34,2018,8,17,0.138,2018,0,0
 81,OTW,Khalid,2514789,34,2018,8,17,0.28,2018,0,0
 82,I'm a Mess,Bebe Rexha,2498386,34,2018,8,17,0.216,2018,0,0
 83,Hopeless Romantic,Wiz Khalifa,2498325,34,2018,8,17,0.552,2018,0,0
@@ -5550,7 +5550,7 @@ position,track_name,artist,streams,top_week,top_year,top_month,top_first_day,val
 96,Meant to Be,Bebe Rexha,2302227,34,2018,8,17,0.579,2017,10,24
 97,Solo,Clean Bandit,2284755,34,2018,8,17,0.565,2018,0,0
 98,Walk It Talk It,Migos,2284522,34,2018,8,17,0.395,2018,3,18
-99,Back To You - From 13 Reasons Why – Season 2 Soundtrack,Selena Gomez,2283627,34,2018,8,17,0.508,2018,0,0
+99,Back To You - From 13 Reasons Why  Season 2 Soundtrack,Selena Gomez,2283627,34,2018,8,17,0.508,2018,0,0
 100,JAPAN,Famous Dex,2230270,34,2018,8,17,0.841,2018,0,0
 101,Shoota,Playboi Carti,2208070,34,2018,8,17,0.47,2018,0,0
 102,Legends,Juice WRLD,2200367,34,2018,8,17,0.381,2018,0,0
@@ -5626,7 +5626,7 @@ position,track_name,artist,streams,top_week,top_year,top_month,top_first_day,val
 192,Finest Hour,Cash Cash,1475923,34,2018,8,17,0.438,2018,0,0
 193,Best Part,H.E.R.,1469851,34,2018,8,17,0.413,2017,8,25
 194,I Don't Wanna Do This Anymore,XXXTENTACION,1467195,34,2018,8,17,0.764,2017,0,0
-195,Can’t Take A Joke,Drake,1465654,34,2018,8,17,0.446,2018,0,0
+195,Cant Take A Joke,Drake,1465654,34,2018,8,17,0.446,2018,0,0
 196,No Limit,G-Eazy,1461135,34,2018,8,17,0.405,2017,9,8
 197,Missing My Idols,Trippie Redd,1458903,34,2018,8,17,0.528,2018,0,0
 198,TOOTIMETOOTIMETOOTIME,The 1975,1453052,34,2018,8,17,0.518,2018,0,0
@@ -5665,7 +5665,7 @@ position,track_name,artist,streams,top_week,top_year,top_month,top_first_day,val
 37,rockstar,Post Malone,3829141,35,2018,8,24,0.129,2018,9,15
 38,Happy Now,Zedd,3753258,35,2018,8,24,0.458,2018,0,0
 39,Beautiful,Bazzi,3725792,35,2018,8,24,0.178,2018,7,2
-40,Jackie Chan,Tiësto,3692815,35,2018,8,24,0.687,2018,0,0
+40,Jackie Chan,Tisto,3692815,35,2018,8,24,0.687,2018,0,0
 41,Look Alive,BlocBoy JB,3658894,35,2018,8,24,0.595,2018,2,9
 42,everytime,Ariana Grande,3581116,35,2018,8,24,0.658,2018,0,0
 43,Praise The Lord,A$AP Rocky,3566164,35,2018,8,24,0.294,2018,0,0
@@ -5677,7 +5677,7 @@ position,track_name,artist,streams,top_week,top_year,top_month,top_first_day,val
 49,Everybody Dies In Their Nightmares,XXXTENTACION,3012953,35,2018,8,24,0.689,2017,8,25
 50,Mob Ties,Drake,2810793,35,2018,8,24,0.491,2018,0,0
 51,Natural,Imagine Dragons,2803903,35,2018,8,24,0.22,2018,0,0
-52,Te Boté - Remix,Nio Garcia,2793766,35,2018,8,24,0.442,2018,0,0
+52,Te Bot - Remix,Nio Garcia,2793766,35,2018,8,24,0.442,2018,0,0
 53,Chanel,Young Thug,2784801,35,2018,8,24,0.462,2018,0,0
 56,Rise,Jonas Blue,2759380,35,2018,8,24,0.669,2018,0,0
 57,Love Lies,Khalid,2737429,35,2018,8,24,0.338,2018,2,14
@@ -5697,7 +5697,7 @@ position,track_name,artist,streams,top_week,top_year,top_month,top_first_day,val
 77,OTW,Khalid,2392018,35,2018,8,24,0.28,2018,0,0
 78,IDOL,BTS,2391745,35,2018,8,24,0.422,2018,0,0
 79,I Like Me Better,Lauv,2386939,35,2018,8,24,0.419,2018,5,19
-80,Don’t Matter To Me,Drake,2383197,35,2018,8,24,0.138,2018,0,0
+80,Dont Matter To Me,Drake,2383197,35,2018,8,24,0.138,2018,0,0
 81,R.E.M,Ariana Grande,2369860,35,2018,8,24,0.622,2018,0,0
 82,Nephew,Smokepurpp,2360839,35,2018,8,24,0.674,2018,0,0
 83,Candy Paint,Post Malone,2349162,35,2018,8,24,0.381,2018,10,20
@@ -5839,14 +5839,14 @@ position,track_name,artist,streams,top_week,top_year,top_month,top_first_day,val
 53,Look Alive,BlocBoy JB,3370461,36,2018,8,31,0.595,2018,2,9
 54,no tears left to cry,Ariana Grande,3295308,36,2018,8,31,0.354,2018,0,0
 55,Beautiful,Bazzi,3256493,36,2018,8,31,0.178,2018,7,2
-56,Jackie Chan,Tiësto,3245491,36,2018,8,31,0.687,2018,0,0
+56,Jackie Chan,Tisto,3245491,36,2018,8,31,0.687,2018,0,0
 57,I Fall Apart,Post Malone,3121937,36,2018,8,31,0.291,2016,0,0
 58,Drew Barrymore,Bryce Vine,3088650,36,2018,8,31,0.261,2017,0,0
 59,Praise The Lord,A$AP Rocky,3071112,36,2018,8,31,0.294,2018,0,0
 60,Happy Now,Zedd,2935807,36,2018,8,31,0.458,2018,0,0
 61,Everybody Dies In Their Nightmares,XXXTENTACION,2923915,36,2018,8,31,0.689,2017,8,25
 62,Hopeless Romantic,Wiz Khalifa,2832576,36,2018,8,31,0.552,2018,0,0
-63,Te Boté - Remix,Nio Garcia,2722414,36,2018,8,31,0.442,2018,0,0
+63,Te Bot - Remix,Nio Garcia,2722414,36,2018,8,31,0.442,2018,0,0
 64,I'm Upset,Drake,2718184,36,2018,8,31,0.492,2018,0,0
 65,Love Lies,Khalid,2714982,36,2018,8,31,0.338,2018,2,14
 66,High Hopes,Panic! At The Disco,2682634,36,2018,8,31,0.681,2018,0,0
@@ -5877,11 +5877,11 @@ position,track_name,artist,streams,top_week,top_year,top_month,top_first_day,val
 95,Mine,Bazzi,2230796,36,2018,8,31,0.717,2018,10,12
 96,Candy Paint,Post Malone,2205804,36,2018,8,31,0.381,2018,10,20
 97,Legends,Juice WRLD,2199376,36,2018,8,31,0.381,2018,0,0
-100,Don’t Matter To Me,Drake,2178529,36,2018,8,31,0.138,2018,0,0
+100,Dont Matter To Me,Drake,2178529,36,2018,8,31,0.138,2018,0,0
 103,I'm a Mess,Bebe Rexha,2165572,36,2018,8,31,0.216,2018,0,0
 104,Meant to Be,Bebe Rexha,2105341,36,2018,8,31,0.579,2017,10,24
 105,Walk It Talk It,Migos,2091309,36,2018,8,31,0.395,2018,3,18
-106,Back To You - From 13 Reasons Why – Season 2 Soundtrack,Selena Gomez,2074171,36,2018,8,31,0.508,2018,0,0
+106,Back To You - From 13 Reasons Why  Season 2 Soundtrack,Selena Gomez,2074171,36,2018,8,31,0.508,2018,0,0
 107,Congratulations,Post Malone,2073790,36,2018,8,31,0.492,2016,0,0
 108,Barbie Dreams,Nicki Minaj,2030852,36,2018,8,31,0.7,2018,0,0
 109,All Mine,Kanye West,2002902,36,2018,8,31,0.291,2018,0,0
@@ -6015,7 +6015,7 @@ position,track_name,artist,streams,top_week,top_year,top_month,top_first_day,val
 63,Feels Like Summer,Childish Gambino,2854253,37,2018,9,7,0.255,2018,0,0
 64,Hopeless Romantic,Wiz Khalifa,2841490,37,2018,9,7,0.552,2018,0,0
 65,What's the Use?,Mac Miller,2836032,37,2018,9,7,0.561,2018,0,0
-66,Jackie Chan,Tiësto,2831946,37,2018,9,7,0.687,2018,0,0
+66,Jackie Chan,Tisto,2831946,37,2018,9,7,0.687,2018,0,0
 67,Love Lies,Khalid,2795423,37,2018,9,7,0.338,2018,2,14
 68,Venom - Music From The Motion Picture,Eminem,2718591,37,2018,9,7,0.46,2018,0,0
 69,Weekend,Mac Miller,2711372,37,2018,9,7,0.19,2015,0,0
@@ -6024,7 +6024,7 @@ position,track_name,artist,streams,top_week,top_year,top_month,top_first_day,val
 72,Ric Flair Drip,Offset,2665482,37,2018,9,7,0.333,2017,3,1
 73,Donald Trump,Mac Miller,2652091,37,2018,9,7,0.836,2011,0,0
 74,Happy Now,Zedd,2646287,37,2018,9,7,0.458,2018,0,0
-75,Te Boté - Remix,Nio Garcia,2635561,37,2018,9,7,0.442,2018,0,0
+75,Te Bot - Remix,Nio Garcia,2635561,37,2018,9,7,0.442,2018,0,0
 76,Hope,XXXTENTACION,2585653,37,2018,9,7,0.225,2018,0,0
 77,lovely,Billie Eilish,2570047,37,2018,9,7,0.12,2018,0,0
 78,High Hopes,Panic! At The Disco,2566597,37,2018,9,7,0.681,2018,0,0
@@ -6053,7 +6053,7 @@ position,track_name,artist,streams,top_week,top_year,top_month,top_first_day,val
 107,Mine,Bazzi,2115354,37,2018,9,7,0.717,2018,10,12
 110,I'm a Mess,Bebe Rexha,2082768,37,2018,9,7,0.216,2018,0,0
 111,RAP DEVIL,Machine Gun Kelly,2056389,37,2018,9,7,0.756,2018,0,0
-112,REEL IT IN,Aminé,2048894,37,2018,9,7,0.423,2018,0,0
+112,REEL IT IN,Amin,2048894,37,2018,9,7,0.423,2018,0,0
 113,Shake It Up,Trippie Redd,2034212,37,2018,9,7,0.402,2018,0,0
 114,Congratulations,Post Malone,2033680,37,2018,9,7,0.492,2016,0,0
 115,Walk It Talk It,Migos,2018185,37,2018,9,7,0.395,2018,3,18
@@ -6061,7 +6061,7 @@ position,track_name,artist,streams,top_week,top_year,top_month,top_first_day,val
 117,REMEDY,Alesso,2014820,37,2018,9,7,0.483,2018,0,0
 118,HUMBLE.,Kendrick Lamar,2010732,37,2018,9,7,0.421,2017,3,30
 123,Meant to Be,Bebe Rexha,1967057,37,2018,9,7,0.579,2017,10,24
-124,Back To You - From 13 Reasons Why – Season 2 Soundtrack,Selena Gomez,1966055,37,2018,9,7,0.508,2018,0,0
+124,Back To You - From 13 Reasons Why  Season 2 Soundtrack,Selena Gomez,1966055,37,2018,9,7,0.508,2018,0,0
 125,No Rest,Lil Skies,1953374,37,2018,9,7,0.508,2018,0,0
 126,Tie Me Down,Gryffin,1952594,37,2018,9,7,0.314,2018,0,0
 127,Nowadays,Lil Skies,1952373,37,2018,9,7,0.46,2017,12,17
@@ -6070,7 +6070,7 @@ position,track_name,artist,streams,top_week,top_year,top_month,top_first_day,val
 132,Call Out My Name,The Weeknd,1927321,37,2018,9,7,0.175,2018,0,0
 133,Roll In Peace,Kodak Black,1927103,37,2018,9,7,0.363,2017,11,7
 134,sweetener,Ariana Grande,1918238,37,2018,9,7,0.46,2018,0,0
-135,Don’t Matter To Me,Drake,1904354,37,2018,9,7,0.138,2018,0,0
+135,Dont Matter To Me,Drake,1904354,37,2018,9,7,0.138,2018,0,0
 136,Life Goes On,Lil Baby,1899815,37,2018,9,7,0.387,2018,0,0
 137,Narcos,Migos,1882380,37,2018,9,7,0.242,2018,7,24
 138,Powerglide,Rae Sremmurd,1881440,37,2018,9,7,0.584,2018,2,16
@@ -6194,10 +6194,10 @@ position,track_name,artist,streams,top_week,top_year,top_month,top_first_day,val
 72,lovely,Billie Eilish,2621011,38,2018,9,14,0.12,2018,0,0
 73,Hope,XXXTENTACION,2611803,38,2018,9,14,0.225,2018,0,0
 74,XO Tour Llif3,Lil Uzi Vert,2606450,38,2018,9,14,0.401,2017,2,26
-75,Te Boté - Remix,Nio Garcia,2583020,38,2018,9,14,0.442,2018,0,0
-76,Jackie Chan,Tiësto,2574315,38,2018,9,14,0.687,2018,0,0
+75,Te Bot - Remix,Nio Garcia,2583020,38,2018,9,14,0.442,2018,0,0
+76,Jackie Chan,Tisto,2574315,38,2018,9,14,0.687,2018,0,0
 77,High Hopes,Panic! At The Disco,2534740,38,2018,9,14,0.681,2018,0,0
-78,REEL IT IN,Aminé,2505454,38,2018,9,14,0.423,2018,0,0
+78,REEL IT IN,Amin,2505454,38,2018,9,14,0.423,2018,0,0
 79,Lust,Lil Skies,2448065,38,2018,9,14,0.519,2017,12,12
 80,Plug Walk,Rich The Kid,2444025,38,2018,9,14,0.158,2018,4,3
 81,OTW,Khalid,2431585,38,2018,9,14,0.28,2018,0,0
@@ -6229,7 +6229,7 @@ position,track_name,artist,streams,top_week,top_year,top_month,top_first_day,val
 113,Nowadays,Lil Skies,1995812,38,2018,9,14,0.46,2017,12,17
 114,Shake It Up,Trippie Redd,1985898,38,2018,9,14,0.402,2018,0,0
 115,Roll In Peace,Kodak Black,1979045,38,2018,9,14,0.363,2017,11,7
-116,Back To You - From 13 Reasons Why – Season 2 Soundtrack,Selena Gomez,1976294,38,2018,9,14,0.508,2018,0,0
+116,Back To You - From 13 Reasons Why  Season 2 Soundtrack,Selena Gomez,1976294,38,2018,9,14,0.508,2018,0,0
 117,Stepping Stone,Eminem,1972065,38,2018,9,14,0.312,2018,0,0
 120,Switch,6LACK,1944915,38,2018,9,14,0.153,2018,0,0
 121,Ned Flanders,MadeinTYO,1936227,38,2018,9,14,0.299,2018,0,0
@@ -6248,7 +6248,7 @@ position,track_name,artist,streams,top_week,top_year,top_month,top_first_day,val
 140,Thunder,Imagine Dragons,1804771,38,2018,9,14,0.288,2017,4,27
 141,Good Guy,Eminem,1798027,38,2018,9,14,0.728,2018,0,0
 142,Life Goes On,Lil Baby,1793284,38,2018,9,14,0.387,2018,0,0
-145,Don’t Matter To Me,Drake,1750215,38,2018,9,14,0.138,2018,0,0
+145,Dont Matter To Me,Drake,1750215,38,2018,9,14,0.138,2018,0,0
 146,Tequila,Dan + Shay,1747466,38,2018,9,14,0.494,2018,1,10
 147,Champion,NAV,1746879,38,2018,9,14,0.396,2018,0,0
 150,Believer,Imagine Dragons,1728381,38,2018,9,14,0.666,2017,2,1
@@ -6344,7 +6344,7 @@ position,track_name,artist,streams,top_week,top_year,top_month,top_first_day,val
 58,Thunderclouds,Sia,2954815,39,2018,9,21,0.489,2019,0,0
 59,Praise The Lord,A$AP Rocky,2950263,39,2018,9,21,0.294,2018,0,0
 60,Taking A Walk,Trippie Redd,2928356,39,2018,9,21,0.343,2018,0,0
-61,REEL IT IN,Aminé,2896783,39,2018,9,21,0.423,2018,0,0
+61,REEL IT IN,Amin,2896783,39,2018,9,21,0.423,2018,0,0
 62,Everybody Dies In Their Nightmares,XXXTENTACION,2896099,39,2018,9,21,0.689,2017,8,25
 63,no tears left to cry,Ariana Grande,2858786,39,2018,9,21,0.354,2018,0,0
 64,Hopeless Romantic,Wiz Khalifa,2844530,39,2018,9,21,0.552,2018,0,0
@@ -6358,14 +6358,14 @@ position,track_name,artist,streams,top_week,top_year,top_month,top_first_day,val
 72,XO Tour Llif3,Lil Uzi Vert,2631858,39,2018,9,21,0.401,2017,2,26
 73,Ric Flair Drip,Offset,2621349,39,2018,9,21,0.333,2017,3,1
 74,Hope,XXXTENTACION,2519947,39,2018,9,21,0.225,2018,0,0
-75,Te Boté - Remix,Nio Garcia,2517832,39,2018,9,21,0.442,2018,0,0
+75,Te Bot - Remix,Nio Garcia,2517832,39,2018,9,21,0.442,2018,0,0
 76,Sin,Young Thug,2505918,39,2018,9,21,0.235,2018,0,0
 77,BEBE,6ix9ine,2498599,39,2018,9,21,0.286,2018,0,0
 78,OTW,Khalid,2469971,39,2018,9,21,0.28,2018,0,0
 79,Lust,Lil Skies,2459863,39,2018,9,21,0.519,2017,12,12
 80,Plug Walk,Rich The Kid,2435863,39,2018,9,21,0.158,2018,4,3
 81,Fr Fr,Wiz Khalifa,2413128,39,2018,9,21,0.327,2018,0,0
-82,Jackie Chan,Tiësto,2410273,39,2018,9,21,0.687,2018,0,0
+82,Jackie Chan,Tisto,2410273,39,2018,9,21,0.687,2018,0,0
 83,Look At Me!,XXXTENTACION,2397430,39,2018,9,21,0.349,2017,12,30
 84,Magic In The Hamptons,Social House,2382775,39,2018,9,21,0.803,2018,0,0
 85,the remedy for a broken heart,XXXTENTACION,2353283,39,2018,9,21,0.271,2018,0,0
@@ -6393,7 +6393,7 @@ position,track_name,artist,streams,top_week,top_year,top_month,top_first_day,val
 111,Vaina Loca,Ozuna,2033082,39,2018,9,21,0.555,2018,0,0
 112,Walk It Talk It,Migos,1995517,39,2018,9,21,0.395,2018,3,18
 115,goosebumps,Travis Scott,1970687,39,2018,9,21,0.442,2016,0,0
-116,Back To You - From 13 Reasons Why – Season 2 Soundtrack,Selena Gomez,1969347,39,2018,9,21,0.508,2018,0,0
+116,Back To You - From 13 Reasons Why  Season 2 Soundtrack,Selena Gomez,1969347,39,2018,9,21,0.508,2018,0,0
 117,Ned Flanders,MadeinTYO,1961867,39,2018,9,21,0.299,2018,0,0
 118,SWISH,Tyga,1935735,39,2018,9,21,0.274,2018,0,0
 121,Nephew,Smokepurpp,1931058,39,2018,9,21,0.674,2018,0,0
@@ -6422,7 +6422,7 @@ position,track_name,artist,streams,top_week,top_year,top_month,top_first_day,val
 150,Betrayed,Lil Xan,1682594,39,2018,9,21,0.241,2018,7,20
 151,Let You Down,NF,1669625,39,2018,9,21,0.464,2017,9,14
 152,Bank Account,21 Savage,1661016,39,2018,9,21,0.376,2017,8,8
-153,Don’t Matter To Me,Drake,1653765,39,2018,9,21,0.138,2018,0,0
+153,Dont Matter To Me,Drake,1653765,39,2018,9,21,0.138,2018,0,0
 154,Champion,NAV,1650469,39,2018,9,21,0.396,2018,0,0
 155,All The Stars,Kendrick Lamar,1643894,39,2018,9,21,0.552,2018,1,4
 156,1-800-273-8255,Logic,1641560,39,2018,9,21,0.357,2017,4,27
@@ -6509,7 +6509,7 @@ position,track_name,artist,streams,top_week,top_year,top_month,top_first_day,val
 73,Beautiful,Bazzi,3194692,40,2018,9,28,0.178,2018,7,2
 74,Drew Barrymore,Bryce Vine,3158301,40,2018,9,28,0.261,2017,0,0
 75,Trip,Ella Mai,3146692,40,2018,9,28,0.358,2018,0,0
-76,REEL IT IN,Aminé,3119899,40,2018,9,28,0.423,2018,0,0
+76,REEL IT IN,Amin,3119899,40,2018,9,28,0.423,2018,0,0
 77,Promises,Calvin Harris,3081232,40,2018,9,28,0.486,2018,0,0
 78,Nice For What,Drake,3033128,40,2018,9,28,0.758,2018,0,0
 81,I Fall Apart,Post Malone,2958758,40,2018,9,28,0.291,2016,0,0
@@ -6526,7 +6526,7 @@ position,track_name,artist,streams,top_week,top_year,top_month,top_first_day,val
 100,Hopeless Romantic,Wiz Khalifa,2497659,40,2018,9,28,0.552,2018,0,0
 101,Ric Flair Drip,Offset,2479437,40,2018,9,28,0.333,2017,3,1
 102,XO Tour Llif3,Lil Uzi Vert,2476091,40,2018,9,28,0.401,2017,2,26
-103,Te Boté - Remix,Nio Garcia,2459197,40,2018,9,28,0.442,2018,0,0
+103,Te Bot - Remix,Nio Garcia,2459197,40,2018,9,28,0.442,2018,0,0
 104,WORKIN ME,Quavo,2447835,40,2018,9,28,0.228,2018,0,0
 105,High Hopes,Panic! At The Disco,2404213,40,2018,9,28,0.681,2018,0,0
 106,Look At Me!,XXXTENTACION,2394760,40,2018,9,28,0.349,2017,12,30
@@ -6534,7 +6534,7 @@ position,track_name,artist,streams,top_week,top_year,top_month,top_first_day,val
 112,Lust,Lil Skies,2286227,40,2018,9,28,0.519,2017,12,12
 113,I Like Me Better,Lauv,2278525,40,2018,9,28,0.419,2018,5,19
 114,Plug Walk,Rich The Kid,2278112,40,2018,9,28,0.158,2018,4,3
-115,Jackie Chan,Tiësto,2235005,40,2018,9,28,0.687,2018,0,0
+115,Jackie Chan,Tisto,2235005,40,2018,9,28,0.687,2018,0,0
 116,Magic In The Hamptons,Social House,2215966,40,2018,9,28,0.803,2018,0,0
 119,Meant to Be,Bebe Rexha,2163772,40,2018,9,28,0.579,2017,10,24
 120,RAP DEVIL,Machine Gun Kelly,2112453,40,2018,9,28,0.756,2018,0,0
@@ -6554,7 +6554,7 @@ position,track_name,artist,streams,top_week,top_year,top_month,top_first_day,val
 134,Nowadays,Lil Skies,1968458,40,2018,9,28,0.46,2017,12,17
 135,Candy Paint,Post Malone,1955170,40,2018,9,28,0.381,2018,10,20
 136,Fr Fr,Wiz Khalifa,1939454,40,2018,9,28,0.327,2018,0,0
-137,Back To You - From 13 Reasons Why – Season 2 Soundtrack,Selena Gomez,1924474,40,2018,9,28,0.508,2018,0,0
+137,Back To You - From 13 Reasons Why  Season 2 Soundtrack,Selena Gomez,1924474,40,2018,9,28,0.508,2018,0,0
 140,The Middle,Zedd,1885837,40,2018,9,28,0.437,2018,1,23
 141,Lost In Japan - Remix,Shawn Mendes,1881566,40,2018,9,28,0.293,2018,0,0
 142,You Say,Lauren Daigle,1880507,40,2018,9,28,0.0797,2018,0,0
@@ -6659,7 +6659,7 @@ position,track_name,artist,streams,top_week,top_year,top_month,top_first_day,val
 53,rockstar,Post Malone,3337940,41,2018,10,5,0.129,2018,9,15
 56,Business Is Business,Lil Baby,3214788,41,2018,10,5,0.4,2018,0,0
 57,Trip,Ella Mai,3204883,41,2018,10,5,0.358,2018,0,0
-58,REEL IT IN,Aminé,3160827,41,2018,10,5,0.423,2018,0,0
+58,REEL IT IN,Amin,3160827,41,2018,10,5,0.423,2018,0,0
 59,SLOW DANCING IN THE DARK,Joji,3143020,41,2018,10,5,0.284,2018,0,0
 60,My Blood,Twenty One Pilots,3135043,41,2018,10,5,0.674,2018,0,0
 61,Promises,Calvin Harris,3110537,41,2018,10,5,0.486,2018,0,0
@@ -6693,7 +6693,7 @@ position,track_name,artist,streams,top_week,top_year,top_month,top_first_day,val
 97,Look At Me!,XXXTENTACION,2403314,41,2018,10,5,0.349,2017,12,30
 98,WORKIN ME,Quavo,2396626,41,2018,10,5,0.228,2018,0,0
 99,Taking A Walk,Trippie Redd,2395447,41,2018,10,5,0.343,2018,0,0
-100,Te Boté - Remix,Nio Garcia,2353925,41,2018,10,5,0.442,2018,0,0
+100,Te Bot - Remix,Nio Garcia,2353925,41,2018,10,5,0.442,2018,0,0
 101,the remedy for a broken heart,XXXTENTACION,2345435,41,2018,10,5,0.271,2018,0,0
 102,Hopeless Romantic,Wiz Khalifa,2313578,41,2018,10,5,0.552,2018,0,0
 103,The Ringer,Eminem,2303872,41,2018,10,5,0.42,2018,0,0
@@ -6726,7 +6726,7 @@ position,track_name,artist,streams,top_week,top_year,top_month,top_first_day,val
 146,The Middle,Zedd,1883687,41,2018,10,5,0.437,2018,1,23
 147,Always Remember Us This Way,Lady Gaga,1869604,41,2018,10,5,0.296,2018,0,0
 148,Murder On My Mind,YNW Melly,1861658,41,2018,10,5,0.74,2018,0,0
-149,Back To You - From 13 Reasons Why – Season 2 Soundtrack,Selena Gomez,1842283,41,2018,10,5,0.508,2018,0,0
+149,Back To You - From 13 Reasons Why  Season 2 Soundtrack,Selena Gomez,1842283,41,2018,10,5,0.508,2018,0,0
 154,Location,Khalid,1772877,41,2018,10,5,0.326,2017,1,26
 155,Red Roses,Lil Skies,1764351,41,2018,10,5,0.456,2017,6,25
 156,Not Alike,Eminem,1757476,41,2018,10,5,0.342,2018,0,0
@@ -6808,7 +6808,7 @@ position,track_name,artist,streams,top_week,top_year,top_month,top_first_day,val
 46,Psycho,Post Malone,3553357,42,2018,10,12,0.459,2018,2,23
 47,Youngblood,5 Seconds of Summer,3460988,42,2018,10,12,0.152,2018,0,0
 48,rockstar,Post Malone,3425965,42,2018,10,12,0.129,2018,9,15
-49,REEL IT IN,Aminé,3407431,42,2018,10,12,0.423,2018,0,0
+49,REEL IT IN,Amin,3407431,42,2018,10,12,0.423,2018,0,0
 50,God's Plan,Drake,3329209,42,2018,10,12,0.357,2018,1,19
 51,Natural,Imagine Dragons,3219326,42,2018,10,12,0.22,2018,0,0
 52,Always Remember Us This Way,Lady Gaga,3206117,42,2018,10,12,0.296,2018,0,0
@@ -6833,7 +6833,7 @@ position,track_name,artist,streams,top_week,top_year,top_month,top_first_day,val
 83,Ric Flair Drip,Offset,2451010,42,2018,10,12,0.333,2017,3,1
 84,Fine China,Future,2434659,42,2018,10,12,0.551,2018,0,0
 85,Drew Barrymore,Bryce Vine,2414407,42,2018,10,12,0.261,2017,0,0
-86,Te Boté - Remix,Nio Garcia,2392473,42,2018,10,12,0.442,2018,0,0
+86,Te Bot - Remix,Nio Garcia,2392473,42,2018,10,12,0.442,2018,0,0
 87,Dedicate,Lil Wayne,2379766,42,2018,10,12,0.724,2018,0,0
 88,Hope,XXXTENTACION,2377140,42,2018,10,12,0.225,2018,0,0
 89,Look At Me!,XXXTENTACION,2319515,42,2018,10,12,0.349,2017,12,30
@@ -6864,7 +6864,7 @@ position,track_name,artist,streams,top_week,top_year,top_month,top_first_day,val
 118,Mine,Bazzi,1965458,42,2018,10,12,0.717,2018,10,12
 119,Roll In Peace,Kodak Black,1964467,42,2018,10,12,0.363,2017,11,7
 120,Murder On My Mind,YNW Melly,1961660,42,2018,10,12,0.74,2018,0,0
-121,Jackie Chan,Tiësto,1960702,42,2018,10,12,0.687,2018,0,0
+121,Jackie Chan,Tisto,1960702,42,2018,10,12,0.687,2018,0,0
 122,Candy Paint,Post Malone,1959649,42,2018,10,12,0.381,2018,10,20
 123,Nowadays,Lil Skies,1947019,42,2018,10,12,0.46,2017,12,17
 124,goosebumps,Travis Scott,1936207,42,2018,10,12,0.442,2016,0,0
@@ -6874,7 +6874,7 @@ position,track_name,artist,streams,top_week,top_year,top_month,top_first_day,val
 128,Black & White,Juice WRLD,1876182,42,2018,10,12,0.233,2018,0,0
 129,The Middle,Zedd,1875311,42,2018,10,12,0.437,2018,1,23
 130,I'm Upset,Drake,1865475,42,2018,10,12,0.492,2018,0,0
-131,Back To You - From 13 Reasons Why – Season 2 Soundtrack,Selena Gomez,1831424,42,2018,10,12,0.508,2018,0,0
+131,Back To You - From 13 Reasons Why  Season 2 Soundtrack,Selena Gomez,1831424,42,2018,10,12,0.508,2018,0,0
 132,Ball For Me,Post Malone,1826902,42,2018,10,12,0.543,2018,0,0
 133,Chanel,Young Thug,1824367,42,2018,10,12,0.462,2018,0,0
 134,Chlorine,Twenty One Pilots,1814601,42,2018,10,12,0.315,2018,0,0
@@ -6925,7 +6925,7 @@ position,track_name,artist,streams,top_week,top_year,top_month,top_first_day,val
 191,Africa,TOTO,1462576,42,2018,10,12,0.732,1982,0,0
 192,Say You Won't Let Go,James Arthur,1460562,42,2018,10,12,0.494,2016,0,0
 193,ocean eyes,Billie Eilish,1457937,42,2018,10,12,0.157,2016,0,0
-194,Don’t Matter To Me,Drake,1455784,42,2018,10,12,0.138,2018,0,0
+194,Dont Matter To Me,Drake,1455784,42,2018,10,12,0.138,2018,0,0
 195,No Role Modelz,J. Cole,1439926,42,2018,10,12,0.463,2014,0,0
 196,Bodak Yellow,Cardi B,1439804,42,2018,10,12,0.485,2018,6,16
 199,Plain Jane,A$AP Ferg,1427133,42,2018,10,12,0.52,2017,6,13
@@ -6982,7 +6982,7 @@ position,track_name,artist,streams,top_week,top_year,top_month,top_first_day,val
 52,WORKIN ME,Quavo,3429561,43,2018,10,19,0.228,2018,0,0
 53,rockstar,Post Malone,3356275,43,2018,10,19,0.129,2018,9,15
 54,Uproar,Lil Wayne,3343409,43,2018,10,19,0.884,2018,0,0
-55,REEL IT IN,Aminé,3340778,43,2018,10,19,0.423,2018,0,0
+55,REEL IT IN,Amin,3340778,43,2018,10,19,0.423,2018,0,0
 56,Youngblood,5 Seconds of Summer,3237572,43,2018,10,19,0.152,2018,0,0
 57,Beautiful,Bazzi,3187355,43,2018,10,19,0.178,2018,7,2
 58,Astronauts,Future,3178346,43,2018,10,19,0.73,2018,0,0
@@ -7013,7 +7013,7 @@ position,track_name,artist,streams,top_week,top_year,top_month,top_first_day,val
 89,XO Tour Llif3,Lil Uzi Vert,2437977,43,2018,10,19,0.401,2017,2,26
 90,Ric Flair Drip,Offset,2424484,43,2018,10,19,0.333,2017,3,1
 91,7 Am Freestyle,Future,2401493,43,2018,10,19,0.539,2018,0,0
-92,Te Boté - Remix,Nio Garcia,2385539,43,2018,10,19,0.442,2018,0,0
+92,Te Bot - Remix,Nio Garcia,2385539,43,2018,10,19,0.442,2018,0,0
 93,Topanga,Trippie Redd,2370860,43,2018,10,19,0.039,2018,0,0
 94,Hope,XXXTENTACION,2347242,43,2018,10,19,0.225,2018,0,0
 97,no tears left to cry,Ariana Grande,2295765,43,2018,10,19,0.354,2018,0,0
@@ -7055,7 +7055,7 @@ position,track_name,artist,streams,top_week,top_year,top_month,top_first_day,val
 141,Speechless,Dan + Shay,1917260,43,2018,10,19,0.386,2018,0,0
 142,JAPAN,Famous Dex,1897623,43,2018,10,19,0.841,2018,0,0
 143,Money,Cardi B,1894369,43,2018,10,19,0.219,2018,0,0
-144,Jackie Chan,Tiësto,1891701,43,2018,10,19,0.687,2018,0,0
+144,Jackie Chan,Tisto,1891701,43,2018,10,19,0.687,2018,0,0
 145,Black & White,Juice WRLD,1872655,43,2018,10,19,0.233,2018,0,0
 146,My Blood,Twenty One Pilots,1869797,43,2018,10,19,0.674,2018,0,0
 147,The Ringer,Eminem,1864249,43,2018,10,19,0.42,2018,0,0
@@ -7066,7 +7066,7 @@ position,track_name,artist,streams,top_week,top_year,top_month,top_first_day,val
 152,Boo'd Up,Ella Mai,1826678,43,2018,10,19,0.235,2017,0,0
 153,Nephew,Smokepurpp,1816951,43,2018,10,19,0.674,2018,0,0
 154,I'm Upset,Drake,1772432,43,2018,10,19,0.492,2018,0,0
-155,Back To You - From 13 Reasons Why – Season 2 Soundtrack,Selena Gomez,1770618,43,2018,10,19,0.508,2018,0,0
+155,Back To You - From 13 Reasons Why  Season 2 Soundtrack,Selena Gomez,1770618,43,2018,10,19,0.508,2018,0,0
 158,Walk It Talk It,Migos,1743262,43,2018,10,19,0.395,2018,3,18
 159,Dedicate,Lil Wayne,1740570,43,2018,10,19,0.724,2018,0,0
 160,No Issue,Future,1738449,43,2018,10,19,0.722,2018,0,0
@@ -7155,7 +7155,7 @@ position,track_name,artist,streams,top_week,top_year,top_month,top_first_day,val
 53,Trip,Ella Mai,3192510,44,2018,10,26,0.358,2018,0,0
 54,WORKIN ME,Quavo,3123143,44,2018,10,26,0.228,2018,0,0
 55,God's Plan,Drake,3105784,44,2018,10,26,0.357,2018,1,19
-56,REEL IT IN,Aminé,3091168,44,2018,10,26,0.423,2018,0,0
+56,REEL IT IN,Amin,3091168,44,2018,10,26,0.423,2018,0,0
 57,I Fall Apart,Post Malone,3056451,44,2018,10,26,0.291,2016,0,0
 58,Beautiful,Bazzi,3032812,44,2018,10,26,0.178,2018,7,2
 59,Close To Me,Ellie Goulding,2997830,44,2018,10,26,0.493,2018,0,0
@@ -7178,7 +7178,7 @@ position,track_name,artist,streams,top_week,top_year,top_month,top_first_day,val
 80,God is a woman,Ariana Grande,2454738,44,2018,10,26,0.268,2018,0,0
 81,XO Tour Llif3,Lil Uzi Vert,2442799,44,2018,10,26,0.401,2017,2,26
 82,Close Friends,Lil Baby,2425864,44,2018,10,26,0.698,2018,0,0
-83,Te Boté - Remix,Nio Garcia,2392889,44,2018,10,26,0.442,2018,0,0
+83,Te Bot - Remix,Nio Garcia,2392889,44,2018,10,26,0.442,2018,0,0
 86,Plug Walk,Rich The Kid,2310442,44,2018,10,26,0.158,2018,4,3
 87,Hope,XXXTENTACION,2303432,44,2018,10,26,0.225,2018,0,0
 88,YEAH RIGHT,Joji,2284544,44,2018,10,26,0.204,2018,0,0
@@ -7227,7 +7227,7 @@ position,track_name,artist,streams,top_week,top_year,top_month,top_first_day,val
 137,Let It Fly,Lil Wayne,1845190,44,2018,10,26,0.745,2018,0,0
 138,CAN'T GET OVER YOU,Joji,1834856,44,2018,10,26,0.844,2018,0,0
 139,Jet Lag,Future,1832783,44,2018,10,26,0.493,2018,0,0
-140,Jackie Chan,Tiësto,1809249,44,2018,10,26,0.687,2018,0,0
+140,Jackie Chan,Tisto,1809249,44,2018,10,26,0.687,2018,0,0
 141,The Middle,Zedd,1788320,44,2018,10,26,0.437,2018,1,23
 142,Location,Khalid,1785106,44,2018,10,26,0.326,2017,1,26
 143,NO FUN,Joji,1784408,44,2018,10,26,0.715,2018,0,0
@@ -7242,7 +7242,7 @@ position,track_name,artist,streams,top_week,top_year,top_month,top_first_day,val
 154,Vaina Loca,Ozuna,1672295,44,2018,10,26,0.555,2018,0,0
 155,Boo'd Up,Ella Mai,1671148,44,2018,10,26,0.235,2017,0,0
 156,Chanel,Young Thug,1665478,44,2018,10,26,0.462,2018,0,0
-157,Back To You - From 13 Reasons Why – Season 2 Soundtrack,Selena Gomez,1661678,44,2018,10,26,0.508,2018,0,0
+157,Back To You - From 13 Reasons Why  Season 2 Soundtrack,Selena Gomez,1661678,44,2018,10,26,0.508,2018,0,0
 158,The Ringer,Eminem,1653893,44,2018,10,26,0.42,2018,0,0
 159,Electricity,Silk City,1651685,44,2018,10,26,0.505,2018,0,0
 160,Thunder,Imagine Dragons,1650301,44,2018,10,26,0.288,2017,4,27
@@ -7317,7 +7317,7 @@ position,track_name,artist,streams,top_week,top_year,top_month,top_first_day,val
 37,Dreamcatcher,Metro Boomin,3953109,45,2018,11,2,0.101,2018,0,0
 38,Eastside,benny blanco,3887809,45,2018,11,2,0.319,2018,0,0
 39,In My Feelings,Drake,3658804,45,2018,11,2,0.35,2018,0,0
-40,REEL IT IN,Aminé,3648099,45,2018,11,2,0.423,2018,0,0
+40,REEL IT IN,Amin,3648099,45,2018,11,2,0.423,2018,0,0
 41,No Stylist,French Montana,3643279,45,2018,11,2,0.498,2018,0,0
 42,breathin,Ariana Grande,3609729,45,2018,11,2,0.364,2018,0,0
 43,Fuck Love,XXXTENTACION,3597917,45,2018,11,2,0.329,2017,1,23
@@ -7368,7 +7368,7 @@ position,track_name,artist,streams,top_week,top_year,top_month,top_first_day,val
 94,XO Tour Llif3,Lil Uzi Vert,2376379,45,2018,11,2,0.401,2017,2,26
 95,Wasted,Juice WRLD,2362469,45,2018,11,2,0.502,2018,0,0
 98,Hope,XXXTENTACION,2269359,45,2018,11,2,0.225,2018,0,0
-101,Te Boté - Remix,Nio Garcia,2214525,45,2018,11,2,0.442,2018,0,0
+101,Te Bot - Remix,Nio Garcia,2214525,45,2018,11,2,0.442,2018,0,0
 102,Plug Walk,Rich The Kid,2204551,45,2018,11,2,0.158,2018,4,3
 103,idontwannabeyouanymore,Billie Eilish,2178252,45,2018,11,2,0.247,2017,0,0
 104,No Complaints,Metro Boomin,2169104,45,2018,11,2,0.203,2018,0,0
@@ -7410,12 +7410,12 @@ position,track_name,artist,streams,top_week,top_year,top_month,top_first_day,val
 142,JAPAN,Famous Dex,1821265,45,2018,11,2,0.841,2018,0,0
 143,YEAH RIGHT,Joji,1811414,45,2018,11,2,0.204,2018,0,0
 144,The Middle,Zedd,1789385,45,2018,11,2,0.437,2018,1,23
-145,Back To You - From 13 Reasons Why – Season 2 Soundtrack,Selena Gomez,1782129,45,2018,11,2,0.508,2018,0,0
+145,Back To You - From 13 Reasons Why  Season 2 Soundtrack,Selena Gomez,1782129,45,2018,11,2,0.508,2018,0,0
 148,There's No Way,Lauv,1772791,45,2018,11,2,0.374,2018,0,0
 149,Black & White,Juice WRLD,1760736,45,2018,11,2,0.233,2018,0,0
 150,Location,Khalid,1745115,45,2018,11,2,0.326,2017,1,26
 151,Tequila,Dan + Shay,1743977,45,2018,11,2,0.494,2018,1,10
-152,Jackie Chan,Tiësto,1718719,45,2018,11,2,0.687,2018,0,0
+152,Jackie Chan,Tisto,1718719,45,2018,11,2,0.687,2018,0,0
 153,Don't Cry,Lil Wayne,1713032,45,2018,11,2,0.233,2018,0,0
 154,Under Pressure - Remastered 2011,Queen,1691025,45,2018,11,2,0.466,1982,0,0
 155,I Love,Joyner Lucas,1689499,45,2018,11,2,0.561,2018,0,0
@@ -7502,7 +7502,7 @@ position,track_name,artist,streams,top_week,top_year,top_month,top_first_day,val
 44,Bohemian Rhapsody - Remastered 2011,Queen,3630467,46,2018,11,9,0.228,1975,0,0
 45,Natural,Imagine Dragons,3568864,46,2018,11,9,0.22,2018,0,0
 46,Fuck Love,XXXTENTACION,3559159,46,2018,11,9,0.329,2017,1,23
-47,REEL IT IN,Aminé,3480401,46,2018,11,9,0.423,2018,0,0
+47,REEL IT IN,Amin,3480401,46,2018,11,9,0.423,2018,0,0
 48,God is a woman,Ariana Grande,3424195,46,2018,11,9,0.268,2018,0,0
 49,All Girls Are The Same,Juice WRLD,3396435,46,2018,11,9,0.203,2018,0,0
 50,No Stylist,French Montana,3391608,46,2018,11,9,0.498,2018,0,0
@@ -7574,7 +7574,7 @@ position,track_name,artist,streams,top_week,top_year,top_month,top_first_day,val
 126,Somebody To Love - Remastered 2011,Queen,2015982,46,2018,11,9,0.358,1976,0,0
 127,I Like Me Better,Lauv,2001018,46,2018,11,9,0.419,2018,5,19
 130,Consequences - orchestra,Camila Cabello,1956985,46,2018,11,9,0.213,2018,0,0
-131,Te Boté - Remix,Nio Garcia,1947620,46,2018,11,9,0.442,2018,0,0
+131,Te Bot - Remix,Nio Garcia,1947620,46,2018,11,9,0.442,2018,0,0
 132,Cry Alone,Lil Peep,1920930,46,2018,11,9,0.285,2018,0,0
 133,Praise The Lord,A$AP Rocky,1913546,46,2018,11,9,0.294,2018,0,0
 134,Self Care,Mac Miller,1911314,46,2018,11,9,0.177,2018,0,0
@@ -7601,7 +7601,7 @@ position,track_name,artist,streams,top_week,top_year,top_month,top_first_day,val
 159,Sin,Young Thug,1705445,46,2018,11,9,0.235,2018,0,0
 160,There's No Way,Lauv,1695959,46,2018,11,9,0.374,2018,0,0
 161,Location,Khalid,1690524,46,2018,11,9,0.326,2017,1,26
-162,Back To You - From 13 Reasons Why – Season 2 Soundtrack,Selena Gomez,1689613,46,2018,11,9,0.508,2018,0,0
+162,Back To You - From 13 Reasons Why  Season 2 Soundtrack,Selena Gomez,1689613,46,2018,11,9,0.508,2018,0,0
 163,16 Lines,Lil Peep,1680094,46,2018,11,9,0.121,2018,0,0
 164,you should see me in a crown,Billie Eilish,1677583,46,2018,11,9,0.323,2019,0,0
 167,Thunder,Imagine Dragons,1675161,46,2018,11,9,0.288,2017,4,27
@@ -7616,7 +7616,7 @@ position,track_name,artist,streams,top_week,top_year,top_month,top_first_day,val
 180,I'm a Mess,Bebe Rexha,1570049,46,2018,11,9,0.216,2018,0,0
 181,Bounce Out With That,YBN Nahmir,1566730,46,2018,11,9,0.381,2018,1,24
 182,Rockin' Around The Christmas Tree - Single Version,Brenda Lee,1565496,46,2018,11,9,0.898,1999,0,0
-183,Jackie Chan,Tiësto,1557122,46,2018,11,9,0.687,2018,0,0
+183,Jackie Chan,Tisto,1557122,46,2018,11,9,0.687,2018,0,0
 184,PICK IT UP,Famous Dex,1557090,46,2018,11,9,0.287,2017,10,20
 185,Machine,Imagine Dragons,1538166,46,2018,11,9,0.596,2018,0,0
 186,Killer Queen - Remastered 2011,Queen,1532522,46,2018,11,9,0.61,1974,0,0
@@ -7673,7 +7673,7 @@ position,track_name,artist,streams,top_week,top_year,top_month,top_first_day,val
 39,Space Cadet,Metro Boomin,3615204,47,2018,11,16,0.638,2018,0,0
 40,breathin,Ariana Grande,3595976,47,2018,11,16,0.364,2018,0,0
 43,Ruin My Life,Zara Larsson,3534727,47,2018,11,16,0.585,2018,0,0
-44,REEL IT IN,Aminé,3523877,47,2018,11,16,0.423,2018,0,0
+44,REEL IT IN,Amin,3523877,47,2018,11,16,0.423,2018,0,0
 45,Close To Me,Ellie Goulding,3520266,47,2018,11,16,0.493,2018,0,0
 46,Fuck Love,XXXTENTACION,3515693,47,2018,11,16,0.329,2017,1,23
 47,All Girls Are The Same,Juice WRLD,3425328,47,2018,11,16,0.203,2018,0,0
@@ -7741,7 +7741,7 @@ position,track_name,artist,streams,top_week,top_year,top_month,top_first_day,val
 117,I Like Me Better,Lauv,1969050,47,2018,11,16,0.419,2018,5,19
 118,Hard Work Pays Off,Future,1967664,47,2018,11,16,0.608,2018,0,0
 119,Speechless,Dan + Shay,1961896,47,2018,11,16,0.386,2018,0,0
-120,Te Boté - Remix,Nio Garcia,1959699,47,2018,11,16,0.442,2018,0,0
+120,Te Bot - Remix,Nio Garcia,1959699,47,2018,11,16,0.442,2018,0,0
 121,Somebody To Love - Remastered 2011,Queen,1947481,47,2018,11,16,0.358,1976,0,0
 122,Last Christmas,Wham!,1938138,47,2018,11,16,0.947,1984,0,0
 123,Praise The Lord,A$AP Rocky,1928462,47,2018,11,16,0.294,2018,0,0
@@ -7775,7 +7775,7 @@ position,track_name,artist,streams,top_week,top_year,top_month,top_first_day,val
 151,Marry Me,Thomas Rhett,1730474,47,2018,11,16,0.474,2017,11,20
 152,Location,Khalid,1723952,47,2018,11,16,0.326,2017,1,26
 153,bitches broken hearts,Billie Eilish,1687825,47,2018,11,16,0.187,2018,0,0
-154,It's Beginning to Look a Lot like Christmas,Michael Bublé,1686851,47,2018,11,16,0.363,2011,0,0
+154,It's Beginning to Look a Lot like Christmas,Michael Bubl,1686851,47,2018,11,16,0.363,2011,0,0
 157,Under Pressure - Remastered 2011,Queen,1670926,47,2018,11,16,0.466,1982,0,0
 158,Shake It Up,Trippie Redd,1668584,47,2018,11,16,0.402,2018,0,0
 159,Beautiful Crazy,Luke Combs,1657160,47,2018,11,16,0.382,2018,0,0
@@ -7787,13 +7787,13 @@ position,track_name,artist,streams,top_week,top_year,top_month,top_first_day,val
 167,Red Roses,Lil Skies,1593916,47,2018,11,16,0.456,2017,6,25
 168,Overdue,Metro Boomin,1592249,47,2018,11,16,0.495,2018,0,0
 169,Let It Snow! Let It Snow! Let It Snow!,Frank Sinatra,1592219,47,2018,11,16,0.851,1945,0,0
-170,Back To You - From 13 Reasons Why – Season 2 Soundtrack,Selena Gomez,1584065,47,2018,11,16,0.508,2018,0,0
+170,Back To You - From 13 Reasons Why  Season 2 Soundtrack,Selena Gomez,1584065,47,2018,11,16,0.508,2018,0,0
 171,Twerk,City Girls,1579286,47,2018,11,16,0.481,2018,0,0
 174,PICK IT UP,Famous Dex,1550725,47,2018,11,16,0.287,2017,10,20
 175,The Way Life Goes,Lil Uzi Vert,1537581,47,2018,11,16,0.756,2017,10,3
 176,Bank Account,21 Savage,1533910,47,2018,11,16,0.376,2017,8,8
 177,Dreamcatcher,Metro Boomin,1533500,47,2018,11,16,0.101,2018,0,0
-178,Jackie Chan,Tiësto,1527806,47,2018,11,16,0.687,2018,0,0
+178,Jackie Chan,Tisto,1527806,47,2018,11,16,0.687,2018,0,0
 179,Shoota,Playboi Carti,1527456,47,2018,11,16,0.47,2018,0,0
 180,Bounce Out With That,YBN Nahmir,1526267,47,2018,11,16,0.381,2018,1,24
 181,COPYCAT,Billie Eilish,1523810,47,2018,11,16,0.234,2017,0,0
@@ -7868,7 +7868,7 @@ position,track_name,artist,streams,top_week,top_year,top_month,top_first_day,val
 56,No Stylist,French Montana,3010464,48,2018,11,23,0.498,2018,0,0
 57,Lean Wit Me,Juice WRLD,2987358,48,2018,11,23,0.237,2018,0,0
 58,STOOPID,6ix9ine,2981356,48,2018,11,23,0.862,2018,0,0
-59,It's Beginning to Look a Lot like Christmas,Michael Bublé,2961238,48,2018,11,23,0.363,2011,0,0
+59,It's Beginning to Look a Lot like Christmas,Michael Bubl,2961238,48,2018,11,23,0.363,2011,0,0
 60,A Holly Jolly Christmas - Single Version,Burl Ives,2896141,48,2018,11,23,0.888,1965,0,0
 61,Let It Snow! Let It Snow! Let It Snow!,Frank Sinatra,2888915,48,2018,11,23,0.851,1945,0,0
 62,Last Christmas,Wham!,2885619,48,2018,11,23,0.947,1984,0,0
@@ -7883,7 +7883,7 @@ position,track_name,artist,streams,top_week,top_year,top_month,top_first_day,val
 71,rockstar,Post Malone,2758596,48,2018,11,23,0.129,2018,9,15
 72,changes,XXXTENTACION,2745130,48,2018,11,23,0.52,2018,3,5
 73,I Like It,Cardi B,2713999,48,2018,11,23,0.65,2018,0,0
-74,Holly Jolly Christmas,Michael Bublé,2709987,48,2018,11,23,0.699,2011,0,0
+74,Holly Jolly Christmas,Michael Bubl,2709987,48,2018,11,23,0.699,2011,0,0
 75,The Christmas Song,Nat King Cole,2678780,48,2018,11,23,0.183,1962,0,0
 76,White Christmas,Bing Crosby,2665641,48,2018,11,23,0.247,1942,0,0
 77,Psycho,Post Malone,2662623,48,2018,11,23,0.459,2018,2,23
@@ -7947,7 +7947,7 @@ position,track_name,artist,streams,top_week,top_year,top_month,top_first_day,val
 149,HUMBLE.,Kendrick Lamar,1748992,48,2018,11,23,0.421,2017,3,30
 150,Love Scars 3,Trippie Redd,1748208,48,2018,11,23,0.117,2018,0,0
 151,Self Care,Mac Miller,1747548,48,2018,11,23,0.177,2018,0,0
-152,Te Boté - Remix,Nio Garcia,1743299,48,2018,11,23,0.442,2018,0,0
+152,Te Bot - Remix,Nio Garcia,1743299,48,2018,11,23,0.442,2018,0,0
 153,bitches broken hearts,Billie Eilish,1732911,48,2018,11,23,0.187,2018,0,0
 154,Best Part,H.E.R.,1728822,48,2018,11,23,0.413,2017,8,25
 157,Young Dumb & Broke,Khalid,1705258,48,2018,11,23,0.394,2017,6,13
@@ -7976,7 +7976,7 @@ position,track_name,artist,streams,top_week,top_year,top_month,top_first_day,val
 180,Carol of the Bells,Mykola Dmytrovych Leontovych,1580131,48,2018,11,23,0.284,1960,0,0
 181,Shake It Up,Trippie Redd,1578739,48,2018,11,23,0.402,2018,0,0
 184,Drew Barrymore,Bryce Vine,1567498,48,2018,11,23,0.261,2017,0,0
-185,Santa Claus Is Coming to Town,Michael Bublé,1564029,48,2018,11,23,0.396,2012,0,0
+185,Santa Claus Is Coming to Town,Michael Bubl,1564029,48,2018,11,23,0.396,2012,0,0
 186,Let You Down,NF,1532672,48,2018,11,23,0.464,2017,9,14
 187,The Middle,Zedd,1527472,48,2018,11,23,0.437,2018,1,23
 188,Sleigh Ride,The Ronettes,1512693,48,2018,11,23,0.853,1963,0,0
@@ -8028,7 +8028,7 @@ position,track_name,artist,streams,top_week,top_year,top_month,top_first_day,val
 42,Topanga,Trippie Redd,4095051,49,2018,11,30,0.039,2018,0,0
 43,lovely,Billie Eilish,3963832,49,2018,11,30,0.12,2018,0,0
 44,Money,Cardi B,3953951,49,2018,11,30,0.219,2018,0,0
-45,It's Beginning to Look a Lot like Christmas,Michael Bublé,3863720,49,2018,11,30,0.363,2011,0,0
+45,It's Beginning to Look a Lot like Christmas,Michael Bubl,3863720,49,2018,11,30,0.363,2011,0,0
 46,Falling Down - Bonus Track,Lil Peep,3730150,49,2018,11,30,0.273,2018,0,0
 47,Fine China,Future,3724116,49,2018,11,30,0.551,2018,0,0
 48,A Holly Jolly Christmas - Single Version,Burl Ives,3711407,49,2018,11,30,0.888,1965,0,0
@@ -8066,7 +8066,7 @@ position,track_name,artist,streams,top_week,top_year,top_month,top_first_day,val
 86,BEBE,6ix9ine,2856092,49,2018,11,30,0.286,2018,0,0
 87,Psycho,Post Malone,2822943,49,2018,11,30,0.459,2018,2,23
 88,BIG BANK,YG,2817480,49,2018,11,30,0.112,2018,0,0
-89,Holly Jolly Christmas,Michael Bublé,2808908,49,2018,11,30,0.699,2011,0,0
+89,Holly Jolly Christmas,Michael Bubl,2808908,49,2018,11,30,0.699,2011,0,0
 90,Bohemian Rhapsody - Remastered 2011,Queen,2800636,49,2018,11,30,0.228,1975,0,0
 91,In My Feelings,Drake,2797721,49,2018,11,30,0.35,2018,0,0
 94,God's Plan,Drake,2741456,49,2018,11,30,0.357,2018,1,19
@@ -8077,7 +8077,7 @@ position,track_name,artist,streams,top_week,top_year,top_month,top_first_day,val
 103,Have Yourself A Merry Little Christmas,Sam Smith,2627645,49,2018,11,30,0.344,2014,0,0
 106,ocean eyes,Billie Eilish,2575923,49,2018,11,30,0.157,2016,0,0
 107,Ruin My Life,Zara Larsson,2574962,49,2018,11,30,0.585,2018,0,0
-112,Feliz Navidad,José Feliciano,2487692,49,2018,11,30,0.963,2002,0,0
+112,Feliz Navidad,Jos Feliciano,2487692,49,2018,11,30,0.963,2002,0,0
 113,Bad Liar,Imagine Dragons,2487435,49,2018,11,30,0.0827,2018,0,0
 114,24/7,Meek Mill,2461741,49,2018,11,30,0.368,2018,0,0
 115,Beautiful,Bazzi,2456330,49,2018,11,30,0.178,2018,7,2
@@ -8107,7 +8107,7 @@ position,track_name,artist,streams,top_week,top_year,top_month,top_first_day,val
 155,Santa Baby,Eartha Kitt,2073424,49,2018,11,30,0.468,2011,0,0
 156,Sleigh Ride,The Ronettes,2037879,49,2018,11,30,0.853,1963,0,0
 157,Congratulations,Post Malone,2031944,49,2018,11,30,0.492,2016,0,0
-158,REEL IT IN,Aminé,2025402,49,2018,11,30,0.423,2018,0,0
+158,REEL IT IN,Amin,2025402,49,2018,11,30,0.423,2018,0,0
 161,Speechless,Dan + Shay,1991165,49,2018,11,30,0.386,2018,0,0
 162,Look At Me!,XXXTENTACION,1966710,49,2018,11,30,0.349,2017,12,30
 163,So High,Ski Mask The Slump God,1957434,49,2018,11,30,0.21,2018,0,0
@@ -8123,11 +8123,11 @@ position,track_name,artist,streams,top_week,top_year,top_month,top_first_day,val
 177,HUMBLE.,Kendrick Lamar,1871397,49,2018,11,30,0.421,2017,3,30
 178,I Like Me Better,Lauv,1870465,49,2018,11,30,0.419,2018,5,19
 179,Meant to Be,Bebe Rexha,1865187,49,2018,11,30,0.579,2017,10,24
-180,Santa Claus Is Coming to Town,Michael Bublé,1863049,49,2018,11,30,0.396,2012,0,0
+180,Santa Claus Is Coming to Town,Michael Bubl,1863049,49,2018,11,30,0.396,2012,0,0
 181,Mona Lisa,Lil Wayne,1862275,49,2018,11,30,0.489,2018,0,0
 182,Mine,Bazzi,1848629,49,2018,11,30,0.717,2018,10,12
 183,Sweet but Psycho,Ava Max,1833568,49,2018,11,30,0.62,2020,0,0
-184,Te Boté - Remix,Nio Garcia,1817795,49,2018,11,30,0.442,2018,0,0
+184,Te Bot - Remix,Nio Garcia,1817795,49,2018,11,30,0.442,2018,0,0
 187,Praise The Lord,A$AP Rocky,1806828,49,2018,11,30,0.294,2018,0,0
 188,Christmas,Mariah Carey,1797104,49,2018,11,30,0.704,1994,0,0
 189,Nowadays,Lil Skies,1796864,49,2018,11,30,0.46,2017,12,17
@@ -8147,7 +8147,7 @@ position,track_name,artist,streams,top_week,top_year,top_month,top_first_day,val
 11,Guardian angel,XXXTENTACION,7102380,50,2018,12,7,0.779,2018,0,0
 12,Lucid Dreams,Juice WRLD,6385277,50,2018,12,7,0.218,2018,0,0
 13,Wake Up in the Sky,Gucci Mane,6366260,50,2018,12,7,0.367,2018,0,0
-14,I don’t let go,XXXTENTACION,6216369,50,2018,12,7,0.478,2018,0,0
+14,I dont let go,XXXTENTACION,6216369,50,2018,12,7,0.478,2018,0,0
 15,All I Want for Christmas Is You,Mariah Carey,6194555,50,2018,12,7,0.35,1994,0,0
 16,Leave Me Alone,Flipp Dinero,5994578,50,2018,12,7,0.742,2019,0,0
 17,SAD!,XXXTENTACION,5857016,50,2018,12,7,0.473,2018,3,2
@@ -8168,7 +8168,7 @@ position,track_name,artist,streams,top_week,top_year,top_month,top_first_day,val
 40,Arms Around You,XXXTENTACION,4095037,50,2018,12,7,0.288,2018,0,0
 41,Taki Taki,DJ Snake,4081064,50,2018,12,7,0.617,2019,0,0
 42,Eastside,benny blanco,3970251,50,2018,12,7,0.319,2018,0,0
-43,It's Beginning to Look a Lot like Christmas,Michael Bublé,3926357,50,2018,12,7,0.363,2011,0,0
+43,It's Beginning to Look a Lot like Christmas,Michael Bubl,3926357,50,2018,12,7,0.363,2011,0,0
 44,lovely,Billie Eilish,3904270,50,2018,12,7,0.12,2018,0,0
 45,A Holly Jolly Christmas - Single Version,Burl Ives,3890049,50,2018,12,7,0.888,1965,0,0
 46,Taste,Tyga,3869018,50,2018,12,7,0.342,2018,0,0
@@ -8218,10 +8218,10 @@ position,track_name,artist,streams,top_week,top_year,top_month,top_first_day,val
 94,Blue Christmas,Elvis Presley,2712792,50,2018,12,7,0.58,1957,0,0
 95,Ric Flair Drip,Offset,2705847,50,2018,12,7,0.333,2017,3,1
 96,Noticed,Lil Mosey,2680204,50,2018,12,7,0.493,2018,0,0
-97,Feliz Navidad,José Feliciano,2668079,50,2018,12,7,0.963,2002,0,0
+97,Feliz Navidad,Jos Feliciano,2668079,50,2018,12,7,0.963,2002,0,0
 98,Don't Come Out The House,Metro Boomin,2660863,50,2018,12,7,0.175,2018,0,0
 99,no tears left to cry,Ariana Grande,2647595,50,2018,12,7,0.354,2018,0,0
-100,Holly Jolly Christmas,Michael Bublé,2626121,50,2018,12,7,0.699,2011,0,0
+100,Holly Jolly Christmas,Michael Bubl,2626121,50,2018,12,7,0.699,2011,0,0
 101,Foot Fungus,Ski Mask The Slump God,2620398,50,2018,12,7,0.745,2018,0,0
 102,I Love It,Kanye West,2564290,50,2018,12,7,0.329,2018,0,0
 103,Happy Xmas,John Lennon,2564030,50,2018,12,7,0.414,2010,0,0
@@ -8272,13 +8272,13 @@ position,track_name,artist,streams,top_week,top_year,top_month,top_first_day,val
 158,Taking A Walk,Trippie Redd,1962338,50,2018,12,7,0.343,2018,0,0
 159,All The Stars,Kendrick Lamar,1961421,50,2018,12,7,0.552,2018,1,4
 160,BEBE,6ix9ine,1958125,50,2018,12,7,0.286,2018,0,0
-161,Santa Claus Is Coming to Town,Michael Bublé,1952913,50,2018,12,7,0.396,2012,0,0
-162,Te Boté - Remix,Nio Garcia,1949722,50,2018,12,7,0.442,2018,0,0
+161,Santa Claus Is Coming to Town,Michael Bubl,1952913,50,2018,12,7,0.396,2012,0,0
+162,Te Bot - Remix,Nio Garcia,1949722,50,2018,12,7,0.442,2018,0,0
 163,Carol of the Bells,Mykola Dmytrovych Leontovych,1949592,50,2018,12,7,0.284,1960,0,0
 166,Roll In Peace,Kodak Black,1912702,50,2018,12,7,0.363,2017,11,7
 167,Call Out My Name,The Weeknd,1891872,50,2018,12,7,0.175,2018,0,0
 168,JAPAN,Famous Dex,1877323,50,2018,12,7,0.841,2018,0,0
-169,REEL IT IN,Aminé,1877140,50,2018,12,7,0.423,2018,0,0
+169,REEL IT IN,Amin,1877140,50,2018,12,7,0.423,2018,0,0
 172,Murder On My Mind,YNW Melly,1874575,50,2018,12,7,0.74,2018,0,0
 173,Walk,Comethazine,1870161,50,2018,12,7,0.744,2018,0,0
 174,Black & White,Juice WRLD,1869359,50,2018,12,7,0.233,2018,0,0
@@ -8303,7 +8303,7 @@ position,track_name,artist,streams,top_week,top_year,top_month,top_first_day,val
 197,This Feeling,The Chainsmokers,1682832,50,2018,12,7,0.449,2018,0,0
 198,SICKO MODE - Skrillex Remix,Travis Scott,1678166,50,2018,12,7,0.443,2018,0,0
 199,Legends,Juice WRLD,1669726,50,2018,12,7,0.381,2018,0,0
-200,Back To You - From 13 Reasons Why – Season 2 Soundtrack,Selena Gomez,1666611,50,2018,12,7,0.508,2018,0,0
+200,Back To You - From 13 Reasons Why  Season 2 Soundtrack,Selena Gomez,1666611,50,2018,12,7,0.508,2018,0,0
 1,Sunflower - Spider-Man: Into the Spider-Verse,Post Malone,12141634,51,2018,12,14,0.913,2018,0,0
 2,"thank u, next",Ariana Grande,11776847,51,2018,12,14,0.412,2019,0,0
 5,Going Bad,Meek Mill,9733478,51,2018,12,14,0.544,2018,0,0
@@ -8333,7 +8333,7 @@ position,track_name,artist,streams,top_week,top_year,top_month,top_first_day,val
 29,when the party's over,Billie Eilish,4502328,51,2018,12,14,0.198,2019,0,0
 30,Nonstop,Drake,4486168,51,2018,12,14,0.423,2018,0,0
 31,Calling My Spirit,Kodak Black,4435367,51,2018,12,14,0.74,2018,0,0
-32,It's Beginning to Look a Lot like Christmas,Michael Bublé,4244370,51,2018,12,14,0.363,2011,0,0
+32,It's Beginning to Look a Lot like Christmas,Michael Bubl,4244370,51,2018,12,14,0.363,2011,0,0
 33,MIA,Bad Bunny,4174683,51,2018,12,14,0.158,2018,0,0
 34,Arms Around You,XXXTENTACION,4167296,51,2018,12,14,0.288,2018,0,0
 35,Taki Taki,DJ Snake,4140759,51,2018,12,14,0.617,2019,0,0
@@ -8374,8 +8374,8 @@ position,track_name,artist,streams,top_week,top_year,top_month,top_first_day,val
 76,In My Feelings,Drake,2923323,51,2018,12,14,0.35,2018,0,0
 77,Blue Christmas,Elvis Presley,2912326,51,2018,12,14,0.58,1957,0,0
 78,breathin,Ariana Grande,2899268,51,2018,12,14,0.364,2018,0,0
-79,Holly Jolly Christmas,Michael Bublé,2878342,51,2018,12,14,0.699,2011,0,0
-80,Feliz Navidad,José Feliciano,2869880,51,2018,12,14,0.963,2002,0,0
+79,Holly Jolly Christmas,Michael Bubl,2878342,51,2018,12,14,0.699,2011,0,0
+80,Feliz Navidad,Jos Feliciano,2869880,51,2018,12,14,0.963,2002,0,0
 81,Noticed,Lil Mosey,2856056,51,2018,12,14,0.493,2018,0,0
 82,Lean Wit Me,Juice WRLD,2804856,51,2018,12,14,0.237,2018,0,0
 83,BIG BANK,YG,2796945,51,2018,12,14,0.112,2018,0,0
@@ -8398,7 +8398,7 @@ position,track_name,artist,streams,top_week,top_year,top_month,top_first_day,val
 100,Hide,Juice WRLD,2525545,51,2018,12,14,0.151,2018,0,0
 101,Beautiful,Bazzi,2512996,51,2018,12,14,0.178,2018,7,2
 102,Everybody Dies In Their Nightmares,XXXTENTACION,2504267,51,2018,12,14,0.689,2017,8,25
-103,I don’t let go,XXXTENTACION,2498183,51,2018,12,14,0.478,2018,0,0
+103,I dont let go,XXXTENTACION,2498183,51,2018,12,14,0.478,2018,0,0
 104,Sleigh Ride,The Ronettes,2495772,51,2018,12,14,0.853,1963,0,0
 105,no tears left to cry,Ariana Grande,2493207,51,2018,12,14,0.354,2018,0,0
 106,Don't Come Out The House,Metro Boomin,2483149,51,2018,12,14,0.175,2018,0,0
@@ -8431,7 +8431,7 @@ position,track_name,artist,streams,top_week,top_year,top_month,top_first_day,val
 137,Foot Fungus,Ski Mask The Slump God,2122868,51,2018,12,14,0.745,2018,0,0
 138,Mine,Bazzi,2122528,51,2018,12,14,0.717,2018,10,12
 139,goosebumps,Travis Scott,2112842,51,2018,12,14,0.442,2016,0,0
-140,Santa Claus Is Coming to Town,Michael Bublé,2088152,51,2018,12,14,0.396,2012,0,0
+140,Santa Claus Is Coming to Town,Michael Bubl,2088152,51,2018,12,14,0.396,2012,0,0
 141,Meant to Be,Bebe Rexha,2057981,51,2018,12,14,0.579,2017,10,24
 142,Carol of the Bells,Mykola Dmytrovych Leontovych,2050021,51,2018,12,14,0.284,1960,0,0
 143,Lust,Lil Skies,2039173,51,2018,12,14,0.519,2017,12,12
@@ -8447,7 +8447,7 @@ position,track_name,artist,streams,top_week,top_year,top_month,top_first_day,val
 157,Natural,Imagine Dragons,1968959,51,2018,12,14,0.22,2018,0,0
 158,HUMBLE.,Kendrick Lamar,1967538,51,2018,12,14,0.421,2017,3,30
 159,Joy To The World,Nat King Cole,1949240,51,2018,12,14,0.662,1962,0,0
-160,Te Boté - Remix,Nio Garcia,1940929,51,2018,12,14,0.442,2018,0,0
+160,Te Bot - Remix,Nio Garcia,1940929,51,2018,12,14,0.442,2018,0,0
 161,Jingle Bell Rock - Daryl's Version,Daryl Hall & John Oates,1939818,51,2018,12,14,0.84,1983,0,0
 162,Roll In Peace,Kodak Black,1936378,51,2018,12,14,0.363,2017,11,7
 163,Tequila,Dan + Shay,1932873,51,2018,12,14,0.494,2018,1,10
@@ -8460,7 +8460,7 @@ position,track_name,artist,streams,top_week,top_year,top_month,top_first_day,val
 170,Walk,Comethazine,1892186,51,2018,12,14,0.744,2018,0,0
 171,Uptown Vibes,Meek Mill,1871812,51,2018,12,14,0.165,2018,0,0
 172,Kamikaze,Lil Mosey,1870642,51,2018,12,14,0.556,2018,0,0
-173,REEL IT IN,Aminé,1867972,51,2018,12,14,0.423,2018,0,0
+173,REEL IT IN,Amin,1867972,51,2018,12,14,0.423,2018,0,0
 174,SLOW DANCING IN THE DARK,Joji,1864732,51,2018,12,14,0.284,2018,0,0
 175,Mistletoe And Holly - Remastered 1999,Frank Sinatra,1853950,51,2018,12,14,0.341,1957,0,0
 176,Taking A Walk,Trippie Redd,1849624,51,2018,12,14,0.343,2018,0,0
@@ -8494,7 +8494,7 @@ position,track_name,artist,streams,top_week,top_year,top_month,top_first_day,val
 16,Last Christmas,Wham!,6398797,52,2018,12,21,0.947,1984,0,0
 17,monster,21 Savage,6121817,52,2018,12,21,0.224,2018,0,0
 18,Leave Me Alone,Flipp Dinero,5995586,52,2018,12,21,0.742,2019,0,0
-19,It's Beginning to Look a Lot like Christmas,Michael Bublé,5732509,52,2018,12,21,0.363,2011,0,0
+19,It's Beginning to Look a Lot like Christmas,Michael Bubl,5732509,52,2018,12,21,0.363,2011,0,0
 20,all my friends,21 Savage,5616199,52,2018,12,21,0.206,2018,0,0
 21,Lucid Dreams,Juice WRLD,5602844,52,2018,12,21,0.218,2018,0,0
 22,Do They Know It's Christmas? - 1984 Version,Band Aid,5516090,52,2018,12,21,0.349,2004,0,0
@@ -8515,7 +8515,7 @@ position,track_name,artist,streams,top_week,top_year,top_month,top_first_day,val
 39,Better Now,Post Malone,4412346,52,2018,12,21,0.341,2018,0,0
 40,Happier,Marshmello,4384016,52,2018,12,21,0.671,2018,0,0
 41,Moonlight,XXXTENTACION,4376153,52,2018,12,21,0.711,2018,0,0
-42,Feliz Navidad,José Feliciano,4263135,52,2018,12,21,0.963,2002,0,0
+42,Feliz Navidad,Jos Feliciano,4263135,52,2018,12,21,0.963,2002,0,0
 43,Armed And Dangerous,Juice WRLD,4184185,52,2018,12,21,0.845,2018,0,0
 44,Blue Christmas,Elvis Presley,4143284,52,2018,12,21,0.58,1957,0,0
 45,can't leave without it,21 Savage,4129975,52,2018,12,21,0.696,2018,0,0
@@ -8526,7 +8526,7 @@ position,track_name,artist,streams,top_week,top_year,top_month,top_first_day,val
 50,"Baby, It's Cold Outside",Brett Eldredge,3814791,52,2018,12,21,0.684,2016,0,0
 51,Run Rudolph Run - Single Version,Chuck Berry,3814018,52,2018,12,21,0.957,1986,0,0
 52,1.5,21 Savage,3793541,52,2018,12,21,0.306,2018,0,0
-53,Holly Jolly Christmas,Michael Bublé,3784654,52,2018,12,21,0.699,2011,0,0
+53,Holly Jolly Christmas,Michael Bubl,3784654,52,2018,12,21,0.699,2011,0,0
 54,Demons and Angels,A Boogie Wit da Hoodie,3779788,52,2018,12,21,0.183,2018,0,0
 55,Underneath the Tree,Kelly Clarkson,3764018,52,2018,12,21,0.689,2013,0,0
 58,Have Yourself A Merry Little Christmas,Sam Smith,3647682,52,2018,12,21,0.344,2014,0,0
@@ -8551,7 +8551,7 @@ position,track_name,artist,streams,top_week,top_year,top_month,top_first_day,val
 83,Calling My Spirit,Kodak Black,3000650,52,2018,12,21,0.74,2018,0,0
 84,Psycho,Post Malone,2996242,52,2018,12,21,0.459,2018,2,23
 85,Santa Baby,Eartha Kitt,2994947,52,2018,12,21,0.468,2011,0,0
-86,Santa Claus Is Coming to Town,Michael Bublé,2992930,52,2018,12,21,0.396,2012,0,0
+86,Santa Claus Is Coming to Town,Michael Bubl,2992930,52,2018,12,21,0.396,2012,0,0
 87,I Fall Apart,Post Malone,2951634,52,2018,12,21,0.291,2016,0,0
 88,Fuck Love,XXXTENTACION,2931020,52,2018,12,21,0.329,2017,1,23
 93,God's Plan,Drake,2909202,52,2018,12,21,0.357,2018,1,19
@@ -8635,7 +8635,7 @@ position,track_name,artist,streams,top_week,top_year,top_month,top_first_day,val
 185,I'll Be Home,Meghan Trainor,1882042,52,2018,12,21,0.292,2014,0,0
 186,Ruin My Life,Zara Larsson,1881210,52,2018,12,21,0.585,2018,0,0
 187,Natural,Imagine Dragons,1874937,52,2018,12,21,0.22,2018,0,0
-188,I'll Be Home for Christmas,Michael Bublé,1865760,52,2018,12,21,0.141,2011,0,0
+188,I'll Be Home for Christmas,Michael Bubl,1865760,52,2018,12,21,0.141,2011,0,0
 189,Hope,XXXTENTACION,1864712,52,2018,12,21,0.225,2018,0,0
 190,Uproar,Lil Wayne,1854130,52,2018,12,21,0.884,2018,0,0
 191,In My Head,Peter Manos,1843379,52,2018,12,21,0.0747,2018,0,0
@@ -8644,5 +8644,5 @@ position,track_name,artist,streams,top_week,top_year,top_month,top_first_day,val
 196,Murder On My Mind,YNW Melly,1820631,52,2018,12,21,0.74,2018,0,0
 197,Be Alright,Dean Lewis,1815988,52,2018,12,21,0.443,2018,0,0
 198,WORKIN ME,Quavo,1811141,52,2018,12,21,0.228,2018,0,0
-199,Te Boté - Remix,Nio Garcia,1807563,52,2018,12,21,0.442,2018,0,0
+199,Te Bot - Remix,Nio Garcia,1807563,52,2018,12,21,0.442,2018,0,0
 200,I Saw Mommy Kissing Santa Claus,The Jackson 5,1798617,52,2018,12,21,0.614,1970,0,0
