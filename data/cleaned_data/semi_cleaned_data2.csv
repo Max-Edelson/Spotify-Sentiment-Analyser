@@ -1,5 +1,5 @@
 position,track_name,artist,streams,top_week,top_year,top_month,top_first_day,valence,release_year,release_month,release_day
-2,No Limit,G-Eazy,7090891,1,2017,12,29,0.405,2017,0,0
+2,No Limit,G-Eazy,7090891,1,2017,12,29,0.405,2017,9,8
 3,I Fall Apart,Post Malone,6673907,1,2017,12,29,0.291,2016,0,0
 4,Bartier Cardi,Cardi B,6624198,1,2017,12,29,0.109,2018,0,0
 5,Gucci Gang,Lil Pump,5975507,1,2017,12,29,0.699,2017,0,0
@@ -180,7 +180,7 @@ position,track_name,artist,streams,top_week,top_year,top_month,top_first_day,val
 200,Ex Calling,6LACK,1196048,1,2017,12,29,0.0588,2016,0,0
 1,rockstar,Post Malone,9855305,2,2018,01,05,0.129,2018,0,0
 2,Finesse - Remix; feat. Cardi B,Bruno Mars,8504248,2,2018,01,05,0.926,2017,0,0
-3,No Limit,G-Eazy,7685058,2,2018,01,05,0.405,2017,0,0
+3,No Limit,G-Eazy,7685058,2,2018,01,05,0.405,2017,9,8
 4,Bartier Cardi,Cardi B,7439471,2,2018,01,05,0.109,2018,0,0
 5,I Fall Apart,Post Malone,6971450,2,2018,01,05,0.291,2016,0,0
 6,Ric Flair Drip,Offset,6419256,2,2018,01,05,0.333,2017,0,0
@@ -359,7 +359,7 @@ position,track_name,artist,streams,top_week,top_year,top_month,top_first_day,val
 1,rockstar,Post Malone,9029173,3,2018,01,12,0.129,2018,0,0
 2,Havana,Camila Cabello,7603077,3,2018,01,12,0.394,2018,0,0
 3,Finesse - Remix; feat. Cardi B,Bruno Mars,7415653,3,2018,01,12,0.926,2017,0,0
-4,No Limit,G-Eazy,7180976,3,2018,01,12,0.405,2017,0,0
+4,No Limit,G-Eazy,7180976,3,2018,01,12,0.405,2017,9,8
 5,Never Be the Same,Camila Cabello,6865390,3,2018,01,12,0.243,2018,0,0
 6,I Fall Apart,Post Malone,6657315,3,2018,01,12,0.291,2016,0,0
 7,Bartier Cardi,Cardi B,6578144,3,2018,01,12,0.109,2018,0,0
@@ -526,7 +526,7 @@ position,track_name,artist,streams,top_week,top_year,top_month,top_first_day,val
 198,Losing Sleep,Chris Young,1312415,3,2018,01,12,0.634,2017,0,0
 1,God's Plan,Drake,26345370,4,2018,01,19,0.357,2018,0,0
 2,rockstar,Post Malone,8635041,4,2018,01,19,0.129,2018,0,0
-5,No Limit,G-Eazy,6657944,4,2018,01,19,0.405,2017,0,0
+5,No Limit,G-Eazy,6657944,4,2018,01,19,0.405,2017,9,8
 6,I Fall Apart,Post Malone,6557861,4,2018,01,19,0.291,2016,0,0
 7,Havana,Camila Cabello,6521146,4,2018,01,19,0.394,2018,0,0
 8,Ric Flair Drip,Offset,6355943,4,2018,01,19,0.333,2017,0,0
@@ -701,7 +701,7 @@ position,track_name,artist,streams,top_week,top_year,top_month,top_first_day,val
 11,Mine,Bazzi,6098151,5,2018,01,26,0.717,2018,0,0
 12,All The Stars,Kendrick Lamar,6057884,5,2018,01,26,0.552,2018,0,0
 13,BBO,Migos,6036111,5,2018,01,26,0.471,2018,0,0
-14,No Limit,G-Eazy,6013966,5,2018,01,26,0.405,2017,0,0
+14,No Limit,G-Eazy,6013966,5,2018,01,26,0.405,2017,9,8
 15,Havana,Camila Cabello,5949366,5,2018,01,26,0.394,2018,0,0
 16,Bartier Cardi,Cardi B,5890467,5,2018,01,26,0.109,2018,0,0
 17,Never Be the Same,Camila Cabello,5518029,5,2018,01,26,0.243,2018,0,0
@@ -1178,7 +1178,7 @@ position,track_name,artist,streams,top_week,top_year,top_month,top_first_day,val
 24,Havana,Camila Cabello,4276479,8,2018,02,16,0.394,2018,0,0
 25,Bartier Cardi,Cardi B,4249742,8,2018,02,16,0.109,2018,0,0
 26,PICK IT UP,Famous Dex,4244306,8,2018,02,16,0.287,2017,0,0
-27,No Limit,G-Eazy,4239226,8,2018,02,16,0.405,2017,0,0
+27,No Limit,G-Eazy,4239226,8,2018,02,16,0.405,2017,9,8
 28,XO Tour Llif3,Lil Uzi Vert,4201302,8,2018,02,16,0.401,2017,0,0
 29,IDGAF,Dua Lipa,3959349,8,2018,02,16,0.51,2017,0,0
 30,Him & I,G-Eazy,3893355,8,2018,02,16,0.191,2017,0,0
@@ -1346,7 +1346,7 @@ position,track_name,artist,streams,top_week,top_year,top_month,top_first_day,val
 30,Nowadays,Lil Skies,4036634,9,2018,02,23,0.46,2017,0,0
 31,Havana,Camila Cabello,4028719,9,2018,02,23,0.394,2018,0,0
 32,Bounce Out With That,YBN Nahmir,4027694,9,2018,02,23,0.381,2018,0,0
-33,No Limit,G-Eazy,4022281,9,2018,02,23,0.405,2017,0,0
+33,No Limit,G-Eazy,4022281,9,2018,02,23,0.405,2017,9,8
 34,Congratulations,Post Malone,3975393,9,2018,02,23,0.492,2016,0,0
 37,New Freezer,Rich The Kid,3787819,9,2018,02,23,0.575,2018,0,0
 38,Let Me Go,Hailee Steinfeld,3783795,9,2018,02,23,0.742,2017,0,0
@@ -1510,7 +1510,7 @@ position,track_name,artist,streams,top_week,top_year,top_month,top_first_day,val
 36,These Days,Rudimental,3777416,10,2018,03,02,0.55,2018,0,0
 37,Congratulations,Post Malone,3761824,10,2018,03,02,0.492,2016,0,0
 38,X,ScHoolboy Q,3718156,10,2018,03,02,0.405,2018,0,0
-39,No Limit,G-Eazy,3563683,10,2018,03,02,0.405,2017,0,0
+39,No Limit,G-Eazy,3563683,10,2018,03,02,0.405,2017,9,8
 40,Let Me Go,Hailee Steinfeld,3535377,10,2018,03,02,0.742,2017,0,0
 41,HUMBLE.,Kendrick Lamar,3518940,10,2018,03,02,0.421,2017,0,0
 42,Let You Down,NF,3516213,10,2018,03,02,0.464,2017,0,0
@@ -1672,7 +1672,7 @@ position,track_name,artist,streams,top_week,top_year,top_month,top_first_day,val
 52,Bank Account,21 Savage,3226576,11,2018,03,09,0.376,2017,0,0
 53,Let You Down,NF,3192051,11,2018,03,09,0.464,2017,0,0
 56,Plain Jane,A$AP Ferg,3136247,11,2018,03,09,0.52,2017,0,0
-57,No Limit,G-Eazy,3092274,11,2018,03,09,0.405,2017,0,0
+57,No Limit,G-Eazy,3092274,11,2018,03,09,0.405,2017,9,8
 58,Powerglide,Rae Sremmurd,3041346,11,2018,03,09,0.584,2018,0,0
 59,MotorSport,Migos,2988494,11,2018,03,09,0.188,2018,0,0
 60,X,ScHoolboy Q,2984278,11,2018,03,09,0.405,2018,0,0
@@ -1835,7 +1835,7 @@ position,track_name,artist,streams,top_week,top_year,top_month,top_first_day,val
 63,before I close my eyes,XXXTENTACION,2899560,12,2018,03,16,0.334,2018,0,0
 64,Fuck Love,XXXTENTACION,2893449,12,2018,03,16,0.329,2017,0,0
 65,Plain Jane,A$AP Ferg,2888062,12,2018,03,16,0.52,2017,0,0
-66,No Limit,G-Eazy,2886852,12,2018,03,16,0.405,2017,0,0
+66,No Limit,G-Eazy,2886852,12,2018,03,16,0.405,2017,9,8
 67,X,Nicky Jam,2810756,12,2018,03,16,0.694,2019,0,0
 68,MotorSport,Migos,2771217,12,2018,03,16,0.188,2018,0,0
 73,Location,Khalid,2655843,12,2018,03,16,0.326,2017,0,0
@@ -1983,7 +1983,7 @@ position,track_name,artist,streams,top_week,top_year,top_month,top_first_day,val
 57,Young Dumb & Broke,Khalid,2825021,13,2018,03,23,0.394,2017,0,0
 58,Wait,Maroon 5,2780666,13,2018,03,23,0.452,2018,0,0
 59,Plain Jane,A$AP Ferg,2773212,13,2018,03,23,0.52,2017,0,0
-62,No Limit,G-Eazy,2742927,13,2018,03,23,0.405,2017,0,0
+62,No Limit,G-Eazy,2742927,13,2018,03,23,0.405,2017,9,8
 63,Sky Walker,Miguel,2710584,13,2018,03,23,0.183,2017,0,0
 64,"I don’t even speak spanish lol - feat. Rio Santana, Judah, Andrez Babii",XXXTENTACION,2707903,13,2018,03,23,0.542,2018,0,0
 65,Heaven,Kane Brown,2676983,13,2018,03,23,0.521,2017,0,0
@@ -2159,7 +2159,7 @@ position,track_name,artist,streams,top_week,top_year,top_month,top_first_day,val
 65,Plain Jane,A$AP Ferg,2615151,14,2018,03,30,0.52,2017,0,0
 66,Tequila,Dan + Shay,2602702,14,2018,03,30,0.494,2018,0,0
 67,These Days,Rudimental,2600836,14,2018,03,30,0.55,2018,0,0
-68,No Limit,G-Eazy,2586147,14,2018,03,30,0.405,2017,0,0
+68,No Limit,G-Eazy,2586147,14,2018,03,30,0.405,2017,9,8
 69,Beautiful,Bazzi,2554303,14,2018,03,30,0.178,2018,0,0
 70,Let You Down,NF,2537447,14,2018,03,30,0.464,2017,0,0
 71,Heaven,Kane Brown,2534934,14,2018,03,30,0.521,2017,0,0
@@ -2330,7 +2330,7 @@ position,track_name,artist,streams,top_week,top_year,top_month,top_first_day,val
 74,Finesse - Remix; feat. Cardi B,Bruno Mars,2561750,15,2018,04,06,0.926,2017,0,0
 75,Marry Me,Thomas Rhett,2544756,15,2018,04,06,0.474,2017,0,0
 76,Sky Walker,Miguel,2542035,15,2018,04,06,0.183,2017,0,0
-77,No Limit,G-Eazy,2500280,15,2018,04,06,0.405,2017,0,0
+77,No Limit,G-Eazy,2500280,15,2018,04,06,0.405,2017,9,8
 78,Beautiful,Bazzi,2497785,15,2018,04,06,0.178,2018,0,0
 79,1950,King Princess,2496569,15,2018,04,06,0.269,2018,0,0
 80,Bad Company,A$AP Rocky,2462391,15,2018,04,06,0.343,2018,0,0
@@ -2502,7 +2502,7 @@ position,track_name,artist,streams,top_week,top_year,top_month,top_first_day,val
 84,You Make It Easy,Jason Aldean,2463481,16,2018,04,13,0.406,2018,0,0
 85,MotorSport,Migos,2441850,16,2018,04,13,0.188,2018,0,0
 86,Sky Walker,Miguel,2440435,16,2018,04,13,0.183,2017,0,0
-87,No Limit,G-Eazy,2407941,16,2018,04,13,0.405,2017,0,0
+87,No Limit,G-Eazy,2407941,16,2018,04,13,0.405,2017,9,8
 88,Finesse - Remix; feat. Cardi B,Bruno Mars,2397742,16,2018,04,13,0.926,2017,0,0
 89,I Was Never There,The Weeknd,2397187,16,2018,04,13,0.155,2018,0,0
 90,44 More,Logic,2392480,16,2018,04,13,0.219,2018,0,0
@@ -2682,7 +2682,7 @@ position,track_name,artist,streams,top_week,top_year,top_month,top_first_day,val
 100,GOTTI,6ix9ine,2423241,17,2018,04,20,0.365,2018,0,0
 101,IDGAF,Dua Lipa,2393465,17,2018,04,20,0.51,2017,0,0
 104,Location,Khalid,2368472,17,2018,04,20,0.326,2017,0,0
-107,No Limit,G-Eazy,2351003,17,2018,04,20,0.405,2017,0,0
+107,No Limit,G-Eazy,2351003,17,2018,04,20,0.405,2017,9,8
 108,Finesse - Remix; feat. Cardi B,Bruno Mars,2332049,17,2018,04,20,0.926,2017,0,0
 109,A$AP Forever,A$AP Rocky,2329785,17,2018,04,20,0.444,2018,0,0
 110,Best Life,Cardi B,2328200,17,2018,04,20,0.665,2018,0,0
@@ -2858,7 +2858,7 @@ position,track_name,artist,streams,top_week,top_year,top_month,top_first_day,val
 106,MotorSport,Migos,2218851,18,2018,04,27,0.188,2018,0,0
 107,Roll In Peace,Kodak Black,2218042,18,2018,04,27,0.363,2017,0,0
 110,Somebody,The Chainsmokers,2180730,18,2018,04,27,0.323,2018,0,0
-111,No Limit,G-Eazy,2175148,18,2018,04,27,0.405,2017,0,0
+111,No Limit,G-Eazy,2175148,18,2018,04,27,0.405,2017,9,8
 112,1950,King Princess,2168106,18,2018,04,27,0.269,2018,0,0
 113,Finesse - Remix; feat. Cardi B,Bruno Mars,2161806,18,2018,04,27,0.926,2017,0,0
 114,2 Vaults,Tee Grizzley,2160003,18,2018,04,27,0.657,2018,0,0
@@ -3035,7 +3035,7 @@ position,track_name,artist,streams,top_week,top_year,top_month,top_first_day,val
 105,Betrayed,Lil Xan,2239711,19,2018,05,04,0.241,2018,0,0
 106,All Girls Are The Same,Juice WRLD,2193921,19,2018,05,04,0.203,2018,0,0
 107,MotorSport,Migos,2147062,19,2018,05,04,0.188,2018,0,0
-108,No Limit,G-Eazy,2145050,19,2018,05,04,0.405,2017,0,0
+108,No Limit,G-Eazy,2145050,19,2018,05,04,0.405,2017,9,8
 109,Roll In Peace,Kodak Black,2127361,19,2018,05,04,0.363,2017,0,0
 110,1-800-273-8255,Logic,2111867,19,2018,05,04,0.357,2017,0,0
 111,IDGAF,Dua Lipa,2110812,19,2018,05,04,0.51,2017,0,0
@@ -3216,7 +3216,7 @@ position,track_name,artist,streams,top_week,top_year,top_month,top_first_day,val
 116,Beautiful,Bazzi,2049459,20,2018,05,11,0.178,2018,0,0
 117,MotorSport,Migos,2038310,20,2018,05,11,0.188,2018,0,0
 118,Roll In Peace,Kodak Black,2032161,20,2018,05,11,0.363,2017,0,0
-119,No Limit,G-Eazy,2029379,20,2018,05,11,0.405,2017,0,0
+119,No Limit,G-Eazy,2029379,20,2018,05,11,0.405,2017,9,8
 120,IDGAF,Dua Lipa,2024208,20,2018,05,11,0.51,2017,0,0
 121,Creeping,Lil Skies,2013675,20,2018,05,11,0.683,2018,0,0
 122,Fell In Luv,Playboi Carti,2010583,20,2018,05,11,0.227,2018,0,0
@@ -3395,7 +3395,7 @@ position,track_name,artist,streams,top_week,top_year,top_month,top_first_day,val
 115,1-800-273-8255,Logic,2004537,21,2018,05,18,0.357,2017,0,0
 116,Drip,Cardi B,2003340,21,2018,05,18,0.268,2018,0,0
 117,MotorSport,Migos,1981913,21,2018,05,18,0.188,2018,0,0
-118,No Limit,G-Eazy,1976261,21,2018,05,18,0.405,2017,0,0
+118,No Limit,G-Eazy,1976261,21,2018,05,18,0.405,2017,9,8
 119,Roll In Peace,Kodak Black,1968304,21,2018,05,18,0.363,2017,0,0
 122,Creeping,Lil Skies,1910930,21,2018,05,18,0.683,2018,0,0
 125,New Rules,Dua Lipa,1890905,21,2018,05,18,0.608,2017,0,0
@@ -3565,7 +3565,7 @@ position,track_name,artist,streams,top_week,top_year,top_month,top_first_day,val
 127,Purity,A$AP Rocky,1979861,22,2018,05,25,0.312,2018,0,0
 130,ATM,J. Cole,1951433,22,2018,05,25,0.351,2018,0,0
 131,MotorSport,Migos,1950304,22,2018,05,25,0.188,2018,0,0
-132,No Limit,G-Eazy,1949042,22,2018,05,25,0.405,2017,0,0
+132,No Limit,G-Eazy,1949042,22,2018,05,25,0.405,2017,9,8
 133,Wanted You,NAV,1948381,22,2018,05,25,0.623,2018,0,0
 134,Marry Me,Thomas Rhett,1946695,22,2018,05,25,0.474,2017,0,0
 135,1-800-273-8255,Logic,1935186,22,2018,05,25,0.357,2017,0,0
@@ -3722,7 +3722,7 @@ position,track_name,artist,streams,top_week,top_year,top_month,top_first_day,val
 120,IDGAF,Dua Lipa,1898639,23,2018,06,01,0.51,2017,0,0
 123,You Make It Easy,Jason Aldean,1892232,23,2018,06,01,0.406,2018,0,0
 124,Thunder,Imagine Dragons,1887473,23,2018,06,01,0.288,2017,0,0
-125,No Limit,G-Eazy,1887098,23,2018,06,01,0.405,2017,0,0
+125,No Limit,G-Eazy,1887098,23,2018,06,01,0.405,2017,9,8
 126,Marry Me,Thomas Rhett,1873837,23,2018,06,01,0.474,2017,0,0
 127,changes,XXXTENTACION,1865345,23,2018,06,01,0.52,2018,0,0
 128,Creeping,Lil Skies,1862878,23,2018,06,01,0.683,2018,0,0
@@ -3903,7 +3903,7 @@ position,track_name,artist,streams,top_week,top_year,top_month,top_first_day,val
 127,Creeping,Lil Skies,1852147,24,2018,06,08,0.683,2018,0,0
 128,Better Not,Louis The Child,1837618,24,2018,06,08,0.393,2018,0,0
 129,You Make It Easy,Jason Aldean,1835239,24,2018,06,08,0.406,2018,0,0
-130,No Limit,G-Eazy,1831810,24,2018,06,08,0.405,2017,0,0
+130,No Limit,G-Eazy,1831810,24,2018,06,08,0.405,2017,9,8
 131,changes,XXXTENTACION,1826858,24,2018,06,08,0.52,2018,0,0
 132,Pray For Me,The Weeknd,1816860,24,2018,06,08,0.188,2018,0,0
 133,Marry Me,Thomas Rhett,1800351,24,2018,06,08,0.474,2017,0,0
@@ -4097,7 +4097,7 @@ position,track_name,artist,streams,top_week,top_year,top_month,top_first_day,val
 147,Bartier Cardi,Cardi B,1782332,25,2018,06,15,0.109,2018,0,0
 148,going down!,XXXTENTACION,1777685,25,2018,06,15,0.525,2018,0,0
 151,DDU-DU DDU-DU,BLACKPINK,1744962,25,2018,06,15,0.389,2018,0,0
-152,No Limit,G-Eazy,1730302,25,2018,06,15,0.405,2017,0,0
+152,No Limit,G-Eazy,1730302,25,2018,06,15,0.405,2017,9,8
 153,Kids See Ghosts,KIDS SEE GHOSTS,1714514,25,2018,06,15,0.338,2018,0,0
 154,Never Be the Same,Camila Cabello,1697722,25,2018,06,15,0.243,2018,0,0
 155,"I don’t even speak spanish lol - feat. Rio Santana, Judah, Andrez Babii",XXXTENTACION,1688854,25,2018,06,15,0.542,2018,0,0
@@ -4274,7 +4274,7 @@ position,track_name,artist,streams,top_week,top_year,top_month,top_first_day,val
 154,Beautiful Crazy,Luke Combs,1696088,26,2018,06,22,0.382,2018,0,0
 155,I Like Me Better,Lauv,1694207,26,2018,06,22,0.419,2018,0,0
 156,Bartier Cardi,Cardi B,1685779,26,2018,06,22,0.109,2018,0,0
-157,No Limit,G-Eazy,1681421,26,2018,06,22,0.405,2017,0,0
+157,No Limit,G-Eazy,1681421,26,2018,06,22,0.405,2017,9,8
 158,going down!,XXXTENTACION,1669215,26,2018,06,22,0.525,2018,0,0
 159,IDGAF,Dua Lipa,1667622,26,2018,06,22,0.51,2017,0,0
 160,4th Dimension,KIDS SEE GHOSTS,1664821,26,2018,06,22,0.734,2018,0,0
@@ -4620,7 +4620,7 @@ position,track_name,artist,streams,top_week,top_year,top_month,top_first_day,val
 156,1942,G-Eazy,1641829,28,2018,07,06,0.835,2018,0,0
 157,Over Now,Post Malone,1639077,28,2018,07,06,0.181,2018,0,0
 160,Narcos,Migos,1633867,28,2018,07,06,0.242,2018,0,0
-161,No Limit,G-Eazy,1629070,28,2018,07,06,0.405,2017,0,0
+161,No Limit,G-Eazy,1629070,28,2018,07,06,0.405,2017,9,8
 164,X,Nicky Jam,1605316,28,2018,07,06,0.694,2019,0,0
 165,Shape of You,Ed Sheeran,1604575,28,2018,07,06,0.931,2017,0,0
 166,New Freezer,Rich The Kid,1600963,28,2018,07,06,0.575,2018,0,0
@@ -4795,7 +4795,7 @@ position,track_name,artist,streams,top_week,top_year,top_month,top_first_day,val
 159,You Make It Easy,Jason Aldean,1668687,29,2018,07,13,0.406,2018,0,0
 162,In My Blood,Shawn Mendes,1655610,29,2018,07,13,0.487,2018,0,0
 165,No Es Justo,J Balvin,1643634,29,2018,07,13,0.721,2018,0,0
-166,No Limit,G-Eazy,1631857,29,2018,07,13,0.405,2017,0,0
+166,No Limit,G-Eazy,1631857,29,2018,07,13,0.405,2017,9,8
 169,Let You Down,NF,1610492,29,2018,07,13,0.464,2017,0,0
 170,Unforgettable,French Montana,1605400,29,2018,07,13,0.733,2017,0,0
 171,New Freezer,Rich The Kid,1599879,29,2018,07,13,0.575,2018,0,0
@@ -4969,7 +4969,7 @@ position,track_name,artist,streams,top_week,top_year,top_month,top_first_day,val
 163,Reborn,KIDS SEE GHOSTS,1588543,30,2018,07,20,0.227,2018,0,0
 164,Finesse,Drake,1587681,30,2018,07,20,0.299,2018,0,0
 165,In My Blood,Shawn Mendes,1579132,30,2018,07,20,0.487,2018,0,0
-166,No Limit,G-Eazy,1574002,30,2018,07,20,0.405,2017,0,0
+166,No Limit,G-Eazy,1574002,30,2018,07,20,0.405,2017,9,8
 167,One Number Away,Luke Combs,1564397,30,2018,07,20,0.527,2017,0,0
 168,Everyday,Logic,1551150,30,2018,07,20,0.422,2018,0,0
 171,New Freezer,Rich The Kid,1533484,30,2018,07,20,0.575,2018,0,0
@@ -5141,7 +5141,7 @@ position,track_name,artist,streams,top_week,top_year,top_month,top_first_day,val
 157,LOVE. FEAT. ZACARI.,Kendrick Lamar,1563573,31,2018,07,27,0.779,2017,0,0
 158,Beautiful Crazy,Luke Combs,1562345,31,2018,07,27,0.382,2018,0,0
 159,I Don't Wanna Do This Anymore,XXXTENTACION,1559850,31,2018,07,27,0.764,2017,0,0
-160,No Limit,G-Eazy,1547047,31,2018,07,27,0.405,2017,0,0
+160,No Limit,G-Eazy,1547047,31,2018,07,27,0.405,2017,9,8
 163,Nephew,Smokepurpp,1536458,31,2018,07,27,0.674,2018,0,0
 164,IDGAF,Dua Lipa,1535416,31,2018,07,27,0.51,2017,0,0
 165,The Way Life Goes,Lil Uzi Vert,1527310,31,2018,07,27,0.756,2017,0,0
@@ -5319,7 +5319,7 @@ position,track_name,artist,streams,top_week,top_year,top_month,top_first_day,val
 179,ocean eyes,Billie Eilish,1518750,32,2018,08,03,0.157,2016,0,0
 180,The Way Life Goes,Lil Uzi Vert,1511524,32,2018,08,03,0.756,2017,0,0
 181,Black & White,Juice WRLD,1498165,32,2018,08,03,0.233,2018,0,0
-184,No Limit,G-Eazy,1479341,32,2018,08,03,0.405,2017,0,0
+184,No Limit,G-Eazy,1479341,32,2018,08,03,0.405,2017,9,8
 185,Be Careful,Cardi B,1474995,32,2018,08,03,0.535,2018,0,0
 186,92 Explorer,Post Malone,1474780,32,2018,08,03,0.861,2018,0,0
 187,Body Like A Back Road,Sam Hunt,1468300,32,2018,08,03,0.661,2017,0,0
@@ -5470,7 +5470,7 @@ position,track_name,artist,streams,top_week,top_year,top_month,top_first_day,val
 192,Spoil My Night,Post Malone,1498069,33,2018,08,10,0.225,2018,0,0
 193,Watch,Travis Scott,1496122,33,2018,08,10,0.252,2018,0,0
 194,Delicate,Taylor Swift,1487918,33,2018,08,10,0.0499,2017,0,0
-195,No Limit,G-Eazy,1470211,33,2018,08,10,0.405,2017,0,0
+195,No Limit,G-Eazy,1470211,33,2018,08,10,0.405,2017,9,8
 196,Clandestino,Shakira,1469254,33,2018,08,10,0.881,2018,0,0
 197,Body Like A Back Road,Sam Hunt,1466957,33,2018,08,10,0.661,2017,0,0
 198,Nico And The Niners,Twenty One Pilots,1464611,33,2018,08,10,0.328,2018,0,0
@@ -5627,7 +5627,7 @@ position,track_name,artist,streams,top_week,top_year,top_month,top_first_day,val
 193,Best Part,H.E.R.,1469851,34,2018,08,17,0.413,2017,0,0
 194,I Don't Wanna Do This Anymore,XXXTENTACION,1467195,34,2018,08,17,0.764,2017,0,0
 195,Can’t Take A Joke,Drake,1465654,34,2018,08,17,0.446,2018,0,0
-196,No Limit,G-Eazy,1461135,34,2018,08,17,0.405,2017,0,0
+196,No Limit,G-Eazy,1461135,34,2018,08,17,0.405,2017,9,8
 197,Missing My Idols,Trippie Redd,1458903,34,2018,08,17,0.528,2018,0,0
 198,TOOTIMETOOTIMETOOTIME,The 1975,1453052,34,2018,08,17,0.518,2018,0,0
 199,Silence,Marshmello,1435913,34,2018,08,17,0.286,2017,0,0
@@ -5787,7 +5787,7 @@ position,track_name,artist,streams,top_week,top_year,top_month,top_first_day,val
 193,Best Part,H.E.R.,1491736,35,2018,08,24,0.413,2017,0,0
 194,Euphoria,BTS,1479490,35,2018,08,24,0.562,2018,0,0
 195,Fr Fr,Wiz Khalifa,1470897,35,2018,08,24,0.327,2018,0,0
-196,No Limit,G-Eazy,1468551,35,2018,08,24,0.405,2017,0,0
+196,No Limit,G-Eazy,1468551,35,2018,08,24,0.405,2017,9,8
 197,Connection,OneRepublic,1465340,35,2018,08,24,0.624,2018,0,0
 198,Carry On,XXXTENTACION,1458856,35,2018,08,24,0.383,2017,0,0
 199,Outside Today,YoungBoy Never Broke Again,1453741,35,2018,08,24,0.0585,2018,0,0
@@ -5954,7 +5954,7 @@ position,track_name,artist,streams,top_week,top_year,top_month,top_first_day,val
 194,Fr Fr,Wiz Khalifa,1463706,36,2018,08,31,0.327,2018,0,0
 195,KOD,J. Cole,1454382,36,2018,08,31,0.199,2018,0,0
 196,You Make It Easy,Jason Aldean,1452193,36,2018,08,31,0.406,2018,0,0
-197,No Limit,G-Eazy,1448433,36,2018,08,31,0.405,2017,0,0
+197,No Limit,G-Eazy,1448433,36,2018,08,31,0.405,2017,9,8
 198,Outside Today,YoungBoy Never Broke Again,1447776,36,2018,08,31,0.0585,2018,0,0
 199,Shape of You,Ed Sheeran,1444077,36,2018,08,31,0.931,2017,0,0
 4,FEFE,6ix9ine,9539832,37,2018,09,07,0.376,2018,0,0
@@ -6446,7 +6446,7 @@ position,track_name,artist,streams,top_week,top_year,top_month,top_first_day,val
 180,LOVE. FEAT. ZACARI.,Kendrick Lamar,1534619,39,2018,09,21,0.779,2017,0,0
 181,Normal,Eminem,1521349,39,2018,09,21,0.803,2018,0,0
 182,No Role Modelz,J. Cole,1521132,39,2018,09,21,0.463,2014,0,0
-185,No Limit,G-Eazy,1506492,39,2018,09,21,0.405,2017,0,0
+185,No Limit,G-Eazy,1506492,39,2018,09,21,0.405,2017,9,8
 186,Unforgettable,French Montana,1496657,39,2018,09,21,0.733,2017,0,0
 187,ocean eyes,Billie Eilish,1492626,39,2018,09,21,0.157,2016,0,0
 188,Freaky Friday,Lil Dicky,1490522,39,2018,09,21,0.755,2018,0,0
