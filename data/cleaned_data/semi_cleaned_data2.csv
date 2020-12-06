@@ -17296,8 +17296,12 @@ position,track_name,artist,streams,top_week,top_year,top_month,top_first_day,val
 198,WORKIN ME,Quavo,1811141,52,2018,12,21,0.228,2018,0,0
 199,Te Boté - Remix,Nio Garcia,1807563,52,2018,12,21,0.442,2018,0,0
 <<<<<<< HEAD
+<<<<<<< HEAD
 200,I Saw Mommy Kissing Santa Claus,The Jackson 5,1798617,52,2018,12,21,0.614,1970,0,0
 >>>>>>> cf6ee49b3b6fa6a2e9e4f63d0caf40781e9b9276
+=======
+200,I Saw Mommy Kissing Santa Claus,The Jackson 5,1798617,52,2018,12,21,0.614,1970,0,0
+>>>>>>> parent of cf6ee49... added more dates
 =======
 200,I Saw Mommy Kissing Santa Claus,The Jackson 5,1798617,52,2018,12,21,0.614,1970,0,0
 >>>>>>> parent of cf6ee49... added more dates
