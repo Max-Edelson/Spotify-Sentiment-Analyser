@@ -19,7 +19,7 @@ We will analyze the top 200 listened-to songs on Spotify for each week in 2018 t
 | Total Features = 12 |					
 
 **Songs removed from analysis**
-| $song_count | $reason |
+| song_count | reason |
 | --- | --- |
 | 1753 | Spotify song was not present in Kaggle data set |
 | 3470 | Was a top song too soon after release date (< 3 months) |
