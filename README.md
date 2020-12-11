@@ -7,7 +7,7 @@ We will analyze the top 200 listened-to songs on Spotify for each week in 2018 t
 | position	| Ranking among weekly top 200 songs	| numerical	| 1 - 200	| -	| - |
 | track_name	| Song name	| categorical	| -	| 463	| no |
 | artist	| Alphabetical first artist listed for the song	| categorical	| -	| 231	| no |
-| streams	| The number of steams this song had	| numerical	| 1196048 - 23636303	| -	| - |
+| streams	| The number of streams this song had	| numerical	| 1196048 - 23636303	| -	| - |
 | top_week	| Which week this song belongs too	| numerical	| 1 - 52	| -	| - |
 | top_year	| What year it was when it was in the top 200	| numerical	| 2017 - 2018	| -	| - |
 | top_month	| What month it was when it was in the top 200	| numerical	| 1 - 12	| -	| - |
