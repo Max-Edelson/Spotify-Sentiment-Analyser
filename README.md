@@ -1,6 +1,7 @@
 # top-spotify-songs-valence
 We will analyze the top 200 listened-to songs on Spotify for each week in 2018 to find if sad songs (valence &lt; 0.4) are generally listened to in greater frequency throughout certain periods during the year.
 
+**Spotify Valence Attributes Information**
 | feature_name	| description	| type_of_data | range (numerical only) | possible values (categorical only, # of possibilities) | may contain multiple values (categorical only) |
 | ---	| --- |	--- |	--- |	--- |	--- |
 | position	| Ranking among weekly top 200 songs	| numerical	| 1 - 200	| -	| - |
@@ -16,3 +17,9 @@ We will analyze the top 200 listened-to songs on Spotify for each week in 2018 t
 | release_month	| The month this song was released	| numerical	| 1 - 12	| -	| - |
 | release_day	| The day this song was released	| numerical	| 1 - 31	| -	| - |
 | Total Features = 12 |					
+
+**Songs removed from analysis**
+| $song_count | $reason |
+| --- | --- |
+| 1753 | Spotify song was not present in Kaggle data set |
+| 3470 | Was a top song too soon after release date (< 3 months) |
