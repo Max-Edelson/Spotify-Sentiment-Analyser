@@ -33,7 +33,7 @@ ggplot(data = numSongsPerWeek, aes(x = ï..week, y = ratio, group = 1)) +
         panel.grid.major = element_line(colour = "black")) 
 
 
-#Print mean of valence for songs with < 0.4 valence per week
+#output mean of valence for songs with < 0.4 valence per week
 for (i in 1:52) {
   print(summary(spotifyData$valence[spotifyData$valence < 0.4
                                     & spotifyData$top_week == i]), file = "testing.csv")
@@ -41,14 +41,13 @@ for (i in 1:52) {
 }
 
 
-#Calculate the saddest week by:
-#summing the streams of sad songs each week and dividing by 1 + its mean valence that week
+#output number of streams each week of sad songs
 for(i in 1:52){
   print(sum(spotifyData$streams[spotifyData$valence < 0.4
                                    & spotifyData$top_week == i]))
 }
 
-#Plot of the number of streams of sad songs each week
+#Plot of the number of streams of sad songs divided by 1 + the mean valence for each week
 ggplot(data = numSongsPerWeek, aes(x = ï..week)) +
   
   geom_line(aes(y = streams_divided_by_valence_mean), color = "dark green", size = 1.2) +
