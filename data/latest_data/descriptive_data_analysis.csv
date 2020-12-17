@@ -1,4 +1,4 @@
-﻿week,numSongsLowValence,ratio,valenceMean,valenceMedian,totalStreams,streamsDividedByValenceMean
+﻿week,num_songs_with_low_valence,ratio,valence_mean,valence_median,totalStreams,streams_divided_by_valence_mean
 1,47,0.235,0.2627,0.284,121057162,95871673
 2,48,0.24,0.2516,0.264,136493085,109054877
 3,44,0.22,0.2528,0.2785,134727040,107540740
